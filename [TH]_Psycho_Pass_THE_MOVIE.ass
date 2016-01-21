@@ -15,9 +15,8 @@ Video File: F:/[1] ANIME/Psycho-Pass The Movie (1080p Blu-ray 8bit AC3).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 68
-Active Line: 71
-Video Position: 10116
+Active Line: 3
+Video Position: 1148
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,8 +27,8 @@ Style: TitleCard,Open Sans Semibold,63,&H00FFFFFF,&H000000FF,&H00020713,&H000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:31.95,0:00:36.74,Default,,0,0,0,,ราวกับว่าพวกเราเป็นสิ่งมีชีวิตที่กำลังวิวัฒนาการอยู่บนจุดสูงสุด
 Dialogue: 0,0:00:36.87,0:00:40.41,Default,,0,0,0,,บางครั้งสูงยิ่งกว่ายอดหอระฆังของโบสถ์
-Dialogue: 0,0:00:40.58,0:00:45.42,Default,,0,0,0,,จนในที่สุด การพัฒนาต่อไปนั้นกลายเป็นเรื่องยากและอันตราย
-Dialogue: 0,0:00:45.58,0:00:47.92,Default,,0,0,0,,จนในที่สุดก็ล่มสลายลง
+Dialogue: 0,0:00:40.58,0:00:45.42,Default,,0,0,0,,ในที่สุด การพัฒนาต่อไปนั้นกลายเป็นเรื่องยากและอันตราย
+Dialogue: 0,0:00:45.58,0:00:47.92,Default,,0,0,0,,สิ่งที่รอคอยก็คือการล่มสลาย
 Dialogue: 0,0:00:49.38,0:00:50.59,Default,,0,0,0,,พวกมันกำลังมา
 Dialogue: 0,0:00:56.43,0:00:57.68,Default,,0,0,0,,ซ้าย 3 คลิก
 Dialogue: 0,0:00:58.76,0:01:00.27,Default,,0,0,0,,ขวา 4 คลิก
