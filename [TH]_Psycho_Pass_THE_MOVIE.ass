@@ -1126,47 +1126,46 @@ Dialogue: 0,1:38:39.33,1:38:42.75,Default,,0,0,0,,has only known him for about t
 Dialogue: 0,1:38:44.79,1:38:50.25,Default,,0,0,0,,You see, I came to SEAUn on the same flight you did.
 Dialogue: 0,1:38:50.34,1:38:54.09,Default,,0,0,0,,Switching bodies is a pain when you have to cross the ocean.
 Dialogue: 0,1:38:54.34,1:38:58.30,Default,,0,0,0,,So it's just as Inspector Shimotsuki guessed.
-Dialogue: 0,1:38:58.64,1:39:02.22,Default,,0,0,0,,It's all gone according to your plan, hasn't it,
-Dialogue: 0,1:39:03.18,1:39:05.14,Default,,0,0,0,,Sybil System?
-Dialogue: 0,1:39:06.27,1:39:09.48,Default,,0,0,0,,Colonel Nicholas' aim was to complete
-Dialogue: 0,1:39:09.65,1:39:12.48,Default,,0,0,0,,the construction of Shamballa Float, even
-Dialogue: 0,1:39:12.57,1:39:16.61,Default,,0,0,0,,if he had to overcome Han's opposition to it.
-Dialogue: 0,1:39:17.32,1:39:22.33,Default,,0,0,0,,Japan offered up its unmanned weapons systems in exchange,
-Dialogue: 0,1:39:22.41,1:39:27.42,Default,,0,0,0,,which ended up becoming our trump card in taking control of SEAUn.
-Dialogue: 0,1:39:28.63,1:39:32.00,Default,,0,0,0,,We were attracted to the concept of setting up a model city
-Dialogue: 0,1:39:32.13,1:39:36.51,Default,,0,0,0,,overseas that made use of the Sybil System.
-Dialogue: 0,1:39:37.05,1:39:40.10,Default,,0,0,0,,What both parties needed was a
-Dialogue: 0,1:39:40.18,1:39:42.47,Default,,0,0,0,,cooperative Chairman who would support
-Dialogue: 0,1:39:42.56,1:39:45.60,Default,,0,0,0,,and greenlight the project.
-Dialogue: 0,1:39:46.69,1:39:49.31,Default,,0,0,0,,Staging a foreign intervention...
-Dialogue: 0,1:39:50.15,1:39:53.73,Default,,0,0,0,,conspiring to assassinate the real Chairman Han...
-Dialogue: 0,1:39:54.74,1:39:57.45,Default,,0,0,0,,those are clearly criminal acts!
-Dialogue: 0,1:39:57.91,1:40:01.16,Default,,0,0,0,,This nation, for all intents and purposes,
-Dialogue: 0,1:40:01.24,1:40:03.99,Default,,0,0,0,,had no organized government.
-Dialogue: 0,1:40:04.37,1:40:09.96,Default,,0,0,0,,Corruption. Discrimination. Racial strife that was almost religious in nature.
-Dialogue: 0,1:40:11.08,1:40:14.21,Default,,0,0,0,,Two years ago, SEAUn was
-Dialogue: 0,1:40:14.34,1:40:18.01,Default,,0,0,0,,a group of "allied nations" in name only.
-Dialogue: 0,1:40:18.43,1:40:21.89,Default,,0,0,0,,All you wanted to do was expand the Sybil System's area of control.
-Dialogue: 0,1:40:22.26,1:40:24.14,Default,,0,0,0,,We do not possess the simple
-Dialogue: 0,1:40:24.22,1:40:27.73,Default,,0,0,0,,lust to expand our dominion that you believe we do.
-Dialogue: 0,1:40:27.85,1:40:31.23,Default,,0,0,0,,"The greatest happiness of the greatest number."
-Dialogue: 0,1:40:31.36,1:40:35.57,Default,,0,0,0,,In other words, it depends on how you define the extents.
-Dialogue: 0,1:40:36.57,1:40:41.24,Default,,0,0,0,,You have judged our actions to be criminal behavior.
-Dialogue: 0,1:40:41.91,1:40:45.16,Default,,0,0,0,,However, a crime is merely a deviation from the law.
-Dialogue: 0,1:40:45.24,1:40:47.25,Default,,0,0,0,,Laws don't simply exist for their own sake.
-Dialogue: 0,1:40:48.41,1:40:51.83,Default,,0,0,0,,The law wouldn't exist without the support of the people.
-Dialogue: 0,1:40:52.13,1:40:55.59,Default,,0,0,0,,You've seized this country,
-Dialogue: 0,1:40:55.96,1:40:58.59,Default,,0,0,0,,but you haven't received the consent of the people.
-Dialogue: 0,1:40:59.05,1:41:01.76,Default,,0,0,0,,All you've done is fool a dictator and lie your way in.
-Dialogue: 0,1:41:02.93,1:41:06.77,Default,,0,0,0,,In order to bring peace and quiet to a people
-Dialogue: 0,1:41:06.85,1:41:09.85,Default,,0,0,0,,constantly at risk of starvation or slaughter,
-Dialogue: 0,1:41:09.94,1:41:13.48,Default,,0,0,0,,it was necessary to take the fastest measures possible.
-Dialogue: 0,1:41:14.57,1:41:20.11,Default,,0,0,0,,We deemed this to be the fastest and most optimal way of doing things.
-Dialogue: 0,1:41:21.82,1:41:24.83,Default,,0,0,0,,You need to resign, Chairman Han.
-Dialogue: 0,1:41:25.41,1:41:29.75,Default,,0,0,0,,And in a free election, select a new leader.
-Dialogue: 0,1:41:30.00,1:41:32.62,Default,,0,0,0,,You need to discuss the pros and cons of bringing in the Sybil System,
-Dialogue: 0,1:41:32.87,1:41:35.00,Default,,0,0,0,,and decide based on the consensus of the people.
+Dialogue: 0,1:38:58.64,1:39:02.22,Default,,0,0,0,,ทุกอย่างเป็นไปตามแผนของพวกคุณสินะ
+Dialogue: 0,1:39:03.18,1:39:05.14,Default,,0,0,0,,ระบบซิบิล ?
+Dialogue: 0,1:39:06.27,1:39:09.48,Default,,0,0,0,,เป้าหมายของ พันเอกนิโคลัสคือ
+Dialogue: 0,1:39:09.65,1:39:12.48,Default,,0,0,0,,สร้างเกาะชัมบาล่านี้ขั้นมา ถึงแม้จะต้องเอาชนะฮานก็ตาม
+Dialogue: 0,1:39:12.57,1:39:16.61,Default,,0,0,0,,(รวม)
+Dialogue: 0,1:39:17.32,1:39:22.33,Default,,0,0,0,,ระบบอาวุธไร้คนขับทั้งหลายจากญี่ปุ่นที่ถูกแลกเปลี่ยนมา
+Dialogue: 0,1:39:22.41,1:39:27.42,Default,,0,0,0,,กลายเป็นไพ่ใบสำคัญที่จะทำให้เราควบคุม SEAUn ได้ค่ะ
+Dialogue: 0,1:39:28.63,1:39:32.00,Default,,0,0,0,,แล้วเราก็ยังสนใจเรื่องที่สร้างเมืองตัวอย่างในต่างแดน
+Dialogue: 0,1:39:32.13,1:39:36.51,Default,,0,0,0,,ที่ใช้ระบบซิบิลอีกด้วยค่ะ
+Dialogue: 0,1:39:37.05,1:39:40.10,Default,,0,0,0,,สิ่งที่เราทั้งคู่ต้องการก็คือWhat both parties needed was a
+Dialogue: 0,1:39:40.18,1:39:42.47,Default,,0,0,0,,การอนุมัตโครงการ
+Dialogue: 0,1:39:42.56,1:39:45.60,Default,,0,0,0,,ที่มีประธานฮานเป็นผู้สนับสนุนค่ะ
+Dialogue: 0,1:39:46.69,1:39:49.31,Default,,0,0,0,,เล่นละครตบตาเพื่อรุกรานต่างชาติ
+Dialogue: 0,1:39:50.15,1:39:53.73,Default,,0,0,0,,มีส่วนรู้เห็นกับการสังหารประธานฮานตัวจริง
+Dialogue: 0,1:39:54.74,1:39:57.45,Default,,0,0,0,,พวกนี้เป็นอาชญากรรมชัดๆ !
+Dialogue: 0,1:39:57.91,1:40:01.16,Default,,0,0,0,,ประเทศนี้ ไม่มีรัฐบาลจริงๆ
+Dialogue: 0,1:40:01.24,1:40:03.99,Default,,0,0,0,,ที่มีจุดมุ่งหมายและเจตจำนง
+Dialogue: 0,1:40:04.37,1:40:09.96,Default,,0,0,0,,คอรัปชั่น การเลือกปฎิบัติ การเหยียดเชื้อชาติที่มีอยู่ทุกที่
+Dialogue: 0,1:40:11.08,1:40:14.21,Default,,0,0,0,,สองปีก่อน ตอนนั้น SEAUn น่ะ
+Dialogue: 0,1:40:14.34,1:40:18.01,Default,,0,0,0,,เป็นกลุ่มของสหพันธมิตร (allied nations) เพียงในชื่อเท่านั้น
+Dialogue: 0,1:40:18.43,1:40:21.89,Default,,0,0,0,,ก็แค่อยากขยายอาณาเขตของระบบซิบิลเท่านั้นไม่ใช่รึไง
+Dialogue: 0,1:40:22.26,1:40:24.14,Default,,0,0,0,,พวกเราไม่ได้คิดตื้นๆ แค่การขยายเขตปกครองอย่างที่คุณว่ามาหรอก
+Dialogue: 0,1:40:24.22,1:40:27.73,Default,,0,0,0,,(รวม)
+Dialogue: 0,1:40:27.85,1:40:31.23,Default,,0,0,0,,"ความสุขที่ยิ่งใหญ่ที่สุดของจำนวนที่มากที่สุด"
+Dialogue: 0,1:40:31.36,1:40:35.57,Default,,0,0,0,,หรือก็คือ มันขึ้นอยู่กับการกำหนดขอบเขตของคุณค่ะit depends on how you define the extents.
+Dialogue: 0,1:40:36.57,1:40:41.24,Default,,0,0,0,,คุณตัดสินว่าพฤติกรรมของเรามีความผิดทางอาญา
+Dialogue: 0,1:40:41.91,1:40:45.16,Default,,0,0,0,,แต่ว่าอาชญากรรมน่ะ มาจากการตีความจากกฏหมาย . . . .
+Dialogue: 0,1:40:45.24,1:40:47.25,Default,,0,0,0,,ทำตามสิ่งที่บัญญัติไว้ไม่ใช่ทั้งหมดของกฏหมายหรอกนะ
+Dialogue: 0,1:40:48.41,1:40:51.83,Default,,0,0,0,,กฏหมายจะไม่เกิดมาได้ถ้าไม่ได้รับการสนับสนุนจากประชาชน
+Dialogue: 0,1:40:52.13,1:40:55.59,Default,,0,0,0,,พวกคุณน่ะ เข้ามาปกครองประเทศนี้
+Dialogue: 0,1:40:55.96,1:40:58.59,Default,,0,0,0,,โดยที่ผู้คนยังไม่ได้ยินยอม
+Dialogue: 0,1:40:59.05,1:41:01.76,Default,,0,0,0,,ที่ทำก็แค่หลอกลวงผู้บงการ (อีกอย่างจะแปลว่า ระบบเผด็จการ ก็ได้ ไม่รู้จะใช้คำไหนดี) แล้วก็ยัดเยียดตัวเองเข้ามาเท่านั้นเอง
+Dialogue: 0,1:41:02.93,1:41:06.77,Default,,0,0,0,,เพื่อคืนความสุข (!) ความสงบอย่างต่อเนื่องมาให้พวกคนที่กำลังจะอดตาย หรือถูกฆ่านั้น
+Dialogue: 0,1:41:06.85,1:41:09.85,Default,,0,0,0,,()
+Dialogue: 0,1:41:09.94,1:41:13.48,Default,,0,0,0,,จำเป็นต้องใช้มาตราการที่เป็นไปได้เร็วที่สุดค่ะ
 Dialogue: 0,1:41:14.57,1:41:20.11,Default,,0,0,0,,วิธีดังกล่าวนั้น พวกเราได้ลงความเห็นแล้วว่าเป็นวิธีที่เร็วและเหมาะสมที่สุดที่จะพัฒนาประเทศนี้ค่ะ
+Dialogue: 0,1:41:21.82,1:41:24.83,Default,,0,0,0,,ลาออกจากตำแหน่งเถอะค่ะ ประธานฮาน
+Dialogue: 0,1:41:25.41,1:41:29.75,Default,,0,0,0,,แล้วจัดให้มีการเลือกตั่งอย่างโปร่งใส เพื่อคัดเลือกนายกคนใหม่ซะ
+Dialogue: 0,1:41:30.00,1:41:32.62,Default,,0,0,0,,คุณต้องอธิบายข้อดีข้อเสีย ของการนำระบบซิบิลมาใช้
+Dialogue: 0,1:41:32.87,1:41:35.00,Default,,0,0,0,,และตัดสินใจผ่านกระบวนการลงประชามติ
 Dialogue: 0,1:41:35.67,1:41:39.63,Default,,0,0,0,,And if the people of this nation reject us?
 Dialogue: 0,1:41:40.55,1:41:42.97,Default,,0,0,0,,If, of their own will, the people opt to throw away this brief peace
 Dialogue: 0,1:41:43.22,1:41:48.97,Default,,0,0,0,,and this shining city of dreams?
