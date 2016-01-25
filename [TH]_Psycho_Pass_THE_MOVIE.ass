@@ -10,12 +10,14 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: F:/[1] ANIME/[IEgg-Raws] The Movie PSYCHO-PASS (BDRip 1920X1080 x264 FLAC 5.1Ch).mkv
-Video File: F:/[1] ANIME/[IEgg-Raws] The Movie PSYCHO-PASS (BDRip 1920X1080 x264 FLAC 5.1Ch).mkv
+Audio File: F:/[1] ANIME/Psycho-Pass The Movie (1080p Blu-ray 8bit AC3).mp4
+Video File: F:/[1] ANIME/Psycho-Pass The Movie (1080p Blu-ray 8bit AC3).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Video Position: 343
+Scroll Position: 69
+Active Line: 75
+Video Position: 10326
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,84 +26,84 @@ Style: TitleCard,Open Sans Semibold,63,&H00FFFFFF,&H000000FF,&H00020713,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:31.95,0:00:36.74,Default,,0,0,0,,As though we are atop living stilts which continuously grow,
-Dialogue: 0,0:00:36.87,0:00:40.41,Default,,0,0,0,,occasionally taller even than church belfries,
-Dialogue: 0,0:00:40.58,0:00:45.42,Default,,0,0,0,,until eventually, walking becomes difficult and dangerous
-Dialogue: 0,0:00:45.58,0:00:47.92,Default,,0,0,0,,and at last, the fall.
-Dialogue: 0,0:00:49.38,0:00:50.59,Default,,0,0,0,,They're coming.
-Dialogue: 0,0:00:56.43,0:00:57.68,Default,,0,0,0,,Three clicks left...
-Dialogue: 0,0:00:58.76,0:01:00.27,Default,,0,0,0,,Four clicks right...
-Dialogue: 0,0:01:01.39,0:01:04.60,Default,,0,0,0,,One click left...\NTwo clicks right...
-Dialogue: 0,0:01:07.23,0:01:07.94,Default,,0,0,0,,Now!
-Dialogue: 0,0:01:09.94,0:01:11.61,Default,,0,0,0,,You did it, Kougami!
-Dialogue: 0,0:01:21.74,0:01:25.58,Default,,0,0,0,,I say, it is the cruel law of art that
-Dialogue: 0,0:01:25.79,0:01:27.92,Default,,0,0,0,,human beings should die
-Dialogue: 0,0:01:28.21,0:01:31.25,Default,,0,0,0,,and that we ourselves must die after
-Dialogue: 0,0:01:31.42,0:01:34.76,Default,,0,0,0,,exhausting the gamut of suffering,
-Dialogue: 0,0:01:35.13,0:01:39.60,Default,,0,0,0,,so that the grass, not of oblivion but of eternal life
-Dialogue: 0,0:01:39.97,0:01:43.02,Default,,0,0,0,,may grow, the thick grass of fecund works.
-Dialogue: 0,0:02:04.00,0:02:05.62,Default,,0,0,0,,Do an equipment check.
-Dialogue: 0,0:02:12.25,0:02:13.63,Default,,0,0,0,,Power the glasses.
-Dialogue: 0,0:02:17.63,0:02:20.47,Default,,0,0,0,,Download the map and our schedule.
-Dialogue: 0,0:02:23.22,0:02:25.56,Default,,0,0,0,,No problems. They're working.
-Dialogue: 0,0:02:28.19,0:02:30.81,Default,,0,0,0,,Don't deviate from the specified route.
-Dialogue: 0,0:02:31.52,0:02:32.57,Default,,0,0,0,,Let's go.
-Dialogue: 0,0:03:45.64,0:03:47.06,Default,,0,0,0,,Did you find something?
-Dialogue: 0,0:03:50.81,0:03:53.56,Default,,0,0,0,,It's nice to see that my customers got here safely.
-Dialogue: 0,0:03:55.40,0:03:57.07,Default,,0,0,0,,Identity confirmed.
-Dialogue: 0,0:03:59.57,0:04:01.74,Default,,0,0,0,,You are Mr. Miyazaki?
-Dialogue: 0,0:04:01.82,0:04:04.49,Default,,0,0,0,,Hey c'mon. Give me a sec.
-Dialogue: 0,0:04:04.66,0:04:06.95,Default,,0,0,0,,Let me turn my translator on first.
-Dialogue: 0,0:04:09.66,0:04:11.25,Default,,0,0,0,,Say something.
-Dialogue: 0,0:04:12.29,0:04:13.37,Default,,0,0,0,,We need a car.
-Dialogue: 0,0:04:14.25,0:04:15.38,Default,,0,0,0,,We need a car.
-Dialogue: 0,0:04:16.29,0:04:18.63,Default,,0,0,0,,Okay. Let's get down to business.
-Dialogue: 0,0:04:19.88,0:04:22.26,Default,,0,0,0,,I want it just as I ordered it earlier.
-Dialogue: 0,0:04:22.43,0:04:25.51,Default,,0,0,0,,An older-model car, without interior cameras.
-Dialogue: 0,0:04:25.80,0:04:29.60,Default,,0,0,0,,It needs to have the lifeform scanners fooled too.
-Dialogue: 0,0:04:30.39,0:04:31.64,Default,,0,0,0,,Not a problem.
-Dialogue: 0,0:04:31.73,0:04:34.56,Default,,0,0,0,,Show me the money, and I'll get you anything.
-Dialogue: 0,0:04:44.99,0:04:47.74,Default,,0,0,0,,Don't get tagged by the street scanners, alright?
-Dialogue: 0,0:04:48.66,0:04:50.50,Default,,0,0,0,,I can tell just by looking at you guys
-Dialogue: 0,0:04:51.00,0:04:53.00,Default,,0,0,0,,that your Psycho-Passes aren't good.
-Dialogue: 0,0:04:58.50,0:05:00.71,Default,,0,0,0,,I'm surprised you found this place.
-Dialogue: 0,0:05:01.13,0:05:03.51,Default,,0,0,0,,I've been using an information broker these days.
-Dialogue: 0,0:05:05.43,0:05:06.43,Default,,0,0,0,,Huh.
-Dialogue: 0,0:05:07.64,0:05:10.18,Default,,0,0,0,,Sort of like one of those old-school detectives.
-Dialogue: 0,0:05:51.85,0:05:53.60,Default,,0,0,0,,You see the info from the Pillbugs
-Dialogue: 0,0:05:53.72,0:05:55.85,Default,,0,0,0,,on your Terminals, right?
-Dialogue: 0,0:05:56.27,0:05:58.23,Default,,0,0,0,,They're probably illegal immigrants,
-Dialogue: 0,0:05:58.40,0:05:59.94,Default,,0,0,0,,although I don't know how they got in.
-Dialogue: 0,0:06:00.52,0:06:01.94,Default,,0,0,0,,Six foreigners,
-Dialogue: 0,0:06:02.23,0:06:04.44,Default,,0,0,0,,and one probable black market broker.
-Dialogue: 0,0:06:04.90,0:06:07.36,Default,,0,0,0,,A quick Hue Check shows that they're all past the limit.
-Dialogue: 0,0:06:07.82,0:06:10.24,Default,,0,0,0,,Checking their Crime Coefficients with the Dominators
-Dialogue: 0,0:06:10.41,0:06:11.87,Default,,0,0,0,,will probably say the same thing.
-Dialogue: 0,0:06:13.41,0:06:14.91,Default,,0,0,0,,What's the plan of attack?
-Dialogue: 0,0:06:16.08,0:06:18.67,Default,,0,0,0,,Once we block the entrance to the parking garage with drones,
-Dialogue: 0,0:06:18.68,0:06:22.67,Default,,0,0,0,,we'll split into emergency staircase\Nand elevator teams.
-Dialogue: 0,0:06:24.09,0:06:26.13,Default,,0,0,0,,We've verified that there are no traps
-Dialogue: 0,0:06:26.26,0:06:28.76,Default,,0,0,0,,at either of our entry points.
-Dialogue: 0,0:06:29.05,0:06:29.72,Default,,0,0,0,,So,
-Dialogue: 0,0:06:30.09,0:06:31.80,Default,,0,0,0,,Ginoza and Kunizuka will take the stairs with me.
-Dialogue: 0,0:06:31.93,0:06:33.47,Default,,0,0,0,,will take the stairs with me.
-Dialogue: 0,0:06:34.93,0:06:38.27,Default,,0,0,0,,Inspector Shimozuki will take the elevator with\NSugou and Hinakawa,
-Dialogue: 0,0:06:38.44,0:06:41.23,Default,,0,0,0,,putting two drones in the lead.
-Dialogue: 0,0:06:42.19,0:06:43.23,Default,,0,0,0,,Roger that.
-Dialogue: 0,0:06:44.11,0:06:45.94,Default,,0,0,0,,First, my team will enter
-Dialogue: 0,0:06:46.03,0:06:48.45,Default,,0,0,0,,using flashbang grenades,
-Dialogue: 0,0:06:48.91,0:06:50.95,Default,,0,0,0,,which will distract the enemy.
-Dialogue: 0,0:06:51.28,0:06:53.45,Default,,0,0,0,,At that time, Inspector Shimotsuki's team
-Dialogue: 0,0:06:53.58,0:06:56.75,Default,,0,0,0,,will enter from the rear and flank the enemy,
-Dialogue: 0,0:06:56.83,0:06:58.46,Default,,0,0,0,,trapping all of them.
-Dialogue: 0,0:07:00.04,0:07:01.42,Default,,0,0,0,,Flashbangs?
-Dialogue: 0,0:07:01.92,0:07:03.88,Default,,0,0,0,,You're being really careful.
-Dialogue: 0,0:07:04.13,0:07:06.30,Default,,0,0,0,,If the information from the Pillbugs is correct,
-Dialogue: 0,0:07:06.46,0:07:08.59,Default,,0,0,0,,the enemy is equipped with firearms.
-Dialogue: 0,0:07:08.93,0:07:10.09,Default,,0,0,0,,You mean...
-Dialogue: 0,0:07:10.64,0:07:15.10,Default,,0,0,0,,If we allow the enemy to counterattack,\Nthere will likely be casualties.
-Dialogue: 0,0:07:15.43,0:07:17.43,Default,,0,0,0,,Take extreme caution.
-Dialogue: 0,0:07:18.02,0:07:18.94,Default,,0,0,0,,Roger.
+Dialogue: 0,0:00:31.95,0:00:36.74,Default,,0,0,0,,ราวกับว่าพวกเราเป็นสิ่งมีชีวิตที่กำลังวิวัฒนาการอยู่บนจุดสูงสุด
+Dialogue: 0,0:00:36.87,0:00:40.41,Default,,0,0,0,,บางครั้งสูงยิ่งกว่ายอดหอระฆังของโบสถ์
+Dialogue: 0,0:00:40.58,0:00:45.42,Default,,0,0,0,,ในที่สุด การพัฒนาต่อไปนั้นกลายเป็นเรื่องยากและอันตราย
+Dialogue: 0,0:00:45.58,0:00:47.92,Default,,0,0,0,,สิ่งที่รอคอยก็คือการล่มสลาย
+Dialogue: 0,0:00:49.38,0:00:50.59,Default,,0,0,0,,พวกมันกำลังมา
+Dialogue: 0,0:00:56.43,0:00:57.68,Default,,0,0,0,,ซ้าย 3 คลิก
+Dialogue: 0,0:00:58.76,0:01:00.27,Default,,0,0,0,,ขวา 4 คลิก
+Dialogue: 0,0:01:01.39,0:01:04.60,Default,,0,0,0,,ซ้าย 1 คลิก\Nขวา 2 คลิก
+Dialogue: 0,0:01:07.23,0:01:07.94,Default,,0,0,0,,ตอนนี้แหละ
+Dialogue: 0,0:01:09.94,0:01:11.61,Default,,0,0,0,,เยี่ยมมาก โควกามิ
+Dialogue: 0,0:01:21.74,0:01:25.58,Default,,0,0,0,,เราจะบอกว่ามันมีกฏของศิลปะที่โหดร้ายอยู่\N(ผู้แต่งบทกวีนี้กำลังพูดถึงเรื่องช่วงเวลาชีวิตของคน กับสิ่งที่มีค่า)\N (ตอนทำซับตรงนี้น่าจะใส่คำอธิบายหน่อยว่าเป็นบทกวี)
+Dialogue: 0,0:01:25.79,0:01:27.92,Default,,0,0,0,,นั่นคือมนุษย์ทุกคนล้วนต้องตายจากโลกนี้ไป\N(ก่อนที่จะสร้างผลงานที่มีคุณค่า)
+Dialogue: 0,0:01:28.21,0:01:31.25,Default,,0,0,0,,นั่นทำให้พวกเราต้องตายตกตามกันไป\N(ที่มีค่าพอที่โลกต้องจารึกไว้ก่อนที่จะล่วงลับไป)
+Dialogue: 0,0:01:31.42,0:01:34.76,Default,,0,0,0,,หลังจากทนทุกข์ทรมานทุกรูปแบบ\N(จะต้องผ่านความยากลำบากมานับไม่ถ้วน)
+Dialogue: 0,0:01:35.13,0:01:39.60,Default,,0,0,0,,ไม่ใช่หญ้าแห่งการลืมเลือน แต่เป็นหญ้าอันเป็นนิรันด์\N(เพื่อสร้างผลงานที่เลื่องชื่อ ไม่ใช่ผลงานที่ถูกปล่อยให้ลืม)
+Dialogue: 0,0:01:39.97,0:01:43.02,Default,,0,0,0,,ที่จะเติบโตและออกดอกออกผลต่อไป \N(เพื่อเป็นอนุสรณ์ให้คนรุ่นหลังต่อไป)
+Dialogue: 0,0:02:04.00,0:02:05.62,Default,,0,0,0,,สำรวจความพร้อมของอุปกรณ์
+Dialogue: 0,0:02:12.25,0:02:13.63,Default,,0,0,0,,เปิดใช้งานแว่นตานำทาง
+Dialogue: 0,0:02:17.63,0:02:20.47,Default,,0,0,0,,ดาวน์โหลดแผนที่และแผนปฏิบัติการ
+Dialogue: 0,0:02:23.22,0:02:25.56,Default,,0,0,0,,ไม่มีปัญหา แว่นพวกนี้ใช้งานได้
+Dialogue: 0,0:02:28.19,0:02:30.81,Default,,0,0,0,,ห้ามออกนอกเส้นทาง
+Dialogue: 0,0:02:31.52,0:02:32.57,Default,,0,0,0,,ไปกันเถอะ
+Dialogue: 0,0:03:45.64,0:03:47.06,Default,,0,0,0,,เจออะไรบ้างมั้ย
+Dialogue: 0,0:03:50.81,0:03:53.56,Default,,0,0,0,,ดีใจจริงๆ ที่มาถึงนี่ได้อย่างปลอดภัยนะ คุณลูกค้า
+Dialogue: 0,0:03:55.40,0:03:57.07,Default,,0,0,0,,ยืนยันตัวตน
+Dialogue: 0,0:03:59.57,0:04:01.74,Default,,0,0,0,,คุณคือ คุณมิยาซากิ ?
+Dialogue: 0,0:04:01.82,0:04:04.49,Default,,0,0,0,,เดี๋ยวก่อน ขอเวลาสักครู่
+Dialogue: 0,0:04:04.66,0:04:06.95,Default,,0,0,0,,ให้ผมเปิดเครื่องแปลภาษาก่อน
+Dialogue: 0,0:04:09.66,0:04:11.25,Default,,0,0,0,,ไหนลองพูดมาหน่อย
+Dialogue: 0,0:04:12.29,0:04:13.37,Default,,0,0,0,,เราต้องการรถ
+Dialogue: 0,0:04:14.25,0:04:15.38,Default,,0,0,0,,เราต้องการรถ
+Dialogue: 0,0:04:16.29,0:04:18.63,Default,,0,0,0,,โอเค มาคุยธุระกันต่อ
+Dialogue: 0,0:04:19.88,0:04:22.26,Default,,0,0,0,,ตามที่สั่งไปก่อนหน้านี้
+Dialogue: 0,0:04:22.43,0:04:25.51,Default,,0,0,0,,รถรุ่นเก่าที่ไม่มีกล้องภายใน
+Dialogue: 0,0:04:25.80,0:04:29.60,Default,,0,0,0,,พร้อมติดตั้งเครื่องปลอมแปลงสัญญาณชีวิตด้วย
+Dialogue: 0,0:04:30.39,0:04:31.64,Default,,0,0,0,,ไม่มีปัญหา
+Dialogue: 0,0:04:31.73,0:04:34.56,Default,,0,0,0,,ถ้ามีเงินล่ะก็ อะไรก็หาให้ได้ทั้งนั้น
+Dialogue: 0,0:04:44.99,0:04:47.74,Default,,0,0,0,,อย่าถูกสแกนเนอร์ตามถนนตรวจเจอตัวเข้าล่ะ
+Dialogue: 0,0:04:48.66,0:04:50.50,Default,,0,0,0,,ค่าไซโคพาสของพวกนายนะ
+Dialogue: 0,0:04:51.00,0:04:53.00,Default,,0,0,0,,เห็นท่าทางจะไม่น่ารอด
+Dialogue: 0,0:04:58.50,0:05:00.71,Default,,0,0,0,,ที่แบบนี้ยังอุตส่าห์หาเจอนะคะเนี่ย
+Dialogue: 0,0:05:01.13,0:05:03.51,Default,,0,0,0,,พักหลังนี้หาเบาะแสจากนายหน้าค้าข้อมูลเอาน่ะ
+Dialogue: 0,0:05:05.43,0:05:06.43,Default,,0,0,0,,อ่อ
+Dialogue: 0,0:05:07.64,0:05:10.18,Default,,0,0,0,,ทำเหมือนกับนักสืบสมัยก่อนเลยนะคะ
+Dialogue: 0,0:05:51.85,0:05:53.60,Default,,0,0,0,,ข้อมูลที่ได้จากหุ่นยนต์แมลง
+Dialogue: 0,0:05:53.72,0:05:55.85,Default,,0,0,0,,แสดงผลบนจอครบกันแล้วใช่มั้ย
+Dialogue: 0,0:05:56.27,0:05:58.23,Default,,0,0,0,,ถึงจะยังไม่รู้วิธีที่พวกนั้นลักลอบเข้ามาก็เถอะ
+Dialogue: 0,0:05:58.40,0:05:59.94,Default,,0,0,0,,แต่ยังไงก็ผิดกฏหมาย
+Dialogue: 0,0:06:00.52,0:06:01.94,Default,,0,0,0,,ชาวต่างชาติ 6 คน
+Dialogue: 0,0:06:02.23,0:06:04.44,Default,,0,0,0,,และ น่าจะเป็นพ่อค้าจากตลาดมืดอีก 1 คน
+Dialogue: 0,0:06:04.90,0:06:07.36,Default,,0,0,0,,จากการตรวจสอบค่าแถบสี ทุกคนเกินเกณฑ์หมด
+Dialogue: 0,0:06:07.82,0:06:10.24,Default,,0,0,0,,ถึงจะใช้โดมิเนเตอร์วัดค่าสัมประสิทธ์อาชญากรรม
+Dialogue: 0,0:06:10.41,0:06:11.87,Default,,0,0,0,,ผลลัพธ์คงหมือนกันอยู่ดี
+Dialogue: 0,0:06:13.41,0:06:14.91,Default,,0,0,0,,จะบุกเข้าไปยังไงดีคะ ?
+Dialogue: 0,0:06:16.08,0:06:18.67,Default,,0,0,0,,หลังจากปิดทางเข้าโรงจอดรถด้วยโดรนแล้ว
+Dialogue: 0,0:06:18.68,0:06:22.67,Default,,0,0,0,,เราจะแยกเป็นสองทีมไปทางบันไดหนีไฟและทางลิฟต์
+Dialogue: 0,0:06:24.09,0:06:26.13,Default,,0,0,0,,นอกจากจะสามารถกระหนาบทั้งสองทางแล้ว
+Dialogue: 0,0:06:26.26,0:06:28.76,Default,,0,0,0,,ยังสามารถตรวจสอบกับดักของอีกฝ่ายได้ด้วย
+Dialogue: 0,0:06:29.05,0:06:29.72,Default,,0,0,0,,ดังนั้น
+Dialogue: 0,0:06:30.09,0:06:31.80,Default,,0,0,0,,คุณกิโนซาและคุณคุนิซุกะจะไปทางบันไดหนีไฟกับชั้น
+Dialogue: 0,0:06:31.93,0:06:33.47,Default,,0,0,0,,(รวมประโยคบน)
+Dialogue: 0,0:06:34.93,0:06:38.27,Default,,0,0,0,,ผู้สังเกตการณ์ชิโมซุกิจะใช้โดรนสองตัวเปิดทาง
+Dialogue: 0,0:06:38.44,0:06:41.23,Default,,0,0,0,,และเข้าไปทางลิฟต์กับคุณสุโกวและคุณฮินาคาว่า
+Dialogue: 0,0:06:42.19,0:06:43.23,Default,,0,0,0,,รับทราบค่ะ
+Dialogue: 0,0:06:44.11,0:06:45.94,Default,,0,0,0,,ก่อนอื่น ทีมของชั้น
+Dialogue: 0,0:06:46.03,0:06:48.45,Default,,0,0,0,,จะปาระเบิดแสงเปิดทาง
+Dialogue: 0,0:06:48.91,0:06:50.95,Default,,0,0,0,,เพื่อที่จะดึงความสนใจจากศัตรู
+Dialogue: 0,0:06:51.28,0:06:53.45,Default,,0,0,0,,จังหวะนี้ ทีมชิโมสุกิ
+Dialogue: 0,0:06:53.58,0:06:56.75,Default,,0,0,0,,จะอ้อมไปประกบทางด้านหลังของศัตรู
+Dialogue: 0,0:06:56.83,0:06:58.46,Default,,0,0,0,,เพื่อดักทางหนีของพวกมัน
+Dialogue: 0,0:07:00.04,0:07:01.42,Default,,0,0,0,,ระเบิดแสงเหรอ ?
+Dialogue: 0,0:07:01.92,0:07:03.88,Default,,0,0,0,,ดูระวังตัวเป็นพิเศษเลยนะครับ
+Dialogue: 0,0:07:04.13,0:07:06.30,Default,,0,0,0,,อ้างอิงข้อมูลจากหุ่นยนต์แมลง
+Dialogue: 0,0:07:06.46,0:07:08.59,Default,,0,0,0,,ศัตรูพกอาวุธปืนมาด้วยนะคะ
+Dialogue: 0,0:07:08.93,0:07:10.09,Default,,0,0,0,,หมายความว่า . . . .
+Dialogue: 0,0:07:10.64,0:07:15.10,Default,,0,0,0,,ถ้าฝั่งนั้นสวนกลับมา\Nมีความเป็นไปได้สูงที่ฝั่งเราจะมีคนเสียชีวิต
+Dialogue: 0,0:07:15.43,0:07:17.43,Default,,0,0,0,,ขอให้ระวังตัวกันด้วย
+Dialogue: 0,0:07:18.02,0:07:18.94,Default,,0,0,0,,รับทราบ
 Dialogue: 0,0:07:27.15,0:07:27.86,Default,,0,0,0,,Hmmm...
 Dialogue: 0,0:07:29.65,0:07:33.16,Default,,0,0,0,,Well then, the deal's done.
 Dialogue: 0,0:07:41.25,0:07:42.38,Default,,0,0,0,,Huh?
