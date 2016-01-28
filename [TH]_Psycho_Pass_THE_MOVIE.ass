@@ -15,6 +15,8 @@ Video File: F:/[1] ANIME/[IEgg-Raws] The Movie PSYCHO-PASS (BDRip 1920X1080 x264
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
+Scroll Position: 1200
+Active Line: 999
 Video Position: 343
 
 [V4+ Styles]
@@ -924,29 +926,30 @@ Dialogue: 0,1:22:42.08,1:22:45.67,Default,,0,0,0,,Well, it's true that I don't h
 Dialogue: 0,1:22:49.59,1:22:52.76,Default,,0,0,0,,Did you decide to quit government work after getting professional training?
 Dialogue: 0,1:22:52.84,1:22:55.51,Default,,0,0,0,,But you're still only a third rate mercenary.
 Dialogue: 0,1:22:55.63,1:22:59.35,Default,,0,0,0,,After all, you still haven't grasped how to choose the right employer.
-Dialogue: 0,1:23:00.51,1:23:03.39,Default,,0,0,0,,Don't lump me in with you hyenas.
-Dialogue: 0,1:23:04.02,1:23:05.85,Default,,0,0,0,,I don't live my life sniffing for
-Dialogue: 0,1:23:05.94,1:23:08.10,Default,,0,0,0,,blood in the water.
-Dialogue: 0,1:23:08.31,1:23:09.81,Default,,0,0,0,,Oh, really now?
-Dialogue: 0,1:23:09.90,1:23:12.57,Default,,0,0,0,,If you really were a detective, that's bullshit.
-Dialogue: 0,1:23:12.69,1:23:14.07,Default,,0,0,0,,There are some who chant slogans,
-Dialogue: 0,1:23:14.19,1:23:17.36,Default,,0,0,0,,saying that violence is both the law and just.
-Dialogue: 0,1:23:20.37,1:23:24.95,Default,,0,0,0,,When society begins to collapse, violence becomes increasingly privatized.
-Dialogue: 0,1:23:25.46,1:23:28.54,Default,,0,0,0,,That's because the state has monopolized
+Dialogue: 0,1:23:00.51,1:23:03.39,Default,,0,0,0,,อย่ามาเอาฉันไปรวมกับไฮยีน่าอย่างพวกแก !
+Dialogue: 0,1:23:04.02,1:23:07.75,Default,,0,0,0,,ฉันไม่ได้มีชีวิตอยู่เพื่อจะเอาจมูกไปสูดกลิ่นคาวเลือดนะเฟ้ย
+Dialogue: 0,1:23:05.94,1:23:08.10,Default,,0,0,0,,
+Dialogue: 0,1:23:08.31,1:23:09.81,Default,,0,0,0,,โห...งั้นหรอกเหรอ
+Dialogue: 0,1:23:09.90,1:23:12.57,Default,,0,0,0,,ถ้าแกเคยเป็นตำรวจหรืออะไรพรรค์นั้น
+Dialogue: 0,1:23:12.69,1:23:14.07,Default,,0,0,0,,มันมีคำพูดที่ว่า
+Dialogue: 0,1:23:14.19,1:23:17.36,Default,,0,0,0,,การก่ออาชญากรรมน่ะ มันเป็นทั้งกฏหมายและความจริงใจอย่างหนึ่ง
+Dialogue: 0,1:23:20.37,1:23:24.95,Default,,0,0,0,,เมื่อประเทศพังทลาย คนธรรมดาจะกลายเป็นอาชญากรมากขึ้น/////
+Dialogue: 0,1:23:25.46,1:23:28.54,Default,,0,0,0,,That's because the state has monopolized นั่นก็เพราะรัฐมันผูกขาดองค์กรอาชญากรรมเอาไว้///
 Dialogue: 0,1:23:28.67,1:23:30.79,Default,,0,0,0,,organized violence.
-Dialogue: 0,1:23:31.13,1:23:35.47,Default,,0,0,0,,When violence begins to spread, it leaves the realm of politics.
-Dialogue: 0,1:23:36.51,1:23:41.39,Default,,0,0,0,,The organized violence becomes an economic activity, with societal unrest at its heart.
-Dialogue: 0,1:23:50.15,1:23:54.15,Default,,0,0,0,,{\i1}The Wretched of the Earth{\i0}, huh?
-Dialogue: 0,1:23:54.36,1:23:56.90,Default,,0,0,0,,A mercenary obsessed with Post-Colonialism is something
-Dialogue: 0,1:23:56.99,1:24:00.91,Default,,0,0,0,,I'd rather not deal with...
-Dialogue: 0,1:24:01.28,1:24:04.91,Default,,0,0,0,,Oh, you have brains as well as brawn, do you?
-Dialogue: 0,1:24:04.99,1:24:07.04,Default,,0,0,0,,This is getting even more interesting.
-Dialogue: 0,1:24:12.34,1:24:14.46,Default,,0,0,0,,From what I've heard, it sounds as though
-Dialogue: 0,1:24:14.59,1:24:17.59,Default,,0,0,0,,those guerillas really took a shine to you.
-Dialogue: 0,1:24:18.38,1:24:22.18,Default,,0,0,0,,Did you whisper sweet nothings into their ears?
-Dialogue: 0,1:24:26.77,1:24:30.02,Default,,0,0,0,,No idea.
-Dialogue: 0,1:24:31.77,1:24:33.82,Default,,0,0,0,,But still, I've gotta wonder.
-Dialogue: 0,1:24:34.69,1:24:39.90,Default,,0,0,0,,As I talk to you, I'm strangely getting into a better mood.
+Dialogue: 0,1:23:31.13,1:23:35.47,Default,,0,0,0,,เมื่อการก่ออาชญกรรมเพิ่มขึ้น \Nสุดท้ายมันก็จะกลายเป็นส่วนหนึ่งของการเมือง
+Dialogue: 0,1:23:36.73,1:23:38.70,Default,,0,0,0,,และความไม่สงบของสังคมจากอาชญากรรมพวกนั้น
+Dialogue: 0,1:23:38.73,1:23:41.39,Default,,0,0,0,,มันก็จะกลายเป็นกิจกรรมทางเศรษฐกิจอย่างหนึ่งไงล่ะ
+Dialogue: 0,1:23:50.15,1:23:54.15,Default,,0,0,0,,{\i1}{\i 0}, huh?
+Dialogue: 0,1:23:54.36,1:23:56.90,Default,,0,0,0,,ไอพวกทหารรับจากของ Post-Colonialism เป็นอะไรที่ (แปลตามอังกฤษอะ)
+Dialogue: 0,1:23:56.99,1:24:00.91,Default,,0,0,0,,ฉัน...ไม่ยุ่ง
+Dialogue: 0,1:24:01.28,1:24:04.91,Default,,0,0,0,,โอ้ นอกจากจะมีฝีมือแล้วแกก็มีสมองเหมือนกันนี่หว่า ? (ตามอังกฤษอะ แต่คิว่าไม่ใช่ เหมือนจะฟังได้คำว่า kagu mo aru no ka เลย)
+Dialogue: 0,1:24:04.99,1:24:07.04,Default,,0,0,0,,ชักน่าสนุกขึ้นแล้วสิ
+Dialogue: 0,1:24:12.34,1:24:14.46,Default,,0,0,0,,ที่ฉันได้ยินมาจากพวก guerillas นั่นน่ะ
+Dialogue: 0,1:24:14.59,1:24:17.59,Default,,0,0,0,,พวกมันชื่นชมบูชาแกมากทีเดียวเลยไม่ใช่เหรอ
+Dialogue: 0,1:24:18.38,1:24:22.18,Default,,0,0,0,,แกไปพร่ำพูดอะไรใส่หัวพวกนั้นกันแน่วะ ?
+Dialogue: 0,1:24:26.77,1:24:30.02,Default,,0,0,0,,ก็ไม่รู้ว่ะ
+Dialogue: 0,1:24:31.77,1:24:33.82,Default,,0,0,0,,แต่ก็อย่างว่าน่ะ
+Dialogue: 0,1:24:34.69,1:24:39.90,Default,,0,0,0,,พอคุยกับแกแล้วฉันก็รู้สึกอารมณ์ดีขึ้นมายังไงก็ไม่รู้ว่ะ
 Dialogue: 0,1:24:40.15,1:24:43.16,Default,,0,0,0,,It's like I'm listening to Wagner or something.
 Dialogue: 0,1:24:52.17,1:24:53.63,Default,,0,0,0,,Those are words
 Dialogue: 0,1:24:53.75,1:24:56.46,Default,,0,0,0,,I'd rather hear from a glamorous woman instead.
@@ -964,65 +967,65 @@ Dialogue: 0,1:25:35.42,1:25:39.80,Default,,0,0,0,,We need to build our forces fi
 Dialogue: 0,1:25:40.09,1:25:42.55,Default,,0,0,0,,And when that happens, we'll need
 Dialogue: 0,1:25:42.68,1:25:44.97,Default,,0,0,0,,not only leadership,
 Dialogue: 0,1:25:45.05,1:25:49.35,Default,,0,0,0,,but the ability to fire up the crowds and captivate them.
-Dialogue: 0,1:25:49.60,1:25:53.73,Default,,0,0,0,,How 'bout it? Do you feel like joining us?
-Dialogue: 0,1:25:54.10,1:25:56.61,Default,,0,0,0,,If we hone your abilities,
-Dialogue: 0,1:25:56.69,1:26:00.74,Default,,0,0,0,,I can get you a squadron that you can use\Nto your heart's content.
-Dialogue: 0,1:26:01.32,1:26:02.65,Default,,0,0,0,,Hey, boss!
-Dialogue: 0,1:26:03.78,1:26:08.37,Default,,0,0,0,,If I go ahead and give you up to my client, you're dead anyway.
-Dialogue: 0,1:26:08.49,1:26:10.04,Default,,0,0,0,,I'm saying that
-Dialogue: 0,1:26:10.12,1:26:12.62,Default,,0,0,0,,I'm giving you a chance to live.
-Dialogue: 0,1:26:14.37,1:26:18.00,Default,,0,0,0,,Don't expect me to thank you for offering me an option
-Dialogue: 0,1:26:18.09,1:26:20.09,Default,,0,0,0,,I'd rather die than accept.
-Dialogue: 0,1:26:26.00,1:26:31.27,Default,,0,0,0,,Hey, someone. Give him treatment.
-Dialogue: 0,1:26:31.72,1:26:34.69,Default,,0,0,0,,Is he still alive? The male target.
-Dialogue: 0,1:26:35.23,1:26:37.81,Default,,0,0,0,,Yeah. Can I kill him yet?
-Dialogue: 0,1:26:37.90,1:26:39.44,Default,,0,0,0,,He still has some use.
-Dialogue: 0,1:26:40.36,1:26:41.69,Default,,0,0,0,,Bring him to me.
-Dialogue: 0,1:26:42.24,1:26:43.44,Default,,0,0,0,,Understood.
-Dialogue: 0,1:26:44.57,1:26:49.08,Default,,0,0,0,,I would've liked to give you some time to change your mind,
-Dialogue: 0,1:26:49.37,1:26:52.58,Default,,0,0,0,,but unfortunately, you're out of luck.
-Dialogue: 0,1:27:36.33,1:27:38.12,Default,,0,0,0,,Kougami...
-Dialogue: 0,1:27:39.75,1:27:42.42,Default,,0,0,0,,"The Japanese terrorist who joined the guerillas
-Dialogue: 0,1:27:42.50,1:27:44.30,Default,,0,0,0,,managed to break free while being escorted,
-Dialogue: 0,1:27:44.42,1:27:47.72,Default,,0,0,0,,took Inspector Tsunemori hostage and seized a helicopter.
-Dialogue: 0,1:27:47.80,1:27:50.76,Default,,0,0,0,,He attempted to commit terrorist acts against the State,
-Dialogue: 0,1:27:50.85,1:27:55.06,Default,,0,0,0,,and in our attempt to thwart him, we reluctantly shot the helicopter down."
-Dialogue: 0,1:27:55.14,1:27:57.35,Default,,0,0,0,,That's how it'll go.
-Dialogue: 0,1:27:58.02,1:28:02.06,Default,,0,0,0,,It sure is a waste to destroy one helicopter to kill two people.
-Dialogue: 0,1:28:03.23,1:28:06.49,Default,,0,0,0,,This was all the result of a Public Safety Bureau Inspector's mistake.
-Dialogue: 0,1:28:06.61,1:28:08.78,Default,,0,0,0,,We can petition Japan to reimburse us for damages.
-Dialogue: 0,1:28:10.45,1:28:11.99,Default,,0,0,0,,I want to get rid of them quickly.
-Dialogue: 0,1:28:12.07,1:28:15.87,Default,,0,0,0,,It's fine as long as we find some of their\Nremains in the wreckage.
-Dialogue: 0,1:28:16.95,1:28:19.46,Default,,0,0,0,,Kill both of them. Now.
-Dialogue: 0,1:28:32.72,1:28:36.52,Default,,0,0,0,,Do you really think you can keep hiding all of this?
-Dialogue: 0,1:28:36.60,1:28:39.02,Default,,0,0,0,,How are you going to explain this to Chairman Han?
-Dialogue: 0,1:28:39.77,1:28:41.02,Default,,0,0,0,,The Chairman?
-Dialogue: 0,1:28:41.44,1:28:43.52,Default,,0,0,0,,The Japanese Government won't stay quiet about this either.
-Dialogue: 0,1:28:43.65,1:28:46.19,Default,,0,0,0,,They're sure to do a detailed investigation.
-Dialogue: 0,1:28:47.07,1:28:49.32,Default,,0,0,0,,What a pitiful stooge.
-Dialogue: 0,1:28:49.40,1:28:52.70,Default,,0,0,0,,She knew not what her master's right hand was doing
-Dialogue: 0,1:28:52.78,1:28:55.45,Default,,0,0,0,,while allowing the left hand to work her to the bone.
-Dialogue: 0,1:28:55.54,1:28:58.29,Default,,0,0,0,,Hey, Miss, what would you say if I said that
-Dialogue: 0,1:28:58.37,1:29:01.87,Default,,0,0,0,,we're actually operating according to the Japanese government's plan?
-Dialogue: 0,1:29:02.04,1:29:02.71,Default,,0,0,0,,What?
-Dialogue: 0,1:29:02.79,1:29:04.54,Default,,0,0,0,,Isn't that right, Colonel?
-Dialogue: 0,1:29:04.92,1:29:08.21,Default,,0,0,0,,We took out Chairman Han at your request,
-Dialogue: 0,1:29:08.34,1:29:12.30,Default,,0,0,0,,and apparently the Japanese government provided the body double who replaced him.
-Dialogue: 0,1:29:12.68,1:29:13.47,Default,,0,0,0,,Hey!
-Dialogue: 0,1:29:13.59,1:29:16.06,Default,,0,0,0,,Don't let another word slip!
-Dialogue: 0,1:29:18.52,1:29:19.39,Default,,0,0,0,,Shoot them, now!
-Dialogue: 0,1:29:39.16,1:29:40.58,Default,,0,0,0,,Hey, Nicholas...
-Dialogue: 0,1:29:40.75,1:29:41.96,Default,,0,0,0,,What the hell is it doing?
-Dialogue: 0,1:29:42.33,1:29:44.75,Default,,0,0,0,,This is the Public Safety Bureau Investigative Division.
-Dialogue: 0,1:29:44.92,1:29:48.67,Default,,0,0,0,,According to paragraph three of the Sybil System Treaty,
-Dialogue: 0,1:29:48.75,1:29:51.09,Default,,0,0,0,,and the powers vested in us by paragraph five,
-Dialogue: 0,1:29:51.22,1:29:54.39,Default,,0,0,0,,the Japanese government will now be restoring public order.
-Dialogue: 0,1:29:54.68,1:29:57.60,Default,,0,0,0,,Persons who exceed the Crime Coefficient threshold may be
-Dialogue: 0,1:29:57.68,1:30:00.31,Default,,0,0,0,,eliminated without warning in some cases.
-Dialogue: 0,1:30:00.43,1:30:05.27,Default,,0,0,0,,Please purge all thoughts of resistance, calm down,\Nand return your mental state to stability.
-Dialogue: 0,1:30:05.73,1:30:07.73,Default,,0,0,0,,We repeat,
-Dialogue: 0,1:30:08.32,1:30:10.90,Default,,0,0,0,,this is the Public Safety Bureau Investigative Division.
-Dialogue: 0,1:30:10.99,1:30:13.36,Default,,0,0,0,,According to paragraph three of the Sybil System Treaty...
+Dialogue: 0,1:25:49.60,1:25:53.73,Default,,0,0,0,,ว่าไง ไม่คิดจะมาเป็นพวกเดียวกันหน่อยเหรอ
+Dialogue: 0,1:25:54.10,1:25:56.61,Default,,0,0,0,,ฉันจะขัดเกลาความสามารถของแก
+Dialogue: 0,1:25:56.69,1:26:00.74,Default,,0,0,0,,แล้วยังจะให้ลูกน้องดีๆกับแกไว้ใช้งานได้ตามใจชอบอีกด้วย
+Dialogue: 0,1:26:01.32,1:26:02.65,Default,,0,0,0,,ด...เดี๋ยวดิ หัวหน้า !
+Dialogue: 0,1:26:03.78,1:26:08.37,Default,,0,0,0,,แกตอนนี้ ถ้าฉันส่งตัวให้นายจ้างล่ะก็ ยังไงก็ไม่มีทางรอด
+Dialogue: 0,1:26:08.49,1:26:10.04,Default,,0,0,0,,ถ้าอยากมีชีวิตอยู่ต่อล่ะก็
+Dialogue: 0,1:26:10.12,1:26:12.62,Default,,0,0,0,,ลองขอร้องอ้อนวอนมาสิ
+Dialogue: 0,1:26:14.37,1:26:18.00,Default,,0,0,0,,ถ้าให้เลือกอ้อนวอนแก ฉันยอมตายดีกว่า
+Dialogue: 0,1:26:18.09,1:26:20.09,Default,,0,0,0,,แล้วอย่าคิดว่าจะขอบคุณ
+Dialogue: 0,1:26:26.00,1:26:31.27,Default,,0,0,0,,เฮ้  ใครก็ได้ ดูแลมันหน่อย
+Dialogue: 0,1:26:31.72,1:26:34.69,Default,,0,0,0,,ยังมีชีวิตรึเปล่า ไอผู้ชายนั่น
+Dialogue: 0,1:26:35.23,1:26:37.81,Default,,0,0,0,,อืม แล้วจะฆ่าได้รึยัง
+Dialogue: 0,1:26:37.90,1:26:39.44,Default,,0,0,0,,มันยังใช้งานได้อยู่
+Dialogue: 0,1:26:40.36,1:26:41.69,Default,,0,0,0,,เอาตัวมาให้ฉัน
+Dialogue: 0,1:26:42.24,1:26:43.44,Default,,0,0,0,,ได้
+Dialogue: 0,1:26:44.57,1:26:49.08,Default,,0,0,0,,จริงๆก็อยากจะเกลี้ยกล่อมให้เปลี่ยนใจต่ออีกสักหน่อย
+Dialogue: 0,1:26:49.37,1:26:52.58,Default,,0,0,0,,แต่น่าเสียดาย โชคของแกหมดแล้วว่ะ
+Dialogue: 0,1:27:36.33,1:27:38.12,Default,,0,0,0,,คุณโควกามิ
+Dialogue: 0,1:27:39.75,1:27:42.42,Default,,0,0,0,,"ผู้ก่อการร้ายชาวญี่ปุ่นที่เป็นส่วนหนึ่งของ (guerillas)
+Dialogue: 0,1:27:42.50,1:27:44.30,Default,,0,0,0,,ระหว่างถูกควบคุมตัวได้ขัดขืนและทำการหลบหนี
+Dialogue: 0,1:27:44.42,1:27:47.72,Default,,0,0,0,,เขาจับผู้สังเกตการณ์สึเนะโมริเป็นตัวประกัน\Nจากนั้นก็ขโมยเฮลิคอปเตอร์
+Dialogue: 0,1:27:47.80,1:27:50.76,Default,,0,0,0,,พยายามกระทำการก่อการร้ายกับรัฐบาล
+Dialogue: 0,1:27:50.85,1:27:55.06,Default,,0,0,0,,ซึ่งเป็นการกระทำที่บังคับให้เรา\Nจำเป็นต้องยิงเฮลิคอปเตอร์ลำนั้น"
+Dialogue: 0,1:27:55.14,1:27:57.35,Default,,0,0,0,,ก็เป็นแบบนั้นล่ะ
+Dialogue: 0,1:27:58.02,1:28:02.06,Default,,0,0,0,,จะฆ่าแค่สองคนแต่ต้องเสียคอปเตอร์ทั้งลำนี่มัน\Nสิ้นเปลืองจริงๆ
+Dialogue: 0,1:28:03.23,1:28:06.49,Default,,0,0,0,,หึ นั่นมันเป็นความผิดพลาดของ Public Safety Bureau Inspector ต่างหากล่ะ
+Dialogue: 0,1:28:06.61,1:28:08.78,Default,,0,0,0,,ที่ญี่ปุ่น เราสามารถยื่นคำร้องขอชดเชยค่าเสียหายได้　
+Dialogue: 0,1:28:10.45,1:28:11.99,Default,,0,0,0,,รีบๆทำให้มันจบกันดีกว่า
+Dialogue: 0,1:28:12.07,1:28:15.87,Default,,0,0,0,,แค่ให้เจอศพในกองซากปรักหักพังก็พอ
+Dialogue: 0,1:28:16.95,1:28:19.46,Default,,0,0,0,,เอาล่ะ ฆ่าพวกมันได้
+Dialogue: 0,1:28:32.72,1:28:36.52,Default,,0,0,0,,คุณคิดจริงๆเหรอว่าจะสามารถปิดบังความจริงพวกนี้ได้
+Dialogue: 0,1:28:36.60,1:28:39.02,Default,,0,0,0,,คุณจะเอาอะไรไปแก้ตัวกับประธานฮาน ?
+Dialogue: 0,1:28:39.77,1:28:41.02,Default,,0,0,0,,ประธาน ?
+Dialogue: 0,1:28:41.44,1:28:43.52,Default,,0,0,0,,แล้วรัฐบาลญี่ปุ่นก็คงจะไม่อยู่เฉยแน่
+Dialogue: 0,1:28:43.65,1:28:46.19,Default,,0,0,0,,พวกเขาจะต้องตรวจสอบที่มาที่ไปของเรื่องพวกนี้
+Dialogue: 0,1:28:47.07,1:28:49.32,Default,,0,0,0,,อ้อ ไอเจ้าหน้าที่รัฐพวกนั้นน่ะนะ
+Dialogue: 0,1:28:49.40,1:28:52.70,Default,,0,0,0,,ทั้งๆที่ไม่รู้ว่ามือข้างขวาของเจ้านายเนี่ยทำอะไรอยู่
+Dialogue: 0,1:28:52.78,1:28:55.45,Default,,0,0,0,,ส่วนอีกข้างก็กลายเป็นอาชญากรไปซะเอง (?)
+Dialogue: 0,1:28:55.54,1:28:58.29,Default,,0,0,0,,อ้ะ คุณผู้หญิง จริงๆแล้วพวกฉันเนี่ย
+Dialogue: 0,1:28:58.37,1:29:01.87,Default,,0,0,0,,ปฏิบัติการตามแผนของรัฐบาลญี่ปุ่นน่ะนะ
+Dialogue: 0,1:29:02.04,1:29:02.71,Default,,0,0,0,,อะไรนะ ?
+Dialogue: 0,1:29:02.79,1:29:04.54,Default,,0,0,0,,ใช่ไหมล่ะ พันเอก ?
+Dialogue: 0,1:29:04.92,1:29:08.21,Default,,0,0,0,,เราจัดการประธานฮานตามที่คุณขอ
+Dialogue: 0,1:29:08.34,1:29:12.30,Default,,0,0,0,,แล้วหุ่นเชิดตัวนั้นรัฐบาลญี่ปุ่นก็เป็นคนเอามันเข้าไปแทนเองไม่ใช่รึ (ถูกป่าวหว่า เรื่องเป็นไงหว่า)
+Dialogue: 0,1:29:12.68,1:29:13.47,Default,,0,0,0,,เฮ้ย !
+Dialogue: 0,1:29:13.59,1:29:16.06,Default,,0,0,0,,หยุดพล่ามได้แล้ว !
+Dialogue: 0,1:29:18.52,1:29:19.39,Default,,0,0,0,,ยิงมัน เดี๋ยวนี้ !
+Dialogue: 0,1:29:39.16,1:29:40.58,Default,,0,0,0,,เฮ้ย นิโคลัส
+Dialogue: 0,1:29:40.75,1:29:41.96,Default,,0,0,0,,ทำบ้าอะไรของแก ?
+Dialogue: 0,1:29:42.33,1:29:44.75,Default,,0,0,0,,นี่คือ (Public Safety Bureau Investigative Division.) (<< ใช้คำไทยว่าไรครัช?) ครับ/ค่ะ
+Dialogue: 0,1:29:44.92,1:29:48.67,Default,,0,0,0,,ขณะนี้ ตามสนธิสัญญาของระบบซีบิลในวรรคที่สาม
+Dialogue: 0,1:29:48.75,1:29:51.09,Default,,0,0,0,,เราได้ทำการยึดอำนาจโดยวรรคที่ห้า
+Dialogue: 0,1:29:51.22,1:29:54.39,Default,,0,0,0,,รัฐบาลญี่ปุ่นจะทำการฟื้นฟูความสงบเรียบร้อยของประชาชน
+Dialogue: 0,1:29:54.68,1:29:57.60,Default,,0,0,0,,ผู้ใดที่มีค่าสัมประสิทธิ์อาชญากรรมเกินค่าที่กำหนด
+Dialogue: 0,1:29:57.68,1:30:00.31,Default,,0,0,0,,สามารถถูกกำจัดได้โดยไม่มีแจ้งเตือนล่วงหน้า
+Dialogue: 0,1:30:00.43,1:30:05.27,Default,,0,0,0,,กรูณาละทิ้งความคิดต่อต้าน ปรดอยู่ในความสงบ และกลับสู่เสถียรภาพทางจิตใจ
+Dialogue: 0,1:30:05.73,1:30:07.73,Default,,0,0,0,,ขอย้ำอีกครั้ง
+Dialogue: 0,1:30:08.32,1:30:10.90,Default,,0,0,0,,นี่คือ Public Safety Bureau Investigative Division.
+Dialogue: 0,1:30:10.99,1:30:13.36,Default,,0,0,0,,ขณะนี้ ตามสนธิสัญญาของระบบซีบิลในวรรคที่สาม...
 Dialogue: 0,1:30:13.45,1:30:15.28,Default,,0,0,0,,The Japanese Public Safety Bureau?
 Dialogue: 0,1:30:16.70,1:30:18.20,Default,,0,0,0,,These outsiders
 Dialogue: 0,1:30:18.87,1:30:20.70,Default,,0,0,0,,don't know anything!
