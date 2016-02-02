@@ -15,10 +15,10 @@ Audio File: ../[Raws] The Movie PSYCHO-PASS (Test size).mp4
 Video File: ../[Raws] The Movie PSYCHO-PASS (Test size).mp4
 Video AR Mode: 4
 Video AR Value: 1.800000
-Video Zoom Percent: 0.250000
-Scroll Position: 57
-Active Line: 66
-Video Position: 7022
+Video Zoom Percent: 2.000000
+Scroll Position: 76
+Active Line: 77
+Video Position: 7629
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -170,12 +170,12 @@ Dialogue: 0,0:14:32.08,0:14:33.12,Default,,0,0,0,,ยังไงก็ตาม
 Dialogue: 0,0:14:34.12,0:14:35.70,Default,,0,0,0,,ขอไว้หลังจากการสอบปากคำก็แล้วกัน
 Dialogue: 0,0:14:55.81,0:14:56.43,Default,,0,0,0,,ค่ะ
 Dialogue: 0,0:14:56.81,0:14:58.44,Default,,0,0,0,,ผู้สังเกตการณ์ชิโมสึกิ
-Dialogue: 0,0:14:58.52,0:15:00.60,Default,,0,0,0,,มาหาชั้นที่ออฟฟิศหน่อย
+Dialogue: 0,0:14:58.52,0:15:00.60,Default,,0,0,0,,มาหาฉันที่ออฟฟิศหน่อย
 Dialogue: 0,0:15:11.70,0:15:13.45,Default,,0,0,0,,แต่งงานเหรอ ?\Nอืม
 Dialogue: 0,0:15:14.24,0:15:16.66,Default,,0,0,0,,เพราะว่าฝ่ายนั้นก็ยุ่งๆ เหมือนกัน
 Dialogue: 0,0:15:17.87,0:15:21.79,Default,,0,0,0,,งานแต่งเลยดูเหมือนจะต้องเลื่อนไปอีกหน่อย
 Dialogue: 0,0:15:23.29,0:15:27.01,Default,,0,0,0,,แต่ยังไงก็อยากแนะนำให้อาคาเนะรู้จักอยู่ดีน่ะ
-Dialogue: 0,0:15:30.38,0:15:34.26,Default,,0,0,0,,ในที่สุดคาโอริก็แต่งงานกับเค้าเหรอเนี่ย\Nยินดีด้วยนะ
+Dialogue: 0,0:15:30.38,0:15:34.26,Default,,0,0,0,,ในที่สุดคาโอริก็แต่งงานกับเค้าซะที\Nยินดีด้วยนะ
 Dialogue: 0,0:15:34.43,0:15:36.68,Default,,0,0,0,,ขอบใจจ๊ะ
 Dialogue: 0,0:15:38.64,0:15:41.81,Default,,0,0,0,,ระบบซิบิลหาแฟนให้ใหม่อีกครั้งเนี่ย
 Dialogue: 0,0:15:41.90,0:15:43.98,Default,,0,0,0,,สุดยอดจนไม่อยากจะเชื่อเลยนะเนี่ย
@@ -184,7 +184,7 @@ Dialogue: 0,0:15:47.65,0:15:51.36,Default,,0,0,0,,พอตัดสินใจ
 Dialogue: 0,0:15:52.32,0:15:54.12,Default,,0,0,0,,ถึงอย่างงั้น ตอนแรก
 Dialogue: 0,0:15:54.32,0:15:57.37,Default,,0,0,0,,ก็ไม่ใช่ว่าจะไม่มีปัญหาซะทีเดียวหรอก
 Dialogue: 0,0:15:58.00,0:15:59.62,Default,,0,0,0,,แต่สุดท้าย
-Dialogue: 0,0:16:00.04,0:16:02.92,Default,,0,0,0,,เขาก็เป็นผู้ชายที่เหมาะกับชั้นจริงๆ
+Dialogue: 0,0:16:00.04,0:16:02.92,Default,,0,0,0,,เขาก็เป็นผู้ชายที่เหมาะกับฉันจริงๆ
 Dialogue: 0,0:16:03.96,0:16:06.67,Default,,0,0,0,,นะ ถึงจะมีหลายๆ เรื่องเกิดขึ้นก็เถอะนะ
 Dialogue: 0,0:16:07.67,0:16:09.01,Default,,0,0,0,,งั้นเหรอ
 Dialogue: 0,0:16:13.84,0:16:16.81,Default,,0,0,0,,ความสงบสุขในตอนนี้ . . . .
