@@ -16,8 +16,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
 Scroll Position: 876
-Active Line: 896
-Video Position: 10326
+Active Line: 884
+Video Position: 117256
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -884,8 +884,8 @@ Dialogue: 0,1:19:03.82,1:19:05.95,Default,,0,0,0,,are being measured accurately.
 Dialogue: 0,1:19:07.45,1:19:09.95,Default,,0,0,0,,A detective's gut feeling... I take it?
 Dialogue: 0,1:19:10.87,1:19:15.29,Default,,0,0,0,,It's not that.\NIt's just a conclusion I've drawn after looking at the facts.
 Dialogue: 0,1:19:17.75,1:19:20.96,Default,,0,0,0,,All right. I'll inspect the hell out of this.
-Dialogue: 0,1:19:21.13,1:19:22.92,Default,,0,0,0,,อ๊ะ แล้วก็อีกเรื่องนึง
-Dialogue: 0,1:19:23.05,1:19:27.13,Default,,0,0,0,,ปลอกคอที่เอามาใช้ควบคุมค่าอาชญากรแฝงบนเกาะชัมบาล่านี่
+Dialogue: 0,1:19:21.13,1:19:22.92,Default,,0,0,0,,อ๊ะ แล้วก็อีกเรื่องหนึ่ง
+Dialogue: 0,1:19:23.05,1:19:27.13,Default,,0,0,0,,ปลอกคอที่เอามาใช้ควบคุมอาชญากรแฝงบนเกาะชัมบาล่านี่
 Dialogue: 0,1:19:27.30,1:19:29.68,Default,,0,0,0,,ถูกทำขึ้นที่ญี่ปุ่นสินะคะ ?
 Dialogue: 0,1:19:30.47,1:19:32.97,Default,,0,0,0,,คุณคิดว่าคุณสามารถใช้ชื่อของหน่วยรักษาความสงบ เพื่อเอารหัสปลดล๊อก
 Dialogue: 0,1:19:33.14,1:19:34.60,Default,,0,0,0,,ให้ฉันได้รึเปล่าคะ ?
@@ -910,7 +910,7 @@ Dialogue: 0,1:21:14.37,1:21:17.79,Default,,0,0,0,,จะได้ไม่มี
 Dialogue: 0,1:21:18.95,1:21:21.37,Default,,0,0,0,,ฉันรู้ว่านะ
 Dialogue: 0,1:21:21.87,1:21:24.54,Default,,0,0,0,,ไซแมนติกสแกนน่ะ
 Dialogue: 0,1:21:25.46,1:21:27.50,Default,,0,0,0,,พวกแกหลบเลี่ยงมันได้
-Dialogue: 0,1:21:29.30,1:21:30.59,Default,,0,0,0,,โอ้
+Dialogue: 0,1:21:29.30,1:21:30.59,Default,,0,0,0,,โห
 Dialogue: 0,1:21:30.80,1:21:32.59,Default,,0,0,0,,เธอมีหลักฐานรึไง
 Dialogue: 0,1:21:33.30,1:21:36.35,Default,,0,0,0,,ให้ตายเถอะ ! คุณเพิ่งฆ่าคนไป
 Dialogue: 0,1:21:37.68,1:21:40.81,Default,,0,0,0,,ตราบใดที่ซิบิลไม่ว่าอะไร
