@@ -15,9 +15,9 @@ Video File: ../../[IEgg-Raws] The Movie PSYCHO-PASS (BDRip 1920X1080 x264 FLAC 5
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 449
-Active Line: 454
-Video Position: 55043
+Scroll Position: 479
+Active Line: 488
+Video Position: 60371
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -513,11 +513,11 @@ Dialogue: 0,0:41:42.87,0:41:44.92,Default,,0,0,0,,ที่เกาะชัม
 Dialogue: 0,0:41:45.04,0:41:47.54,Default,,0,0,0,,นี่เป็นเพียงแค่ก้าวแรก
 Dialogue: 0,0:41:47.71,0:41:49.75,Default,,0,0,0,,ที่จะขยายขอบเขตการปกครอง
 Dialogue: 0,0:41:49.88,0:41:53.42,Default,,0,0,0,,ของระบบซิบิลให้ครอบคลุมทั้งประเทศ
-Dialogue: 0,0:41:53.72,0:41:57.89,Default,,0,0,0,,เพื่อการนั้น เราต้องทำลายพวกที่ต่อต้านให้หมด
-Dialogue: 0,0:41:57.97,0:42:02.22,Default,,0,0,0,,พร้อมกับวัดค่าไซโคพาสทุกคนในประเทศ
+Dialogue: 0,0:41:53.72,0:41:57.89,Default,,0,0,0,,เพื่อการนั้น เราต้องเก็บกวาดพวกกลุ่มต่อต้านติดอาวุธให้หมด
+Dialogue: 0,0:41:57.97,0:42:02.22,Default,,0,0,0,,พร้อมกับวัดค่าไซโคพาสทุกคนในประเทศให้เร็วที่สุด
 Dialogue: 0,0:42:41.76,0:42:42.93,Default,,0,0,0,,เริ่มโจมตีได้
 Dialogue: 0,0:42:43.43,0:42:44.27,Default,,0,0,0,,รับทราบ !
-Dialogue: 0,0:42:44.39,0:42:46.94,Default,,0,0,0,,ทุกหน่วยสลับไปใช้ รูปแบบการรบ
+Dialogue: 0,0:42:44.39,0:42:46.94,Default,,0,0,0,,ทุกหน่วยเปลี่ยนไปใช้ รูปแบบการรบ
 Dialogue: 0,0:42:47.44,0:42:48.94,Default,,0,0,0,,เรากำลังจะเริ่มโจมตีครับ
 Dialogue: 0,0:43:05.79,0:43:08.33,Default,,0,0,0,,{\i1}〈ประจำตำแหน่ง เร็วเข้า !〉{\i0}
 Dialogue: 0,0:43:30.52,0:43:32.36,Default,,0,0,0,,โหดร้ายเกินไปแล้ว
