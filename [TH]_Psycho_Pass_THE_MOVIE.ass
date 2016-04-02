@@ -15,16 +15,9 @@ Video File: F:/[1] ANIME/Psycho-Pass The Movie (1080p Blu-ray 8bit AC3).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-<<<<<<< HEAD
 Scroll Position: 840
 Active Line: 850
 Video Position: 113465
-=======
-Scroll Position: 838
-Active Line: 857
-Video Position: 10326
->>>>>>> origin/Sentence-Line-760-858
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Open Sans Semibold,81,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,3.825,0,2,0,0,63,1
@@ -864,11 +857,7 @@ Dialogue: 0,1:16:40.30,1:16:41.80,Default,,0,0,0,,เอาล่ะ...
 Dialogue: 0,1:18:00.46,1:18:02.55,Default,,0,0,0,,ขอโทษด้วยค่ะ ท่านซึเนโมริ
 Dialogue: 0,1:18:02.72,1:18:04.51,Default,,0,0,0,,ดิฉันเห็นคุณกลับห้องมาแล้ว
 Dialogue: 0,1:18:04.59,1:18:06.89,Default,,0,0,0,,เลยมาเตรียมอาหารให้ค่ะ
-<<<<<<< HEAD
 Dialogue: 0,1:18:08.60,1:18:10.22,Default,,0,0,0,,คุณโยขอบคุณค่ะ
-=======
-Dialogue: 0,1:18:08.60,1:18:10.22,Default,,0,0,0,,ขอบคุณค่ะคุณโย
->>>>>>> origin/Sentence-Line-760-858
 Dialogue: 0,1:18:10.72,1:18:12.73,Default,,0,0,0,,เดี๋ยวฉันอาบน้ำเสร็จจะไปทานนะคะ
 Dialogue: 0,1:18:13.19,1:18:15.90,Default,,0,0,0,,ค่ะ ได้แน่นอนค่ะ
 Dialogue: 0,1:18:20.11,1:18:21.61,Default,,0,0,0,,หือ? อากาเนะจัง
@@ -886,19 +875,11 @@ Dialogue: 0,1:18:45.18,1:18:46.80,Default,,0,0,0,,หวังไว้ว่า
 Dialogue: 0,1:18:46.93,1:18:48.35,Default,,0,0,0,,ทางนู้น
 Dialogue: 0,1:18:48.43,1:18:50.93,Default,,0,0,0,,ก็กำลังใช้งานระบบซิบิลอยู่ไม่ใช่เหรอ
 Dialogue: 0,1:18:51.06,1:18:52.35,Default,,0,0,0,,มันเป็นไปได้ว่า
-<<<<<<< HEAD
 Dialogue: 0,1:18:52.43,1:18:55.35,Default,,0,0,0,,ระบบจะถูกใช้อย่างไม่เป็นธรรมค่ะ
-Dialogue: 0,1:18:55.44,1:18:56.48,Default,,0,0,0,,เช็คที่ตึกเก็บอุปกรณ์
-Dialogue: 0,1:18:56.60,1:19:00.27,Default,,0,0,0,,และคอยจับตาดูพวกทหารรักษาการณ์ด้วยค่ะ
-Dialogue: 0,1:19:00.40,1:19:03.74,Default,,0,0,0,,ฉันอยากให้คุณรู้ตัวให้เร็วที่สุด
-Dialogue: 0,1:19:03.82,1:19:05.95,Default,,0,0,0,,ในตอนที่เครื่องสแกนเสียงตรวจวัดได้ค่ะ
-=======
-Dialogue: 0,1:18:52.43,1:18:55.35,Default,,0,0,0,,ซิบิลนั้นถูกตั้งค่าอย่างไม่เป็นธรรมค่ะ
 Dialogue: 0,1:18:55.44,1:18:56.48,Default,,0,0,0,,ในเขตหวงห้าม
 Dialogue: 0,1:18:56.60,1:19:00.27,Default,,0,0,0,,โดยเฉพาะพวกพวกทหารรักษาการณ์ ที่อยู่แถวนั้น ช่วยตรวจสอบให้ด้วยค่ะ
 Dialogue: 0,1:19:00.40,1:19:03.74,Default,,0,0,0,,ไซแมนติกสแกนกำลังทำงานถูกต้องจริงรึเปล่านั้น
 Dialogue: 0,1:19:03.82,1:19:05.95,Default,,0,0,0,,อยากให้ตรวจสอบให้เร็วที่สุดค่ะ
->>>>>>> origin/Sentence-Line-760-858
 Dialogue: 0,1:19:07.45,1:19:09.95,Default,,0,0,0,,สัญชาตญาณของนักสืบงั้นสินะ
 Dialogue: 0,1:19:10.87,1:19:15.29,Default,,0,0,0,,ไม่ใช่แบบนั้นหรอกค่ะ เป็นข้อสรุปที่ได้มาหลังจากพบความจริงค่ะ
 Dialogue: 0,1:19:17.75,1:19:20.96,Default,,0,0,0,,เข้าใจล่ะ เดี๋ยวเจ๊จัดให้
