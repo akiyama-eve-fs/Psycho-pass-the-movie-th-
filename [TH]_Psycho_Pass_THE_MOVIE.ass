@@ -4,688 +4,706 @@
 Title: [Pancake_RAWs]_Psycho_Pass_THE_MOVIE_(1280x720_x265_AAC&FLAC)_Track03_PGS
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 1920
-PlayResY: 1080
+PlayResX: 432
+PlayResY: 240
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: F:/[1] ANIME/[IEgg-Raws] The Movie PSYCHO-PASS (BDRip 1920X1080 x264 FLAC 5.1Ch).mkv
-Video File: F:/[1] ANIME/[IEgg-Raws] The Movie PSYCHO-PASS (BDRip 1920X1080 x264 FLAC 5.1Ch).mkv
+Last Style Storage: Psycho-pass
+Audio File: ../[Raws] The Movie PSYCHO-PASS (Test size).mp4
+Video File: ../[Raws] The Movie PSYCHO-PASS (Test size).mp4
 Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 734
-Active Line: 743
-Video Position: 97596
+Video AR Value: 1.800000
+Video Zoom Percent: 2.000000
+Scroll Position: 76
+Active Line: 77
+Video Position: 7629
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans Semibold,81,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,3.825,0,2,0,0,63,1
-Style: TitleCard,Open Sans Semibold,63,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,3.825,0,2,0,0,63,1
+Style: Default,CS ChatThaiUI,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Style: TitleCard,CS ChatThaiUI,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,16,0,2,10,10,10,1
+Style: Default - Top,CS ChatThaiUI,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:31.95,0:00:36.74,Default,,0,0,0,,As though we are atop living stilts which continuously grow,
-Dialogue: 0,0:00:36.87,0:00:40.41,Default,,0,0,0,,occasionally taller even than church belfries,
-Dialogue: 0,0:00:40.58,0:00:45.42,Default,,0,0,0,,until eventually, walking becomes difficult and dangerous
-Dialogue: 0,0:00:45.58,0:00:47.92,Default,,0,0,0,,and at last, the fall.
-Dialogue: 0,0:00:49.38,0:00:50.59,Default,,0,0,0,,They're coming.
-Dialogue: 0,0:00:56.43,0:00:57.68,Default,,0,0,0,,Three clicks left...
-Dialogue: 0,0:00:58.76,0:01:00.27,Default,,0,0,0,,Four clicks right...
-Dialogue: 0,0:01:01.39,0:01:04.60,Default,,0,0,0,,One click left...\NTwo clicks right...
-Dialogue: 0,0:01:07.23,0:01:07.94,Default,,0,0,0,,Now!
-Dialogue: 0,0:01:09.94,0:01:11.61,Default,,0,0,0,,You did it, Kougami!
-Dialogue: 0,0:01:21.74,0:01:25.58,Default,,0,0,0,,I say, it is the cruel law of art that
-Dialogue: 0,0:01:25.79,0:01:27.92,Default,,0,0,0,,human beings should die
-Dialogue: 0,0:01:28.21,0:01:31.25,Default,,0,0,0,,and that we ourselves must die after
-Dialogue: 0,0:01:31.42,0:01:34.76,Default,,0,0,0,,exhausting the gamut of suffering,
-Dialogue: 0,0:01:35.13,0:01:39.60,Default,,0,0,0,,so that the grass, not of oblivion but of eternal life
-Dialogue: 0,0:01:39.97,0:01:43.02,Default,,0,0,0,,may grow, the thick grass of fecund works.
-Dialogue: 0,0:02:04.00,0:02:05.62,Default,,0,0,0,,Do an equipment check.
-Dialogue: 0,0:02:12.25,0:02:13.63,Default,,0,0,0,,Power the glasses.
-Dialogue: 0,0:02:17.63,0:02:20.47,Default,,0,0,0,,Download the map and our schedule.
-Dialogue: 0,0:02:23.22,0:02:25.56,Default,,0,0,0,,No problems. They're working.
-Dialogue: 0,0:02:28.19,0:02:30.81,Default,,0,0,0,,Don't deviate from the specified route.
-Dialogue: 0,0:02:31.52,0:02:32.57,Default,,0,0,0,,Let's go.
-Dialogue: 0,0:03:45.64,0:03:47.06,Default,,0,0,0,,Did you find something?
-Dialogue: 0,0:03:50.81,0:03:53.56,Default,,0,0,0,,It's nice to see that my customers got here safely.
-Dialogue: 0,0:03:55.40,0:03:57.07,Default,,0,0,0,,Identity confirmed.
-Dialogue: 0,0:03:59.57,0:04:01.74,Default,,0,0,0,,You are Mr. Miyazaki?
-Dialogue: 0,0:04:01.82,0:04:04.49,Default,,0,0,0,,Hey c'mon. Give me a sec.
-Dialogue: 0,0:04:04.66,0:04:06.95,Default,,0,0,0,,Let me turn my translator on first.
-Dialogue: 0,0:04:09.66,0:04:11.25,Default,,0,0,0,,Say something.
-Dialogue: 0,0:04:12.29,0:04:13.37,Default,,0,0,0,,We need a car.
-Dialogue: 0,0:04:14.25,0:04:15.38,Default,,0,0,0,,We need a car.
-Dialogue: 0,0:04:16.29,0:04:18.63,Default,,0,0,0,,Okay. Let's get down to business.
-Dialogue: 0,0:04:19.88,0:04:22.26,Default,,0,0,0,,I want it just as I ordered it earlier.
-Dialogue: 0,0:04:22.43,0:04:25.51,Default,,0,0,0,,An older-model car, without interior cameras.
-Dialogue: 0,0:04:25.80,0:04:29.60,Default,,0,0,0,,It needs to have the lifeform scanners fooled too.
-Dialogue: 0,0:04:30.39,0:04:31.64,Default,,0,0,0,,Not a problem.
-Dialogue: 0,0:04:31.73,0:04:34.56,Default,,0,0,0,,Show me the money, and I'll get you anything.
-Dialogue: 0,0:04:44.99,0:04:47.74,Default,,0,0,0,,Don't get tagged by the street scanners, alright?
-Dialogue: 0,0:04:48.66,0:04:50.50,Default,,0,0,0,,I can tell just by looking at you guys
-Dialogue: 0,0:04:51.00,0:04:53.00,Default,,0,0,0,,that your Psycho-Passes aren't good.
-Dialogue: 0,0:04:58.50,0:05:00.71,Default,,0,0,0,,I'm surprised you found this place.
-Dialogue: 0,0:05:01.13,0:05:03.51,Default,,0,0,0,,I've been using an information broker these days.
-Dialogue: 0,0:05:05.43,0:05:06.43,Default,,0,0,0,,Huh.
-Dialogue: 0,0:05:07.64,0:05:10.18,Default,,0,0,0,,Sort of like one of those old-school detectives.
-Dialogue: 0,0:05:51.85,0:05:53.60,Default,,0,0,0,,You see the info from the Pillbugs
-Dialogue: 0,0:05:53.72,0:05:55.85,Default,,0,0,0,,on your Terminals, right?
-Dialogue: 0,0:05:56.27,0:05:58.23,Default,,0,0,0,,They're probably illegal immigrants,
-Dialogue: 0,0:05:58.40,0:05:59.94,Default,,0,0,0,,although I don't know how they got in.
-Dialogue: 0,0:06:00.52,0:06:01.94,Default,,0,0,0,,Six foreigners,
-Dialogue: 0,0:06:02.23,0:06:04.44,Default,,0,0,0,,and one probable black market broker.
-Dialogue: 0,0:06:04.90,0:06:07.36,Default,,0,0,0,,A quick Hue Check shows that they're all past the limit.
-Dialogue: 0,0:06:07.82,0:06:10.24,Default,,0,0,0,,Checking their Crime Coefficients with the Dominators
-Dialogue: 0,0:06:10.41,0:06:11.87,Default,,0,0,0,,will probably say the same thing.
-Dialogue: 0,0:06:13.41,0:06:14.91,Default,,0,0,0,,What's the plan of attack?
-Dialogue: 0,0:06:16.08,0:06:18.67,Default,,0,0,0,,Once we block the entrance to the parking garage with drones,
-Dialogue: 0,0:06:18.68,0:06:22.67,Default,,0,0,0,,we'll split into emergency staircase\Nand elevator teams.
-Dialogue: 0,0:06:24.09,0:06:26.13,Default,,0,0,0,,We've verified that there are no traps
-Dialogue: 0,0:06:26.26,0:06:28.76,Default,,0,0,0,,at either of our entry points.
-Dialogue: 0,0:06:29.05,0:06:29.72,Default,,0,0,0,,So,
-Dialogue: 0,0:06:30.09,0:06:31.80,Default,,0,0,0,,Ginoza and Kunizuka will take the stairs with me.
-Dialogue: 0,0:06:31.93,0:06:33.47,Default,,0,0,0,,will take the stairs with me.
-Dialogue: 0,0:06:34.93,0:06:38.27,Default,,0,0,0,,Inspector Shimozuki will take the elevator with\NSugou and Hinakawa,
-Dialogue: 0,0:06:38.44,0:06:41.23,Default,,0,0,0,,putting two drones in the lead.
-Dialogue: 0,0:06:42.19,0:06:43.23,Default,,0,0,0,,Roger that.
-Dialogue: 0,0:06:44.11,0:06:45.94,Default,,0,0,0,,First, my team will enter
-Dialogue: 0,0:06:46.03,0:06:48.45,Default,,0,0,0,,using flashbang grenades,
-Dialogue: 0,0:06:48.91,0:06:50.95,Default,,0,0,0,,which will distract the enemy.
-Dialogue: 0,0:06:51.28,0:06:53.45,Default,,0,0,0,,At that time, Inspector Shimotsuki's team
-Dialogue: 0,0:06:53.58,0:06:56.75,Default,,0,0,0,,will enter from the rear and flank the enemy,
-Dialogue: 0,0:06:56.83,0:06:58.46,Default,,0,0,0,,trapping all of them.
-Dialogue: 0,0:07:00.04,0:07:01.42,Default,,0,0,0,,Flashbangs?
-Dialogue: 0,0:07:01.92,0:07:03.88,Default,,0,0,0,,You're being really careful.
-Dialogue: 0,0:07:04.13,0:07:06.30,Default,,0,0,0,,If the information from the Pillbugs is correct,
-Dialogue: 0,0:07:06.46,0:07:08.59,Default,,0,0,0,,the enemy is equipped with firearms.
-Dialogue: 0,0:07:08.93,0:07:10.09,Default,,0,0,0,,You mean...
-Dialogue: 0,0:07:10.64,0:07:15.10,Default,,0,0,0,,If we allow the enemy to counterattack,\Nthere will likely be casualties.
-Dialogue: 0,0:07:15.43,0:07:17.43,Default,,0,0,0,,Take extreme caution.
-Dialogue: 0,0:07:18.02,0:07:18.94,Default,,0,0,0,,Roger.
-Dialogue: 0,0:07:27.15,0:07:27.86,Default,,0,0,0,,Hmmm...
-Dialogue: 0,0:07:29.65,0:07:33.16,Default,,0,0,0,,Well then, the deal's done.
-Dialogue: 0,0:07:41.25,0:07:42.38,Default,,0,0,0,,Huh?
-Dialogue: 0,0:07:59.06,0:08:01.06,Default,,0,0,0,,Shit! It's the Bureau?!
-Dialogue: 0,0:08:10.03,0:08:11.57,Default,,0,0,0,,This is the Bureau of Public Safety!
-Dialogue: 0,0:08:12.20,0:08:13.86,Default,,0,0,0,,Don't do anything stupid!
-Dialogue: 0,0:08:15.12,0:08:17.74,Default,,0,0,0,,Crime Coefficient over 170.
-Dialogue: 0,0:08:17.87,0:08:21.21,Default,,0,0,0,,He's a target for enforcement action.\NThe safety will be released.
-Dialogue: 0,0:08:26.21,0:08:27.17,Default,,0,0,0,,Return fire!
-Dialogue: 0,0:08:36.64,0:08:37.85,Default,,0,0,0,,Who are these guys?
-Dialogue: 0,0:08:38.06,0:08:39.47,Default,,0,0,0,,They're used to combat.
-Dialogue: 0,0:08:52.82,0:08:55.32,Default,,0,0,0,,Crime Coefficient is 310.
-Dialogue: 0,0:08:55.45,0:08:57.32,Default,,0,0,0,,Lethal Eliminator.
-Dialogue: 0,0:08:57.53,0:08:58.99,Default,,0,0,0,,He is a target for enforcement action.
-Dialogue: 0,0:09:14.84,0:09:17.55,Default,,0,0,0,,Crime Coefficient is 326.
-Dialogue: 0,0:09:18.14,0:09:19.76,Default,,0,0,0,,Lethal Eliminator.
-Dialogue: 0,0:09:19.85,0:09:20.31,Default,,0,0,0,,Damnit!
-Dialogue: 0,0:09:20.72,0:09:22.22,Default,,0,0,0,,He is a target for enforcement action.
-Dialogue: 0,0:10:08.06,0:10:11.19,Default,,0,0,0,,Target's Threat Judgement has been updated.
-Dialogue: 0,0:10:11.44,0:10:14.44,Default,,0,0,0,,Explosive Destroy Decomposer.
-Dialogue: 0,0:10:30.50,0:10:31.54,Default,,0,0,0,,Secure him!
-Dialogue: 0,0:10:31.67,0:10:32.50,Default,,0,0,0,,Understood!
-Dialogue: 0,0:10:33.00,0:10:35.84,Default,,0,0,0,,This is the Bureau of Public Safety.
-Dialogue: 0,0:10:36.22,0:10:37.55,Default,,0,0,0,,Please cease all resistance
-Dialogue: 0,0:10:38.01,0:10:41.18,Default,,0,0,0,,and hand over the weapon in your possession,
-Dialogue: 0,0:10:41.55,0:10:43.39,Default,,0,0,0,,then surrender.
-Dialogue: 0,0:10:43.64,0:10:44.52,Default,,0,0,0,,This is the Bureau of Public Safety.
-Dialogue: 0,0:10:44.64,0:10:45.77,Default,,0,0,0,,That's enough!
-Dialogue: 0,0:10:53.36,0:10:55.36,Default,,0,0,0,,Put down the weapon and give yourself up.
-Dialogue: 0,0:11:00.03,0:11:02.32,Default,,0,0,0,,Turn around slowly.
-Dialogue: 0,0:11:09.25,0:11:10.25,Default,,0,0,0,,Stop!
-Dialogue: 0,0:11:10.37,0:11:13.25,Default,,0,0,0,,Crime Coefficient is 293.
-Dialogue: 0,0:11:13.50,0:11:15.34,Default,,0,0,0,,He is an enforcement target.
-Dialogue: 0,0:11:49.50,0:11:53.00,TitleCard,,0,0,0,,This is a world where the mental state and personal tendencies of humans can be quantified.
-Dialogue: 0,0:11:54.50,0:12:00.00,TitleCard,,0,0,0,,While all sorts of inclinations are recorded and policed, these measured numbers used to judge people's souls are commonly called "Psycho-Pass."
-Dialogue: 0,0:12:01.00,0:12:04.00,TitleCard,,0,0,0,,When a person's Crime Coefficient exceeds a certain value, they are deemed a "Latent Criminal," and are arrested and isolated.
-Dialogue: 0,0:12:06.50,0:12:09.80,TitleCard,,0,0,0,,The Ministry of Health and Welfare manages a massive network to unmask Latent Criminals and provide Mental Care for the registered populace. This surveillance system is known as:
-Dialogue: 0,0:12:10.50,0:12:12.50,TitleCard,,0,0,0,,The Sybil System.
-Dialogue: 0,0:13:47.74,0:13:50.74,Default,,0,0,0,,Up against armed criminals, yet you took zero casualties.
-Dialogue: 0,0:13:50.87,0:13:52.33,Default,,0,0,0,,Well done.
-Dialogue: 0,0:13:52.95,0:13:54.29,Default,,0,0,0,,The investigation will resume
-Dialogue: 0,0:13:54.37,0:13:58.50,Default,,0,0,0,,once the Paralyzer wears off.
-Dialogue: 0,0:13:58.88,0:14:01.50,Default,,0,0,0,,I'd like you to take a break until then.
-Dialogue: 0,0:14:03.09,0:14:05.76,Default,,0,0,0,,Those illegal immigrants had guns.
-Dialogue: 0,0:14:06.30,0:14:08.55,Default,,0,0,0,,Those advanced glasses
-Dialogue: 0,0:14:08.72,0:14:11.43,Default,,0,0,0,,were developed by someone with knowledge
-Dialogue: 0,0:14:11.56,0:14:13.52,Default,,0,0,0,,of this country's security protocols.
-Dialogue: 0,0:14:14.02,0:14:15.73,Default,,0,0,0,,What are you trying to say?
-Dialogue: 0,0:14:15.85,0:14:16.94,Default,,0,0,0,,Isn't something
-Dialogue: 0,0:14:17.06,0:14:19.61,Default,,0,0,0,,strange going on?
-Dialogue: 0,0:14:20.73,0:14:22.11,Default,,0,0,0,,Naturally,
-Dialogue: 0,0:14:22.44,0:14:25.15,Default,,0,0,0,,all kinds of things are going on.
-Dialogue: 0,0:14:25.40,0:14:29.45,Default,,0,0,0,,Whether it's strange or not is a matter of perspective.
-Dialogue: 0,0:14:32.08,0:14:33.12,Default,,0,0,0,,Anyway,
-Dialogue: 0,0:14:34.12,0:14:35.70,Default,,0,0,0,,I'll have more after my investigation.
-Dialogue: 0,0:14:55.81,0:14:56.43,Default,,0,0,0,,Yes?
-Dialogue: 0,0:14:56.81,0:14:58.44,Default,,0,0,0,,Inspector Shimotsuki,
-Dialogue: 0,0:14:58.52,0:15:00.60,Default,,0,0,0,,come up to my office.
-Dialogue: 0,0:15:11.70,0:15:13.45,Default,,0,0,0,,You're getting married?\NYes.
-Dialogue: 0,0:15:14.24,0:15:16.66,Default,,0,0,0,,He's busy too, so
-Dialogue: 0,0:15:17.87,0:15:21.79,Default,,0,0,0,,the ceremony will probably have to wait.
-Dialogue: 0,0:15:23.29,0:15:27.01,Default,,0,0,0,,Even so, I want you to meet him.
-Dialogue: 0,0:15:30.38,0:15:34.26,Default,,0,0,0,,You're finally getting married, huh?\NCongrats!
-Dialogue: 0,0:15:34.43,0:15:36.68,Default,,0,0,0,,Thanks.
-Dialogue: 0,0:15:38.64,0:15:41.81,Default,,0,0,0,,Now I finally know firsthand that the Sybil System's
-Dialogue: 0,0:15:41.90,0:15:43.98,Default,,0,0,0,,Romantic Compatibility is really something.
-Dialogue: 0,0:15:44.11,0:15:47.32,Default,,0,0,0,,The System was the only reason I had a chance to meet him, too...
-Dialogue: 0,0:15:47.65,0:15:51.36,Default,,0,0,0,,So we said "what the heck," and\Ncontacted each other's parents.
-Dialogue: 0,0:15:52.32,0:15:54.12,Default,,0,0,0,,Still,
-Dialogue: 0,0:15:54.32,0:15:57.37,Default,,0,0,0,,I can't say that I didn't have any\Ncomplaints about him at first.
-Dialogue: 0,0:15:58.00,0:15:59.62,Default,,0,0,0,,But in the end,
-Dialogue: 0,0:16:00.04,0:16:02.92,Default,,0,0,0,,he was the perfect guy for me.
-Dialogue: 0,0:16:03.96,0:16:06.67,Default,,0,0,0,,Although there was a lot to deal with too.
-Dialogue: 0,0:16:07.67,0:16:09.01,Default,,0,0,0,,I see...
-Dialogue: 0,0:16:13.84,0:16:16.81,Default,,0,0,0,,We can live in peace
-Dialogue: 0,0:16:17.68,0:16:21.23,Default,,0,0,0,,Because of your Bureau of Public Safety, right?
-Dialogue: 0,0:16:22.31,0:16:23.44,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:16:23.98,0:16:27.19,Default,,0,0,0,,If Sybil
-Dialogue: 0,0:16:27.57,0:16:29.11,Default,,0,0,0,,can find us the path to happiness
-Dialogue: 0,0:16:29.19,0:16:32.20,Default,,0,0,0,,better than we ever could,
-Dialogue: 0,0:16:33.07,0:16:34.74,Default,,0,0,0,,maybe someday,
-Dialogue: 0,0:16:34.99,0:16:38.70,Default,,0,0,0,,Sybil will be able to save everyone on Earth.
-Dialogue: 0,0:16:40.25,0:16:42.04,Default,,0,0,0,,I wonder about that...
-Dialogue: 0,0:16:42.16,0:16:43.21,Default,,0,0,0,,And now news regarding
-Dialogue: 0,0:16:43.33,0:16:45.04,Default,,0,0,0,,the Sybil Export Program,
-Dialogue: 0,0:16:45.17,0:16:47.92,Default,,0,0,0,,currently being conducted to aid SEAUn.
-Dialogue: 0,0:16:48.30,0:16:52.01,Default,,0,0,0,,The experimentally deployed Sybil System\Nin the capital of Shamballa Float
-Dialogue: 0,0:16:52.09,0:16:55.39,Default,,0,0,0,,which had issues with its initial roll-out,
-Dialogue: 0,0:16:55.51,0:16:57.97,Default,,0,0,0,,is now functioning well...
-Dialogue: 0,0:16:58.06,0:16:59.39,Default,,0,0,0,,It's impressive
-Dialogue: 0,0:16:59.52,0:17:02.68,Default,,0,0,0,,that we could bring peace and order to a\Nwar-torn nation.
-Dialogue: 0,0:18:12.63,0:18:13.96,Default,,0,0,0,,I wonder...
-Dialogue: 0,0:18:14.92,0:18:16.17,Default,,0,0,0,,where he is and what he's doing?
-Dialogue: 0,0:18:32.65,0:18:33.73,Default,,0,0,0,,What's going on,
-Dialogue: 0,0:18:33.82,0:18:35.03,Default,,0,0,0,,Shion?
-Dialogue: 0,0:18:36.49,0:18:39.32,Default,,0,0,0,,I'm using a secure line right now.
-Dialogue: 0,0:18:40.24,0:18:43.49,Default,,0,0,0,,Don't tell anybody that we had this conversation.
-Dialogue: 0,0:18:43.58,0:18:46.96,Default,,0,0,0,,Inspector Shimotsuki is operating under the Chief's orders.
-Dialogue: 0,0:18:47.46,0:18:48.75,Default,,0,0,0,,What's she doing?
-Dialogue: 0,0:18:49.04,0:18:51.67,Default,,0,0,0,,I can't defy a superior's orders.
-Dialogue: 0,0:18:51.75,0:18:53.71,Default,,0,0,0,,Get here as fast as you can.
-Dialogue: 0,0:18:53.84,0:18:55.71,Default,,0,0,0,,I don't know what she's trying to do,
-Dialogue: 0,0:18:55.84,0:18:57.22,Default,,0,0,0,,but could you stop her?
-Dialogue: 0,0:18:58.84,0:19:00.30,Default,,0,0,0,,Can you buy some time?
-Dialogue: 0,0:19:00.72,0:19:02.93,Default,,0,0,0,,Sorry, it's too late for that.
-Dialogue: 0,0:19:03.68,0:19:05.18,Default,,0,0,0,,I'm so sorry.
-Dialogue: 0,0:19:08.98,0:19:11.02,Default,,0,0,0,,You performed a Memory Scoop for the investigation?
-Dialogue: 0,0:19:11.36,0:19:12.77,Default,,0,0,0,,What the hell were you thinking?
-Dialogue: 0,0:19:13.07,0:19:15.03,Default,,0,0,0,,Don't get mad at me...
-Dialogue: 0,0:19:15.53,0:19:17.32,Default,,0,0,0,,Chief's orders.
-Dialogue: 0,0:19:17.74,0:19:20.61,Default,,0,0,0,,It's not Analyst Karanomori's fault.
-Dialogue: 0,0:19:23.16,0:19:25.95,Default,,0,0,0,,The man was a confirmed Latent Criminal.
-Dialogue: 0,0:19:26.12,0:19:27.62,Default,,0,0,0,,Just because there's no precedent
-Dialogue: 0,0:19:27.75,0:19:29.33,Default,,0,0,0,,doesn't mean it's illegal.
-Dialogue: 0,0:19:41.22,0:19:42.39,Default,,0,0,0,,That's awful.
-Dialogue: 0,0:19:43.39,0:19:45.60,Default,,0,0,0,,We gave him some drugs
-Dialogue: 0,0:19:45.72,0:19:47.85,Default,,0,0,0,,to make his brainwaves stand out more.
-Dialogue: 0,0:19:48.60,0:19:52.48,Default,,0,0,0,,We've never had armed illegal immigrants come in before,
-Dialogue: 0,0:19:53.02,0:19:54.90,Default,,0,0,0,,and on top of that, he's a Latent Criminal.
-Dialogue: 0,0:19:55.40,0:19:57.82,Default,,0,0,0,,It's not like he has any rights we need to consider.
-Dialogue: 0,0:19:58.07,0:20:00.74,Default,,0,0,0,,Thanks to that, I got results.
-Dialogue: 0,0:20:00.99,0:20:02.07,Default,,0,0,0,,Results?
-Dialogue: 0,0:20:02.20,0:20:04.74,Default,,0,0,0,,The Chief wants to see you.
-Dialogue: 0,0:20:06.16,0:20:08.79,Default,,0,0,0,,What the hell are you using Inspector Shimotsuki for?
-Dialogue: 0,0:20:09.29,0:20:12.25,Default,,0,0,0,,Investigating the incident.
-Dialogue: 0,0:20:11.00,0:20:12.25,Default,,0,0,0,,{\an8}{\3c&H20116C&}You have no shame!
-Dialogue: 0,0:20:12.33,0:20:14.17,Default,,0,0,0,,It's an incident all the same.
-Dialogue: 0,0:20:14.38,0:20:16.59,Default,,0,0,0,,We did what had to be done.
-Dialogue: 0,0:20:17.13,0:20:18.67,Default,,0,0,0,,Look at this.
-Dialogue: 0,0:20:25.43,0:20:29.10,Default,,0,0,0,,I'm certain that you'll recognize him.
-Dialogue: 0,0:20:30.18,0:20:32.89,Default,,0,0,0,,He was under your command, after all.
-Dialogue: 0,0:20:38.69,0:20:42.45,Default,,0,0,0,,A group of foreign terrorists smuggle themselves in,
-Dialogue: 0,0:20:42.61,0:20:47.62,Default,,0,0,0,,and their memories contain an Enforcer who deserted three years ago.
-Dialogue: 0,0:20:48.91,0:20:51.12,Default,,0,0,0,,Very interesting, don't you think?
-Dialogue: 0,0:20:52.16,0:20:55.17,Default,,0,0,0,,You see, my theory is that
-Dialogue: 0,0:20:55.29,0:20:58.50,Default,,0,0,0,,Kougami Shinya has finally become a true criminal.
-Dialogue: 0,0:20:58.92,0:21:02.97,Default,,0,0,0,,We've even determined where the illegal immigrants came from.\NIt was SEAUn.
-Dialogue: 0,0:21:03.09,0:21:04.51,Default,,0,0,0,,They originated there,
-Dialogue: 0,0:21:04.63,0:21:07.85,Default,,0,0,0,,and were terrorists involved in anti-government operations.
-Dialogue: 0,0:21:08.81,0:21:11.64,Default,,0,0,0,,The Southeast Asian Union,
-Dialogue: 0,0:21:11.77,0:21:13.64,Default,,0,0,0,,they're the ones in charge of managing the Sybil System?
-Dialogue: 0,0:21:13.89,0:21:14.94,Default,,0,0,0,,That's right.
-Dialogue: 0,0:21:15.02,0:21:18.86,Default,,0,0,0,,The current capital, the artificial island of Shamballa Float
-Dialogue: 0,0:21:18.98,0:21:21.44,Default,,0,0,0,,is being administered as a Special Ward, and is also a
-Dialogue: 0,0:21:21.53,0:21:25.57,Default,,0,0,0,,test case for remote management of the Sybil System.
-Dialogue: 0,0:21:26.32,0:21:29.66,Default,,0,0,0,,However, the region is currently gripped by internal strife.
-Dialogue: 0,0:21:30.66,0:21:32.91,Default,,0,0,0,,The top-grade armed drones we currently have in place
-Dialogue: 0,0:21:33.00,0:21:37.00,Default,,0,0,0,,have been destroyed far more frequently as of late.
-Dialogue: 0,0:21:39.84,0:21:42.34,Default,,0,0,0,,That also resembles him quite well.
-Dialogue: 0,0:21:44.05,0:21:46.51,Default,,0,0,0,,There have occasionally been tales of hunters,\Nwho in their zeal to catch their prey
-Dialogue: 0,0:21:46.76,0:21:50.35,Default,,0,0,0,,end up becoming the prey themselves.
-Dialogue: 0,0:21:51.22,0:21:54.02,Default,,0,0,0,,I don't know how he escaped, or what route he took,
-Dialogue: 0,0:21:54.14,0:21:58.65,Default,,0,0,0,,but let's say that Kougami Shinya is hiding overseas,
-Dialogue: 0,0:21:58.86,0:22:02.53,Default,,0,0,0,,and he's sending criminals over to Japan.
-Dialogue: 0,0:22:03.07,0:22:05.65,Default,,0,0,0,,If he wanted to jeopardize the Sybil System,
-Dialogue: 0,0:22:05.74,0:22:07.66,Default,,0,0,0,,that's a halfway decent plan.
-Dialogue: 0,0:22:08.11,0:22:10.87,Default,,0,0,0,,Kougami wouldn't do that.
-Dialogue: 0,0:22:11.08,0:22:14.58,Default,,0,0,0,,Then what do you think of the results of this memory montage?
-Dialogue: 0,0:22:15.87,0:22:18.00,Default,,0,0,0,,Kougami Shinya and this terror group
-Dialogue: 0,0:22:18.33,0:22:20.96,Default,,0,0,0,,might be connected in some way.
-Dialogue: 0,0:22:21.38,0:22:22.30,Default,,0,0,0,,But,
-Dialogue: 0,0:22:22.38,0:22:25.92,Default,,0,0,0,,we can't say with certainty that it proves he's become a criminal.
-Dialogue: 0,0:22:26.76,0:22:31.14,Default,,0,0,0,,We should bring out the truth by investigating this.
-Dialogue: 0,0:22:37.98,0:22:40.94,Default,,0,0,0,,We've identified the country that you came from.
-Dialogue: 0,0:22:41.06,0:22:43.61,Default,,0,0,0,,Why did you come to Japan from SEAUn?
-Dialogue: 0,0:22:44.53,0:22:49.87,Default,,0,0,0,,It must have something to do with the exportation of the Sybil System.\NRight?
-Dialogue: 0,0:22:52.20,0:22:54.70,Default,,0,0,0,,What can you tell me about this man?
-Dialogue: 0,0:22:56.71,0:23:00.04,Default,,0,0,0,,Even if you don't talk, someone will.
-Dialogue: 0,0:23:04.50,0:23:07.22,Default,,0,0,0,,No one will tell you anything.
-Dialogue: 0,0:23:07.42,0:23:08.43,Default,,0,0,0,,What?
-Dialogue: 0,0:23:08.76,0:23:12.35,Default,,0,0,0,,You animals lost sight of true justice
-Dialogue: 0,0:23:12.43,0:23:15.89,Default,,0,0,0,,when you entrusted your fate to an oracle machine.
-Dialogue: 0,0:23:17.43,0:23:20.81,Default,,0,0,0,,Our wars won't make any sense to you now.
-Dialogue: 0,0:23:31.62,0:23:32.78,Default,,0,0,0,,You're asking about the possibility that
-Dialogue: 0,0:23:32.87,0:23:35.79,Default,,0,0,0,,Kougami Shinya aided and abetted a crime?
-Dialogue: 0,0:23:36.12,0:23:37.04,Default,,0,0,0,,That's right.
-Dialogue: 0,0:23:37.41,0:23:39.66,Default,,0,0,0,,Maybe he isn't on the battlefield personally,
-Dialogue: 0,0:23:39.83,0:23:43.79,Default,,0,0,0,,but his plan is to organize and lead people\Nto carry out his crimes.
-Dialogue: 0,0:23:44.04,0:23:47.38,Default,,0,0,0,,Do you think that he's capable of that?
-Dialogue: 0,0:23:48.88,0:23:52.80,Default,,0,0,0,,Like Makishima Shougo, for example?
-Dialogue: 0,0:23:54.30,0:23:55.22,Default,,0,0,0,,Yes.
-Dialogue: 0,0:23:55.56,0:23:58.14,Default,,0,0,0,,I'd like to say that it isn't possible,
-Dialogue: 0,0:23:59.02,0:24:03.65,Default,,0,0,0,,but I also can't deny that the answer is colored by my personal feelings.
-Dialogue: 0,0:24:04.90,0:24:09.03,Default,,0,0,0,,What Kougami is doing now wasn't captured by any of my predictions.
-Dialogue: 0,0:24:09.36,0:24:10.07,Default,,0,0,0,,But...
-Dialogue: 0,0:24:11.03,0:24:12.57,Default,,0,0,0,,If you want to live life
-Dialogue: 0,0:24:12.74,0:24:17.24,Default,,0,0,0,,according to your professional duties,\Nyou need to mold your soul
-Dialogue: 0,0:24:17.66,0:24:21.83,Default,,0,0,0,,into the part assigned to you by society.
-Dialogue: 0,0:24:23.33,0:24:27.05,Default,,0,0,0,,Kougami walked that path once.
-Dialogue: 0,0:24:28.46,0:24:29.55,Default,,0,0,0,,But,
-Dialogue: 0,0:24:29.67,0:24:34.14,Default,,0,0,0,,as he worked to capture Makishima, one who deviated from the mold,
-Dialogue: 0,0:24:34.64,0:24:40.56,Default,,0,0,0,,he ended up deviating from what was expected of him as well.
-Dialogue: 0,0:24:45.86,0:24:49.48,Default,,0,0,0,,Oh... You're applying to conduct your investigation abroad?
-Dialogue: 0,0:24:49.86,0:24:50.86,Default,,0,0,0,,Yes.
-Dialogue: 0,0:24:51.03,0:24:53.32,Default,,0,0,0,,You want to go to SEAUn personally?
-Dialogue: 0,0:24:54.20,0:24:58.45,Default,,0,0,0,,The special ward of Shamballa Float is operated by the Sybil System.
-Dialogue: 0,0:24:58.54,0:25:03.21,Default,,0,0,0,,In other words, the Japanese Ministry of Health and Welfare\Nis entrusted with police powers.
-Dialogue: 0,0:25:03.37,0:25:08.38,Default,,0,0,0,,Naturally, as it is enforced by one of its departments, the Bureau of Public Safety,
-Dialogue: 0,0:25:08.55,0:25:10.76,Default,,0,0,0,,your actions will be permitted.
-Dialogue: 0,0:25:11.01,0:25:12.17,Default,,0,0,0,,However,
-Dialogue: 0,0:25:12.63,0:25:15.47,Default,,0,0,0,,you will be stepping into a lawless land the minute you set foot\Noutside Shamballa Float,
-Dialogue: 0,0:25:16.01,0:25:20.52,Default,,0,0,0,,and this is why they will attempt to keep you within the Ward,
-Dialogue: 0,0:25:21.06,0:25:24.98,Default,,0,0,0,,and they will not provide any aid in\Nthe search for Kougami Shinya.
-Dialogue: 0,0:25:25.69,0:25:27.23,Default,,0,0,0,,Is that all right with you?
-Dialogue: 0,0:25:27.90,0:25:29.23,Default,,0,0,0,,I'm more than prepared.
-Dialogue: 0,0:25:30.61,0:25:33.82,Default,,0,0,0,,There's an air mail transport leaving tomorrow.
-Dialogue: 0,0:25:34.57,0:25:37.45,Default,,0,0,0,,It's a jet plane used to deliver sensitive equipment.
-Dialogue: 0,0:25:38.66,0:25:40.41,Default,,0,0,0,,How many will be accompanying you?
-Dialogue: 0,0:25:41.75,0:25:43.33,Default,,0,0,0,,Just me is enough.
-Dialogue: 0,0:25:43.96,0:25:46.83,Default,,0,0,0,,If we consider what you know about {\i1}us{\i0},
-Dialogue: 0,0:25:46.92,0:25:49.67,Default,,0,0,0,,it's probably best that you're going alone.
-Dialogue: 0,0:25:55.18,0:25:58.89,Default,,0,0,0,,I offered to come along, but they turned me down.
-Dialogue: 0,0:25:59.18,0:26:00.43,Default,,0,0,0,,I'm not surprised.
-Dialogue: 0,0:26:01.26,0:26:04.31,Default,,0,0,0,,Inspectors are never deployed abroad, after all,
-Dialogue: 0,0:26:05.27,0:26:07.56,Default,,0,0,0,,let alone Enforcers.
-Dialogue: 0,0:26:08.48,0:26:10.11,Default,,0,0,0,,I have a favor to ask.
-Dialogue: 0,0:26:10.27,0:26:11.15,Default,,0,0,0,,What is it?
-Dialogue: 0,0:26:11.78,0:26:15.15,Default,,0,0,0,,If you manage to meet up with him,
-Dialogue: 0,0:26:15.28,0:26:17.45,Default,,0,0,0,,give him a punch for me.
-Dialogue: 0,0:26:19.62,0:26:21.03,Default,,0,0,0,,I can't do that.
-Dialogue: 0,0:26:21.49,0:26:22.41,Default,,0,0,0,,What?
-Dialogue: 0,0:26:26.25,0:26:29.79,Default,,0,0,0,,If I find him, I'll arrest him and bring him back,
-Dialogue: 0,0:26:30.46,0:26:33.88,Default,,0,0,0,,so I want you to punch him yourself.
-Dialogue: 0,0:26:36.80,0:26:41.51,Default,,0,0,0,,I can't tell whether you've changed or not.
-Dialogue: 0,0:26:41.89,0:26:44.02,Default,,0,0,0,,You're a mystery as always.
-Dialogue: 0,0:26:57.28,0:27:00.74,Default,,0,0,0,,Good to have you along, Miss Ministry of Health and Welfare.
-Dialogue: 0,0:27:01.03,0:27:02.66,Default,,0,0,0,,I'm glad to be here.
-Dialogue: 0,0:27:03.58,0:27:07.75,Default,,0,0,0,,It's been a long time since we've brought along a living person.
-Dialogue: 0,0:27:33.69,0:27:38.49,Default,,0,0,0,,All order and morality simply vanished into the chaos.
-Dialogue: 0,0:27:38.95,0:27:44.16,Default,,0,0,0,,Nowadays, the vast majority of humanity is now forced to live lives no better than animals,
-Dialogue: 0,0:27:44.24,0:27:47.62,Default,,0,0,0,,driven only by the compulsions of their desires.
-Dialogue: 0,0:27:48.79,0:27:52.13,Default,,0,0,0,,Will they live in the cage that is the Sybil System?
-Dialogue: 0,0:27:52.67,0:27:58.05,Default,,0,0,0,,Or will they step outside, and submit themselves to the Law of the Jungle?
-Dialogue: 0,0:27:59.01,0:28:00.38,Default,,0,0,0,,Either way,
-Dialogue: 0,0:28:00.51,0:28:05.56,Default,,0,0,0,,there's no longer any place on Earth that respects the ideologies and dignity of their fellow humans.
-Dialogue: 0,0:28:07.31,0:28:11.52,Default,,0,0,0,,You've got to respect the strength it takes\Nto muster the willpower
-Dialogue: 0,0:28:11.81,0:28:15.73,Default,,0,0,0,,and do what's necessary to live life according to your values
-Dialogue: 0,0:28:16.11,0:28:18.69,Default,,0,0,0,,while forging your own destiny.
-Dialogue: 0,0:28:19.24,0:28:22.11,Default,,0,0,0,,Especially to those who have been put in such a bind by their predicaments
-Dialogue: 0,0:28:22.24,0:28:26.78,Default,,0,0,0,,that they're willing to go out and commit crimes.
-Dialogue: 0,0:28:28.20,0:28:31.92,Default,,0,0,0,,Makishima Shougo demonstrated that strength,
-Dialogue: 0,0:28:33.04,0:28:35.71,Default,,0,0,0,,and in the process of trying to catch him,
-Dialogue: 0,0:28:36.09,0:28:39.42,Default,,0,0,0,,Kougami demonstrated it as well.
-Dialogue: 0,0:28:41.30,0:28:42.38,Default,,0,0,0,,Yes.
-Dialogue: 0,0:28:49.93,0:28:52.94,Default,,0,0,0,,Hey, does the SEAUn government
-Dialogue: 0,0:28:53.14,0:28:55.52,Default,,0,0,0,,know who you really are?
-Dialogue: 0,0:28:56.11,0:28:57.44,Default,,0,0,0,,Of course not.
-Dialogue: 0,0:28:58.78,0:29:03.20,Default,,0,0,0,,Do you really think we would reveal a national secret to people overseas?
-Dialogue: 0,0:29:03.61,0:29:06.70,Default,,0,0,0,,As of today, we've given SEAUn
-Dialogue: 0,0:29:06.78,0:29:10.04,Default,,0,0,0,,street scanners for Cymatic Scanning
-Dialogue: 0,0:29:10.12,0:29:14.33,Default,,0,0,0,,and the ability to send the collected data back to Japan.
-Dialogue: 0,0:29:15.12,0:29:18.29,Default,,0,0,0,,We have forbidden their use of Dominators
-Dialogue: 0,0:29:18.42,0:29:20.38,Default,,0,0,0,,and we have left the matter of public order
-Dialogue: 0,0:29:20.46,0:29:23.09,Default,,0,0,0,,to the nation's military police.
-Dialogue: 0,0:29:24.13,0:29:27.18,Default,,0,0,0,,To them, the Sybil System
-Dialogue: 0,0:29:27.80,0:29:30.64,Default,,0,0,0,,is a black box somewhere overseas.
-Dialogue: 0,0:29:33.10,0:29:35.56,Default,,0,0,0,,I'm surprised Chairman Han was willing to
-Dialogue: 0,0:29:35.65,0:29:38.69,Default,,0,0,0,,accept an enigmatic system like that.
-Dialogue: 0,0:29:39.44,0:29:44.32,Default,,0,0,0,,It simply goes to show how important it was to restore public order quickly.
-Dialogue: 0,0:29:44.95,0:29:46.32,Default,,0,0,0,,It was a good opportunity.
-Dialogue: 0,0:29:47.12,0:29:52.37,Default,,0,0,0,,I think it would be valuable for you to see just how scarce and valuable
-Dialogue: 0,0:29:52.58,0:29:55.08,Default,,0,0,0,,something like peace is in the outside world.
-Dialogue: 0,0:29:55.33,0:29:57.04,Default,,0,0,0,,Perhaps you will once again
-Dialogue: 0,0:29:57.17,0:30:01.21,Default,,0,0,0,,become aware of Sybil's greatness.
-Dialogue: 0,0:30:14.56,0:30:19.69,Default,,0,0,0,,This craft will arrive at SEAUn International Airport in fifteen minutes.
-Dialogue: 0,0:30:19.81,0:30:21.69,Default,,0,0,0,,We will now be preparing to land,
-Dialogue: 0,0:30:21.77,0:30:24.36,Default,,0,0,0,,so please fasten your seat belt.
-Dialogue: 0,0:30:49.84,0:30:54.14,Default,,0,0,0,,I am Nicholas Wong, the captain of the Union Military Police.
-Dialogue: 0,0:30:54.22,0:30:59.31,Default,,0,0,0,,You must be Inspector Akane Tsunemori, from the Japanese Ministry of Health and Welfare?
-Dialogue: 0,0:30:59.56,0:31:00.36,Default,,0,0,0,,Yes.
-Dialogue: 0,0:31:03.57,0:31:04.69,Default,,0,0,0,,Welcome.
-Dialogue: 0,0:31:04.82,0:31:08.91,Default,,0,0,0,,We welcome you and the Sybil System.
-Dialogue: 0,0:31:11.41,0:31:13.70,Default,,0,0,0,,Are you shocked at how bad the situation is down here?
-Dialogue: 0,0:31:14.37,0:31:15.08,Default,,0,0,0,,No...
-Dialogue: 0,0:31:15.79,0:31:18.16,Default,,0,0,0,,Every country around the world is like this right now.
-Dialogue: 0,0:31:18.50,0:31:20.38,Default,,0,0,0,,Except Japan, that is.
-Dialogue: 0,0:31:32.30,0:31:35.64,Default,,0,0,0,,Is it really that dangerous around here?
-Dialogue: 0,0:31:35.97,0:31:38.39,Default,,0,0,0,,This is one of the better parts of town.
-Dialogue: 0,0:31:38.48,0:31:41.60,Default,,0,0,0,,The Junta in charge has been crushed.
-Dialogue: 0,0:31:41.94,0:31:44.44,Default,,0,0,0,,This civil war is coming to a close.
-Dialogue: 0,0:31:44.77,0:31:46.32,Default,,0,0,0,,So by that, you mean
-Dialogue: 0,0:31:46.48,0:31:49.11,Default,,0,0,0,,that the war isn't quite over?
-Dialogue: 0,0:31:49.40,0:31:51.20,Default,,0,0,0,,That's right.
-Dialogue: 0,0:31:52.16,0:31:56.99,Default,,0,0,0,,At present, disruptive elements of the population opposed to the current regime remain.
-Dialogue: 0,0:32:06.67,0:32:08.59,Default,,0,0,0,,Ahead of us lies Shamballa Special Ward,
-Dialogue: 0,0:32:08.67,0:32:11.93,Default,,0,0,0,,where the Sybil System is being experimentally started.
-Dialogue: 0,0:32:12.18,0:32:16.39,Default,,0,0,0,,Only those whose Hue and Crime Coefficient are at normal levels are permitted
-Dialogue: 0,0:32:16.47,0:32:18.43,Default,,0,0,0,,permitted to enter.
-Dialogue: 0,0:32:20.85,0:32:23.86,Default,,0,0,0,,{\an8}{\3c&H20116C&}{\i1}〈Please, let me into Shamballa Float!〉{\i0}
-Dialogue: 0,0:32:22.00,0:32:23.86,Default,,0,0,0,,It's thanks to your country.
-Dialogue: 0,0:32:23.98,0:32:26.61,Default,,0,0,0,,{\an8}{\3c&H20116C&}{\i1}〈Please, open up!〉{\i0}
-Dialogue: 0,0:32:25.98,0:32:26.61,Default,,0,0,0,,Hurry up and remove her.
-Dialogue: 0,0:32:26.73,0:32:30.70,Default,,0,0,0,,{\i1}〈Let me in, please!〉{\i0}
-Dialogue: 0,0:32:31.99,0:32:35.07,Default,,0,0,0,,{\i1}〈Don't move! Move and I'll shoot!〉{\i0}
-Dialogue: 0,0:32:39.66,0:32:43.21,Default,,0,0,0,,Don't worry about it.\NThis happens quite often.
-Dialogue: 0,0:33:24.42,0:33:28.59,Default,,0,0,0,,This bus is only for residents authorized by the Sybil System.
-Dialogue: 0,0:33:32.38,0:33:34.30,Default,,0,0,0,,Who are those people with the collars?
-Dialogue: 0,0:33:34.38,0:33:35.93,Default,,0,0,0,,You've noticed them, have you?
-Dialogue: 0,0:33:36.05,0:33:37.72,Default,,0,0,0,,They are Latent Criminals.
-Dialogue: 0,0:33:39.10,0:33:42.06,Default,,0,0,0,,That device allows allows them to move about freely,
-Dialogue: 0,0:33:42.18,0:33:44.73,Default,,0,0,0,,but constantly monitors their Psycho-Pass.
-Dialogue: 0,0:33:45.69,0:33:49.11,Default,,0,0,0,,If their hue clouds, their Crime Coefficient is immediately measured.
-Dialogue: 0,0:33:49.73,0:33:50.90,Default,,0,0,0,,Depending on their Coefficient,
-Dialogue: 0,0:33:51.03,0:33:55.11,Default,,0,0,0,,the device can inject a sedative or a lethal poison.
-Dialogue: 0,0:33:56.95,0:34:00.03,Default,,0,0,0,,While allowing them to live among the general population
-Dialogue: 0,0:34:00.16,0:34:03.58,Default,,0,0,0,,is harmful to the Area Stress levels,
-Dialogue: 0,0:34:04.54,0:34:05.92,Default,,0,0,0,,we still haven't been able to
-Dialogue: 0,0:34:06.00,0:34:08.75,Default,,0,0,0,,isolate our nation quite as well as Japan has,
-Dialogue: 0,0:34:08.88,0:34:10.59,Default,,0,0,0,,thus this arrangement is only temporary.
-Dialogue: 0,0:34:12.26,0:34:13.88,Default,,0,0,0,,Soldiers wear them too?
-Dialogue: 0,0:34:14.42,0:34:17.84,Default,,0,0,0,,Yes... you might call them "Enforcers."
-Dialogue: 0,0:34:18.51,0:34:21.81,Default,,0,0,0,,The entire officer corps has clean Hues,
-Dialogue: 0,0:34:22.14,0:34:24.31,Default,,0,0,0,,so we can act as "Inspectors."
-Dialogue: 0,0:34:24.68,0:34:26.77,Default,,0,0,0,,By the way, Inspector Tsunemori,
-Dialogue: 0,0:34:27.02,0:34:27.98,Default,,0,0,0,,Yes?
-Dialogue: 0,0:34:28.10,0:34:31.48,Default,,0,0,0,,If you plan to step outside Shamballa Float,
-Dialogue: 0,0:34:31.61,0:34:35.90,Default,,0,0,0,,or enter important facilities, you must go with an escort of our choosing,
-Dialogue: 0,0:34:35.99,0:34:38.45,Default,,0,0,0,,and coordinate your visits with us.
-Dialogue: 0,0:34:38.66,0:34:40.95,Default,,0,0,0,,You need someone to come with me?
-Dialogue: 0,0:34:41.12,0:34:42.33,Default,,0,0,0,,Will that be inconvenient?
-Dialogue: 0,0:34:42.87,0:34:44.08,Default,,0,0,0,,No.
-Dialogue: 0,0:34:57.59,0:35:01.30,Default,,0,0,0,,I'm an Inspector from the Japanese Ministry of Health and Welfare's Bureau of Public Safety,
-Dialogue: 0,0:35:01.47,0:35:03.22,Default,,0,0,0,,Inspector Tsunemori Akane.
-Dialogue: 0,0:35:03.64,0:35:05.77,Default,,0,0,0,,I am Chuan Han.
-Dialogue: 0,0:35:06.39,0:35:09.40,Default,,0,0,0,,I didn't think you'd come to greet me personally,
-Dialogue: 0,0:35:09.48,0:35:10.98,Default,,0,0,0,,Chairman.
-Dialogue: 0,0:35:11.19,0:35:13.73,Default,,0,0,0,,It simply means that we are very interested
-Dialogue: 0,0:35:13.82,0:35:15.86,Default,,0,0,0,,in both you and your country.
-Dialogue: 0,0:35:15.99,0:35:19.70,Default,,0,0,0,,You must be tired from your long journey. Please, sit.
-Dialogue: 0,0:35:19.91,0:35:20.99,Default,,0,0,0,,Okay.
-Dialogue: 0,0:35:23.83,0:35:27.66,Default,,0,0,0,,We would like your assistance in an international investigation...
-Dialogue: 0,0:35:28.00,0:35:29.96,Default,,0,0,0,,The man you are pursuing,
-Dialogue: 0,0:35:30.04,0:35:33.09,Default,,0,0,0,,is apparently a terrorist aiding the guerillas?
-Dialogue: 0,0:35:33.75,0:35:36.17,Default,,0,0,0,,Yes, we suspect him of that.
-Dialogue: 0,0:35:37.05,0:35:40.72,Default,,0,0,0,,This nation's efforts to take countermeasures against the guerillas are a stubborn effort at suppression;
-Dialogue: 0,0:35:40.84,0:35:43.35,Default,,0,0,0,,we would not refer to it as an "investigation."
-Dialogue: 0,0:35:44.39,0:35:46.56,Default,,0,0,0,,We will provide you with plenty of support, of course.
-Dialogue: 0,0:35:46.77,0:35:48.85,Default,,0,0,0,,However, remember that the situation in this country
-Dialogue: 0,0:35:48.93,0:35:51.10,Default,,0,0,0,,is fundamentally different from that of your own.
-Dialogue: 0,0:35:51.81,0:35:54.82,Default,,0,0,0,,I only ask that you keep that in mind.
-Dialogue: 0,0:35:55.07,0:35:56.48,Default,,0,0,0,,Understood.
-Dialogue: 0,0:35:56.94,0:35:58.69,Default,,0,0,0,,Very well. Colonel?
-Dialogue: 0,0:35:59.03,0:36:02.53,Default,,0,0,0,,I leave her in your care. Treat her well.
-Dialogue: 0,0:36:03.03,0:36:04.24,Default,,0,0,0,,Leave it to me.
-Dialogue: 0,0:36:09.50,0:36:11.29,Default,,0,0,0,,Open case.
-Dialogue: 0,0:36:14.50,0:36:15.63,Default,,0,0,0,,Hm?
-Dialogue: 0,0:36:17.80,0:36:23.39,Default,,0,0,0,,{\an8}{\i1}Sign: Open this if you're in a bind.{\i0}
-Dialogue: 0,0:36:19.13,0:36:23.39,Default,,0,0,0,,...Geez, come on, Shion.
-Dialogue: 0,0:36:33.90,0:36:36.61,Default,,0,0,0,,Chuan Han, former Army general.
-Dialogue: 0,0:36:37.15,0:36:39.69,Default,,0,0,0,,In the internal disunity that plagued the Union
-Dialogue: 0,0:36:39.78,0:36:43.91,Default,,0,0,0,,12 years ago,\Nhe was one of the generals competing for hegemony.
-Dialogue: 0,0:36:44.41,0:36:45.78,Default,,0,0,0,,By making an agreement
-Dialogue: 0,0:36:45.91,0:36:48.33,Default,,0,0,0,,to create a Sybil-controlled Special Ward within SEAUn,
-Dialogue: 0,0:36:48.41,0:36:52.67,Default,,0,0,0,,he gained the backing of the Japanese government, and gained supremacy over his rivals.
-Dialogue: 0,0:36:52.75,0:36:57.13,Default,,0,0,0,,It's been two years since he re-established the parliament and named himself Chairman.
-Dialogue: 0,0:36:57.59,0:37:02.17,Default,,0,0,0,,But the voices of rebellion still cry out against the military government.
-Dialogue: 0,0:37:02.26,0:37:05.09,Default,,0,0,0,,The situation within the country is still unstable.
-Dialogue: 0,0:37:06.97,0:37:09.01,Default,,0,0,0,,The terrorists that came to Japan
-Dialogue: 0,0:37:09.10,0:37:11.93,Default,,0,0,0,,were probably anti-government guerillas.
-Dialogue: 0,0:37:13.89,0:37:18.07,Default,,0,0,0,,The foundation of Han's power base is the support of the Japanese government,
-Dialogue: 0,0:37:20.32,0:37:24.61,Default,,0,0,0,,and as a result, Tokyo became the target of terrorists seeking revenge.
-Dialogue: 0,0:37:32.33,0:37:35.29,Default,,0,0,0,,I will be taking care of your surroundings.
-Dialogue: 0,0:37:35.58,0:37:38.38,Default,,0,0,0,,I am called Yeo. If you need anything,
-Dialogue: 0,0:37:38.46,0:37:40.96,Default,,0,0,0,,please do not hesitate to ask.
-Dialogue: 0,0:37:42.80,0:37:46.26,Default,,0,0,0,,If you would like something to eat, it would be no trouble\Nfor me to prepare something for you right now.
-Dialogue: 0,0:37:46.34,0:37:48.43,Default,,0,0,0,,If you plan to go out again,
-Dialogue: 0,0:37:48.60,0:37:52.31,Default,,0,0,0,,I have been informed that as long as you do not
-Dialogue: 0,0:37:52.43,0:37:55.85,Default,,0,0,0,,venture into secure areas or cross the bridge,
-Dialogue: 0,0:37:55.98,0:37:57.73,Default,,0,0,0,,you may go wherever you wish.
-Dialogue: 0,0:37:57.98,0:37:59.82,Default,,0,0,0,,I understand.
-Dialogue: 0,0:38:01.78,0:38:04.11,Default,,0,0,0,,In one week's time, Sybil will
-Dialogue: 0,0:38:04.20,0:38:07.07,Default,,0,0,0,,put restrictions on the alcohol trade,
-Dialogue: 0,0:38:07.20,0:38:09.78,Default,,0,0,0,,so if you would like to sample some, now is your chance.
-Dialogue: 0,0:38:09.87,0:38:10.79,Default,,0,0,0,,Um...
-Dialogue: 0,0:38:10.91,0:38:11.79,Default,,0,0,0,,Yes?
-Dialogue: 0,0:38:12.16,0:38:15.66,Default,,0,0,0,,Can you answer a personal question?
-Dialogue: 0,0:38:15.75,0:38:18.00,Default,,0,0,0,,I will answer it if I'm able to.
-Dialogue: 0,0:38:18.25,0:38:19.29,Default,,0,0,0,,Do you...
-Dialogue: 0,0:38:19.38,0:38:21.96,Default,,0,0,0,,consider your life on Shamballa to be a happy one?
-Dialogue: 0,0:38:22.21,0:38:24.63,Default,,0,0,0,,Of course.
-Dialogue: 0,0:38:25.01,0:38:27.09,Default,,0,0,0,,Everyone who lives in this Special Ward
-Dialogue: 0,0:38:27.18,0:38:29.60,Default,,0,0,0,,is thankful that Chairman Han
-Dialogue: 0,0:38:29.93,0:38:32.10,Default,,0,0,0,,introduced the Sybil System.
-Dialogue: 0,0:38:34.39,0:38:35.73,Default,,0,0,0,,After all,
-Dialogue: 0,0:38:35.85,0:38:39.73,Default,,0,0,0,,there was no such thing as a safe place in this country until very recently.
-Dialogue: 0,0:39:38.87,0:39:41.88,Default,,0,0,0,,This is not my fault! He did it!
-Dialogue: 0,0:40:16.45,0:40:17.49,Default,,0,0,0,,How 'bout it?
-Dialogue: 0,0:40:17.79,0:40:19.29,Default,,0,0,0,,All green.
-Dialogue: 0,0:40:20.46,0:40:21.58,Default,,0,0,0,,Move out.
-Dialogue: 0,0:40:28.63,0:40:29.92,Default,,0,0,0,,What?
-Dialogue: 0,0:40:35.64,0:40:37.93,Default,,0,0,0,,Mind if I join you?
-Dialogue: 0,0:40:38.77,0:40:42.56,Default,,0,0,0,,I don't mind, but don't do anything rash
-Dialogue: 0,0:40:42.65,0:40:45.02,Default,,0,0,0,,when the fighting starts.
-Dialogue: 0,0:40:46.65,0:40:49.23,Default,,0,0,0,,Of course. I understand.
-Dialogue: 0,0:40:54.62,0:40:56.83,Default,,0,0,0,,What kind of operation is this?
-Dialogue: 0,0:40:57.53,0:40:59.62,Default,,0,0,0,,The ruined old capital
-Dialogue: 0,0:40:59.70,0:41:02.50,Default,,0,0,0,,is 50 kilometers north of here.
-Dialogue: 0,0:41:03.17,0:41:06.50,Default,,0,0,0,,It's a ghost town now,
-Dialogue: 0,0:41:06.63,0:41:09.42,Default,,0,0,0,,but yesterday, we learned that there is a high probability
-Dialogue: 0,0:41:09.51,0:41:11.84,Default,,0,0,0,,that the anti-government guerillas have a base here.
-Dialogue: 0,0:41:12.09,0:41:13.51,Default,,0,0,0,,I was under the impression that our drones
-Dialogue: 0,0:41:13.63,0:41:16.64,Default,,0,0,0,,were being lent to you for peacekeeping purposes, am I right?
-Dialogue: 0,0:41:17.22,0:41:20.68,Default,,0,0,0,,Do you intend to use them for something other than policing the Ward?
-Dialogue: 0,0:41:21.02,0:41:25.02,Default,,0,0,0,,Taking care of latent threats is just another one of our duties.
-Dialogue: 0,0:41:25.60,0:41:28.40,Default,,0,0,0,,It's nothing that goes against the agreement.
-Dialogue: 0,0:41:42.87,0:41:44.92,Default,,0,0,0,,Shamballa Float is just the first step in
-Dialogue: 0,0:41:45.04,0:41:47.54,Default,,0,0,0,,getting the Sybil System a foothold here.
-Dialogue: 0,0:41:47.71,0:41:49.75,Default,,0,0,0,,We'll eventually have to expand its control
-Dialogue: 0,0:41:49.88,0:41:53.42,Default,,0,0,0,,across the entire nation.
-Dialogue: 0,0:41:53.72,0:41:57.89,Default,,0,0,0,,In order to do that, we must crush all armed opposition
-Dialogue: 0,0:41:57.97,0:42:02.22,Default,,0,0,0,,and measure the Psycho-Passes of everyone in the country.
-Dialogue: 0,0:42:41.76,0:42:42.93,Default,,0,0,0,,Commence attack!
-Dialogue: 0,0:42:43.43,0:42:44.27,Default,,0,0,0,,Roger!
-Dialogue: 0,0:42:44.39,0:42:46.94,Default,,0,0,0,,All units, switch to combat mode.
-Dialogue: 0,0:42:47.44,0:42:48.94,Default,,0,0,0,,We are commencing our attack.
-Dialogue: 0,0:43:05.79,0:43:08.33,Default,,0,0,0,,{\i1}〈Get to the point, hurry!〉{\i0}
-Dialogue: 0,0:43:30.52,0:43:32.36,Default,,0,0,0,,This is horrible.
-Dialogue: 0,0:43:32.48,0:43:34.78,Default,,0,0,0,,If the Cymatic Scan doesn't have a problem with it,
-Dialogue: 0,0:43:34.86,0:43:37.32,Default,,0,0,0,,the safety gets unlocked.
-Dialogue: 0,0:43:39.53,0:43:41.28,Default,,0,0,0,,Their Crime Coefficients
-Dialogue: 0,0:43:41.37,0:43:44.74,Default,,0,0,0,,must be at least that of Latent Criminals.
-Dialogue: 0,0:43:44.83,0:43:47.16,Default,,0,0,0,,There's no way that anybody's Psycho-Pass would
-Dialogue: 0,0:43:47.29,0:43:49.75,Default,,0,0,0,,give good numbers in a situation like this!
-Dialogue: 0,0:43:50.87,0:43:53.00,Default,,0,0,0,,It's kill or be killed.
-Dialogue: 0,0:43:56.17,0:43:59.13,Default,,0,0,0,,And unfortunately, we have no form
-Dialogue: 0,0:43:59.22,0:44:01.68,Default,,0,0,0,,of mental care to help rehabilitate these people.
-Dialogue: 0,0:44:02.59,0:44:04.14,Default,,0,0,0,,In the new SEAUn,
-Dialogue: 0,0:44:04.22,0:44:06.93,Default,,0,0,0,,only the citizens who are needed will remain.
-Dialogue: 0,0:44:10.02,0:44:11.44,Default,,0,0,0,,These guys are,
-Dialogue: 0,0:44:11.73,0:44:13.86,Default,,0,0,0,,to put it bluntly,
-Dialogue: 0,0:44:14.02,0:44:17.48,Default,,0,0,0,,the leftovers of our civil war days.
-Dialogue: 0,0:44:27.37,0:44:30.37,Default,,0,0,0,,Activating Skandas.\NCommencing mobilization.
-Dialogue: 0,0:45:03.28,0:45:05.78,Default,,0,0,0,,Lost communication with Ganga 02.
-Dialogue: 0,0:45:05.91,0:45:08.24,Default,,0,0,0,,I think it was shot down.
-Dialogue: 0,0:45:08.74,0:45:10.37,Default,,0,0,0,,We've also lost Ganga 03!
-Dialogue: 0,0:45:10.45,0:45:14.25,Default,,0,0,0,,And also Ganga 01! It was shot down!
-Dialogue: 0,0:45:15.04,0:45:16.79,Default,,0,0,0,,It's that guy.
-Dialogue: 0,0:45:29.89,0:45:33.98,Default,,0,0,0,,Start the counterattack. Do exactly as I told you.
-Dialogue: 0,0:45:43.40,0:45:45.28,Default,,0,0,0,,{\i1}〈Go! Let's move!〉{\i0}
-Dialogue: 0,0:46:46.01,0:46:48.97,Default,,0,0,0,,We're losing control of the Ganeshas and Skandas
-Dialogue: 0,0:46:49.09,0:46:51.47,Default,,0,0,0,,deployed at all points.
-Dialogue: 0,0:46:51.89,0:46:55.27,Default,,0,0,0,,It doesn't matter. The drones will restart soon
-Dialogue: 0,0:46:55.35,0:46:57.52,Default,,0,0,0,,and go into stand-alone mode.
-Dialogue: 0,0:46:57.69,0:47:00.36,Default,,0,0,0,,They can't measure Psycho-Passes,
-Dialogue: 0,0:47:00.52,0:47:03.23,Default,,0,0,0,,but it's fine as long as the Identify Friend-Foe system works.
-Dialogue: 0,0:47:03.36,0:47:07.03,Default,,0,0,0,,Don't you think that restart time is what they're after?
-Dialogue: 0,0:47:32.22,0:47:34.43,Default,,0,0,0,,All units have restarted.
-Dialogue: 0,0:47:34.60,0:47:36.73,Default,,0,0,0,,Good. Commence counterattack.
-Dialogue: 0,0:47:37.52,0:47:41.19,Default,,0,0,0,,Leave our escort units here, and commit the reserves.
-Dialogue: 0,0:48:17.43,0:48:18.93,Default,,0,0,0,,What the hell are you doing?
-Dialogue: 0,0:48:19.10,0:48:20.60,Default,,0,0,0,,Investigating the incident.
-Dialogue: 0,0:48:20.69,0:48:22.23,Default,,0,0,0,,You need to stay with me!
-Dialogue: 0,0:48:23.02,0:48:25.86,Default,,0,0,0,,I'll keep the enemy occupied here.
-Dialogue: 0,0:48:25.94,0:48:28.94,Default,,0,0,0,,We're in control now!
-Dialogue: 0,0:48:29.07,0:48:32.82,Default,,0,0,0,,But if you don't keep your eyes open, this could turn into a massacre!
-Dialogue: 0,0:49:43.48,0:49:44.73,Default,,0,0,0,,It's been a while,
-Dialogue: 0,0:49:45.35,0:49:46.56,Default,,0,0,0,,Kougami.
-Dialogue: 0,0:50:03.71,0:50:07.38,Default,,0,0,0,,I can't say that I expected you to chase me all the way out here.
-Dialogue: 0,0:50:08.38,0:50:09.75,Default,,0,0,0,,You're under arrest.
-Dialogue: 0,0:50:10.84,0:50:15.22,Default,,0,0,0,,Arrest? Do you realize the situation we're in?
-Dialogue: 0,0:50:16.22,0:50:18.47,Default,,0,0,0,,Are you the one who sent
-Dialogue: 0,0:50:18.55,0:50:19.97,Default,,0,0,0,,terrorists to Japan?
-Dialogue: 0,0:50:20.56,0:50:22.89,Default,,0,0,0,,What? What are you talking about?
-Dialogue: 0,0:50:25.39,0:50:26.10,Default,,0,0,0,,Then...
-Dialogue: 0,0:50:44.66,0:50:48.46,Default,,0,0,0,,Well, Inspector? Are you gonna stop me,
-Dialogue: 0,0:50:48.75,0:50:49.75,Default,,0,0,0,,or let me go?
-Dialogue: 0,0:50:58.51,0:50:59.72,Default,,0,0,0,,Jump in!
-Dialogue: 0,0:51:31.75,0:51:33.13,Default,,0,0,0,,Kougami.
-Dialogue: 0,0:51:35.55,0:51:37.80,Default,,0,0,0,,I'll cooperate with you.
-Dialogue: 0,0:51:38.26,0:51:39.47,Default,,0,0,0,,Hey now.
-Dialogue: 0,0:51:39.55,0:51:42.97,Default,,0,0,0,,It's only temporary.\NJust for the investigation.
-Dialogue: 0,0:51:46.81,0:51:49.39,Default,,0,0,0,,Got it, Inspector.
-Dialogue: 0,0:52:07.66,0:52:08.91,Default,,0,0,0,,Colonel!
-Dialogue: 0,0:52:09.41,0:52:12.46,Default,,0,0,0,,Remove her from the Identify Friend-Foe system!
-Dialogue: 0,0:52:12.96,0:52:13.88,Default,,0,0,0,,But...
-Dialogue: 0,0:52:14.29,0:52:18.09,Default,,0,0,0,,This is a battlefield. The mission has priority.
-Dialogue: 0,0:52:18.42,0:52:23.55,Default,,0,0,0,,It'll take time. We have to send the system back to headquarters first.
-Dialogue: 0,0:52:25.51,0:52:28.27,Default,,0,0,0,,No abdominal hernias.
-Dialogue: 0,0:52:28.39,0:52:31.48,Default,,0,0,0,,No pelvic abnormalities.\NThe pubis is joined properly.
-Dialogue: 0,0:52:31.60,0:52:32.85,Default,,0,0,0,,No lumbar vertebrae abnormalities.
-Dialogue: 0,0:52:33.69,0:52:35.57,Default,,0,0,0,,No femoral abnormalities.
-Dialogue: 0,0:52:36.23,0:52:37.82,Default,,0,0,0,,No abnormalities in the limbs.
-Dialogue: 0,0:52:38.69,0:52:40.11,Default,,0,0,0,,Get me a neck brace.
-Dialogue: 0,0:52:58.38,0:53:00.88,Default,,0,0,0,,Hurry up. We're moving out soon.
-Dialogue: 0,0:53:10.27,0:53:12.89,Default,,0,0,0,,What's going on here?\NExplain.
-Dialogue: 0,0:53:27.91,0:53:29.74,Default,,0,0,0,,It's exactly what it looks like.
-Dialogue: 0,0:53:31.00,0:53:34.04,Default,,0,0,0,,I'm taking part in the democratization of the country.
-Dialogue: 0,0:53:41.13,0:53:43.43,Default,,0,0,0,,Where are you going next?
-Dialogue: 0,0:53:44.43,0:53:46.30,Default,,0,0,0,,I'm going back to base camp.
-Dialogue: 0,0:53:55.90,0:53:57.44,Default,,0,0,0,,By the way, Inspector.
-Dialogue: 0,0:53:59.11,0:54:01.53,Default,,0,0,0,,Quit calling me that.
-Dialogue: 0,0:54:03.61,0:54:06.16,Default,,0,0,0,,Have you met Chairman Han?
-Dialogue: 0,0:54:06.32,0:54:09.45,Default,,0,0,0,,Oh, yeah. I met him yesterday.
-Dialogue: 0,0:54:09.99,0:54:12.75,Default,,0,0,0,,Don't you think there's something off about him?
-Dialogue: 0,0:54:13.00,0:54:14.16,Default,,0,0,0,,Huh?
-Dialogue: 0,0:54:14.71,0:54:17.00,Default,,0,0,0,,I wonder what a dictator's
-Dialogue: 0,0:54:17.63,0:54:19.92,Default,,0,0,0,,Crime Coefficient looks like?
-Dialogue: 0,0:54:23.13,0:54:25.34,Default,,0,0,0,,So, the mission was a failure,
-Dialogue: 0,0:54:25.47,0:54:28.68,Default,,0,0,0,,and our Japanese Inspector, Tsunemori, is missing?
-Dialogue: 0,0:54:28.80,0:54:32.22,Default,,0,0,0,,Her conduct was tantamount to aiding the guerillas.
-Dialogue: 0,0:54:32.31,0:54:35.31,Default,,0,0,0,,She acted completely without authorization!
-Dialogue: 0,0:54:35.94,0:54:37.40,Default,,0,0,0,,Be that as it may,
-Dialogue: 0,0:54:37.48,0:54:42.57,Default,,0,0,0,,she was a foreign guest in your custody.\NThis is a question of responsibility.
-Dialogue: 0,0:54:42.65,0:54:43.61,Default,,0,0,0,,But!
-Dialogue: 0,0:54:44.99,0:54:46.32,Default,,0,0,0,,I'm joking.
-Dialogue: 0,0:54:46.74,0:54:50.33,Default,,0,0,0,,The Japanese government understands\Nthe state this country is in.
-Dialogue: 0,0:54:50.45,0:54:56.62,Default,,0,0,0,,You wouldn't expect them to send her here alone in that knowledge if her life mattered to them.
-Dialogue: 0,0:54:58.33,0:55:00.88,Default,,0,0,0,,This situation is most regrettable.
-Dialogue: 0,0:55:01.17,0:55:05.97,Default,,0,0,0,,If anything, Colonel, you should prepare yourself for even bigger trouble.
-Dialogue: 0,0:55:06.05,0:55:06.76,Default,,0,0,0,,What?
-Dialogue: 0,0:55:06.84,0:55:11.05,Default,,0,0,0,,It's entirely possible that she was sent here precisely
-Dialogue: 0,0:55:11.18,0:55:15.68,Default,,0,0,0,,because they know that she's capable of surviving in these conditions.
-Dialogue: 0,0:55:15.98,0:55:19.98,Default,,0,0,0,,I'm very interested in seeing how this plays out.
-Dialogue: 0,0:55:42.04,0:55:47.05,Default,,0,0,0,,I have an urgent job for you.\NOf course, there will be a reward.
-Dialogue: 0,0:55:47.13,0:55:52.26,Default,,0,0,0,,I'm very grateful. We have more time than we know what to do with.
-Dialogue: 0,0:55:52.39,0:55:57.10,Default,,0,0,0,,Near Siem Reap, there's a guerilla stronghold containing two Japanese.
-Dialogue: 0,0:55:57.23,0:56:02.11,Default,,0,0,0,,One is a member of the group, the other, an Inspector from Tokyo who came to arrest him.
-Dialogue: 0,0:56:02.23,0:56:04.19,Default,,0,0,0,,I want them taken care of.
-Dialogue: 0,0:56:06.03,0:56:09.74,Default,,0,0,0,,The guerilla's one thing, but the Inspector too?
-Dialogue: 0,0:56:09.86,0:56:12.95,Default,,0,0,0,,She's an agent of the Japanese government, right?
-Dialogue: 0,0:56:13.41,0:56:17.12,Default,,0,0,0,,She looks as though she may get in the way. She's a hazard.
-Dialogue: 0,0:56:17.87,0:56:19.21,Default,,0,0,0,,Here we go.
-Dialogue: 0,0:56:20.71,0:56:23.13,Default,,0,0,0,,Since we got on board with Sybil,
-Dialogue: 0,0:56:23.25,0:56:25.71,Default,,0,0,0,,how will we get our message out like this?
-Dialogue: 0,0:56:29.76,0:56:33.93,Default,,0,0,0,,Thanks to Sybil, we have this paradise we call Shamballa.
-Dialogue: 0,0:56:34.01,0:56:38.18,Default,,0,0,0,,You could live civilized lives here, if you wanted.
-Dialogue: 0,0:56:39.23,0:56:43.35,Default,,0,0,0,,Just how long do you plan on playing savages\Non your little island?
-Dialogue: 0,0:56:43.44,0:56:45.48,Default,,0,0,0,,"At the level of the individual,
-Dialogue: 0,0:56:45.61,0:56:51.07,Default,,0,0,0,,violence has a detoxifying effect.\NIt takes away the inferiority complexes,
-Dialogue: 0,0:56:51.20,0:56:56.16,Default,,0,0,0,,and changes the contemplative and desperate attitude of native people.
-Dialogue: 0,0:56:57.24,0:56:58.79,Default,,0,0,0,,Violence makes them fearless,
-Dialogue: 0,0:56:58.91,0:57:02.50,Default,,0,0,0,,and restores their dignity in their own eyes."
-Dialogue: 0,0:57:03.63,0:57:06.09,Default,,0,0,0,,You're not familiar with Frantz Fanon?
-Dialogue: 0,0:57:06.21,0:57:11.26,Default,,0,0,0,,We're investigating the present whereabouts of the targets.\NAs soon as we find them...
-Dialogue: 0,0:57:11.59,0:57:13.13,Default,,0,0,0,,Don't worry about it.
-Dialogue: 0,0:57:13.26,0:57:16.60,Default,,0,0,0,,We mercenaries have our own intelligence network.
-Dialogue: 0,0:57:16.76,0:57:19.85,Default,,0,0,0,,Most information can be bought with money or valuables.
-Dialogue: 0,0:57:19.97,0:57:24.77,Default,,0,0,0,,Of course, I have to bill you for\Nthe necessary expenses separately.
-Dialogue: 0,0:57:24.94,0:57:26.52,Default,,0,0,0,,No problem.
-Dialogue: 0,0:57:26.81,0:57:32.36,Default,,0,0,0,,I need military aircraft ground clearance\Nand IFF recognition codes.
-Dialogue: 0,0:58:26.08,0:58:28.58,Default,,0,0,0,,Both the young and old are here, huh?
-Dialogue: 0,0:58:32.38,0:58:33.88,Default,,0,0,0,,You're back, Kougami.
-Dialogue: 0,0:58:42.22,0:58:43.27,Default,,0,0,0,,Who's she?
-Dialogue: 0,0:58:43.39,0:58:45.89,Default,,0,0,0,,It's hard to explain,
-Dialogue: 0,0:58:46.23,0:58:50.02,Default,,0,0,0,,but she isn't an enemy. She's a guest of mine, Sem.
-Dialogue: 0,0:58:53.07,0:58:55.86,Default,,0,0,0,,Did Kougami show you the way too?
-Dialogue: 0,0:58:56.61,0:58:58.36,Default,,0,0,0,,Then we're comrades.
-Dialogue: 0,0:58:59.41,0:59:02.74,Default,,0,0,0,,I'm Sem. I act as the leader here.
-Dialogue: 0,0:59:03.91,0:59:06.79,Default,,0,0,0,,I'm Tsunemori Akane. Nice to meet you.
-Dialogue: 0,0:59:07.50,0:59:11.09,Default,,0,0,0,,I lost a lot of good men again. I'm sorry.
-Dialogue: 0,0:59:11.92,0:59:15.80,Default,,0,0,0,,No.\NIf it weren't for you, we'd all be dead.
-Dialogue: 0,0:59:27.81,0:59:29.52,Default,,0,0,0,,Is Gino doing well?
-Dialogue: 0,0:59:30.52,0:59:32.98,Default,,0,0,0,,He became an Enforcer after that.
-Dialogue: 0,0:59:34.40,0:59:35.61,Default,,0,0,0,,I see.
-Dialogue: 0,0:59:36.40,0:59:40.62,Default,,0,0,0,,And what exactly are you doing in a place like this?
-Dialogue: 0,0:59:41.28,0:59:44.33,Default,,0,0,0,,At first, I was looking for someplace quiet.
-Dialogue: 0,0:59:51.21,0:59:52.63,Default,,0,0,0,,I was tired, you see.
-Dialogue: 0,0:59:52.79,0:59:55.76,Default,,0,0,0,,But once I left the Sybil System,
-Dialogue: 0,0:59:55.88,0:59:58.63,Default,,0,0,0,,I found that there weren't any quiet places left.
-Dialogue: 0,0:59:59.13,1:00:01.84,Default,,0,0,0,,Everywhere around the world was a battlefield.
-Dialogue: 0,1:00:02.64,1:00:06.10,Default,,0,0,0,,I thought I had prepared myself for that reality,
-Dialogue: 0,1:00:06.27,1:00:08.48,Default,,0,0,0,,but I soon found out how naive I was.
-Dialogue: 0,1:00:08.81,1:00:10.48,Default,,0,0,0,,I beat those survival instincts
-Dialogue: 0,1:00:10.56,1:00:12.40,Default,,0,0,0,,into my body.
-Dialogue: 0,1:00:12.94,1:00:15.32,Default,,0,0,0,,But why did you join the guerillas?
-Dialogue: 0,1:00:17.90,1:00:20.49,Default,,0,0,0,,Soon after I came to this country,
-Dialogue: 0,1:00:20.61,1:00:22.70,Default,,0,0,0,,Han's decrees
-Dialogue: 0,1:00:22.82,1:00:25.49,Default,,0,0,0,,and the deployment of drones to hunt guerillas began.
-Dialogue: 0,1:00:28.08,1:00:30.67,Default,,0,0,0,,So I decided to teach the guerillas
-Dialogue: 0,1:00:30.75,1:00:32.75,Default,,0,0,0,,how to fight drones.
-Dialogue: 0,1:00:33.84,1:00:36.13,Default,,0,0,0,,The drones are all made in Japan.
-Dialogue: 0,1:00:36.25,1:00:38.59,Default,,0,0,0,,I know their weak points as well as
-Dialogue: 0,1:00:38.67,1:00:40.51,Default,,0,0,0,,the best ways to defeat them.
-Dialogue: 0,1:00:43.72,1:00:47.52,Default,,0,0,0,,But what do you hope to achieve by doing all this?
-Dialogue: 0,1:00:48.39,1:00:50.18,Default,,0,0,0,,We may look like this now,
-Dialogue: 0,1:00:50.39,1:00:53.27,Default,,0,0,0,,but at the time, it looked like we could win by toughing it out.
-Dialogue: 0,1:00:57.15,1:00:59.86,Default,,0,0,0,,He might call himself "Chairman" now,
-Dialogue: 0,1:00:59.99,1:01:04.07,Default,,0,0,0,,but Han is just a leader of one faction of the military.
-Dialogue: 0,1:01:04.99,1:01:07.83,Default,,0,0,0,,He joined forces with Sybil
-Dialogue: 0,1:01:08.41,1:01:11.21,Default,,0,0,0,,to get a leg up on his rivals.
-Dialogue: 0,1:01:15.00,1:01:17.04,Default,,0,0,0,,His aim wasn't
-Dialogue: 0,1:01:17.17,1:01:20.17,Default,,0,0,0,,to turn Shamballa Float into a paradise.
+Dialogue: 0,0:00:31.95,0:00:36.74,Default,,0,0,0,,ราวกับว่าพวกเราเป็นสิ่งมีชีวิตที่กำลังวิวัฒนาการอยู่บนจุดสูงสุด
+Dialogue: 0,0:00:36.87,0:00:40.41,Default,,0,0,0,,บางครั้งสูงยิ่งกว่ายอดหอระฆังของโบสถ์
+Dialogue: 0,0:00:40.58,0:00:45.42,Default,,0,0,0,,ในที่สุด การพัฒนาต่อไปนั้นกลายเป็นเรื่องยากและอันตราย
+Dialogue: 0,0:00:45.58,0:00:47.92,Default,,0,0,0,,สิ่งที่รอคอยก็คือการล่มสลาย
+Dialogue: 0,0:00:49.38,0:00:50.59,Default,,0,0,0,,พวกมันกำลังมา
+Dialogue: 0,0:00:56.43,0:00:57.68,Default,,0,0,0,,ซ้าย 3 คลิก
+Dialogue: 0,0:00:58.76,0:01:00.27,Default,,0,0,0,,ขวา 4 คลิก
+Dialogue: 0,0:01:01.39,0:01:02.76,Default,,0,0,0,,ซ้าย 1 คลิก
+Dialogue: 0,0:01:03.12,0:01:04.66,Default,,0,0,0,,ขวา 2 คลิก
+Dialogue: 0,0:01:07.23,0:01:07.94,Default,,0,0,0,,ตอนนี้แหละ
+Dialogue: 0,0:01:09.94,0:01:11.61,Default,,0,0,0,,เยี่ยมมาก โควกามิ
+Dialogue: 0,0:01:21.74,0:01:25.58,Default - Top,,0,0,0,,ผู้แต่งบทกวีนี้กำลังพูดถึงเรื่องช่วงเวลาชีวิตของคน กับสิ่งที่มีค่า
+Dialogue: 0,0:01:21.74,0:01:25.58,Default,,0,0,0,,เราจะบอกว่ามันมีกฏของศิลปะที่โหดร้ายอยู่
+Dialogue: 0,0:01:25.79,0:01:27.92,Default - Top,,0,0,0,,ก่อนที่จะสร้างผลงานที่มีคุณค่า
+Dialogue: 0,0:01:25.79,0:01:27.92,Default,,0,0,0,,นั่นคือมนุษย์ทุกคนล้วนต้องตายจากโลกนี้ไป
+Dialogue: 0,0:01:28.21,0:01:31.25,Default - Top,,0,0,0,,ที่มีค่าพอที่โลกต้องจารึกไว้ก่อนที่จะล่วงลับไป
+Dialogue: 0,0:01:28.21,0:01:31.25,Default,,0,0,0,,นั่นทำให้พวกเราต้องตายตกตามกันไป
+Dialogue: 0,0:01:31.42,0:01:34.76,Default - Top,,0,0,0,,จะต้องผ่านความยากลำบากมานับไม่ถ้วน
+Dialogue: 0,0:01:31.42,0:01:34.76,Default,,0,0,0,,หลังจากทนทุกข์ทรมานทุกรูปแบบ
+Dialogue: 0,0:01:35.13,0:01:39.60,Default - Top,,0,0,0,,เพื่อสร้างผลงานที่เลื่องชื่อ ไม่ใช่ผลงานที่ถูกปล่อยให้ลืม
+Dialogue: 0,0:01:35.13,0:01:39.60,Default,,0,0,0,,ไม่ใช่หญ้าแห่งการลืมเลือน แต่เป็นหญ้าอันเป็นนิรันด์
+Dialogue: 0,0:01:39.97,0:01:43.02,Default - Top,,0,0,0,,เพื่อเป็นอนุสรณ์ให้คนรุ่นหลังต่อไป
+Dialogue: 0,0:01:39.97,0:01:43.02,Default,,0,0,0,,ที่จะเติบโตและออกดอกออกผลต่อไป
+Dialogue: 0,0:02:04.00,0:02:05.62,Default,,0,0,0,,สำรวจความพร้อมของอุปกรณ์
+Dialogue: 0,0:02:12.25,0:02:13.63,Default,,0,0,0,,แว่นตาใช้งานได้มั้ย ?
+Dialogue: 0,0:02:17.63,0:02:20.47,Default,,0,0,0,,ดาวน์โหลดแผนที่และแผนปฏิบัติการ
+Dialogue: 0,0:02:23.22,0:02:25.56,Default,,0,0,0,,ไม่มีปัญหา แว่นพวกนี้ใช้งานได้
+Dialogue: 0,0:02:28.19,0:02:30.81,Default,,0,0,0,,ห้ามออกนอกเส้นทาง
+Dialogue: 0,0:02:31.52,0:02:32.57,Default,,0,0,0,,ไปกันเถอะ
+Dialogue: 0,0:03:45.64,0:03:47.06,Default,,0,0,0,,มีอะไรงั้นเหรอ ?
+Dialogue: 0,0:03:50.81,0:03:53.56,Default,,0,0,0,,ดีใจจริงๆ ที่มาถึงนี่ได้อย่างปลอดภัยนะ คุณลูกค้า
+Dialogue: 0,0:03:55.40,0:03:57.07,Default,,0,0,0,,ยืนยันตัวตน
+Dialogue: 0,0:03:59.57,0:04:01.74,Default,,0,0,0,,คุณคือ คุณมิยาซากิ
+Dialogue: 0,0:04:01.82,0:04:04.49,Default,,0,0,0,,เดี๋ยวก่อน ขอเวลาสักครู่
+Dialogue: 0,0:04:04.66,0:04:06.95,Default,,0,0,0,,ให้ผมเปิดเครื่องแปลภาษาก่อน
+Dialogue: 0,0:04:09.66,0:04:11.25,Default,,0,0,0,,ไหนลองพูดมาหน่อย
+Dialogue: 0,0:04:12.29,0:04:13.37,Default,,0,0,0,,เราต้องการรถ
+Dialogue: 0,0:04:14.25,0:04:15.38,Default,,0,0,0,,เราต้องการรถ
+Dialogue: 0,0:04:16.29,0:04:18.63,Default,,0,0,0,,โอเค มาคุยธุระกันต่อ
+Dialogue: 0,0:04:19.88,0:04:22.26,Default,,0,0,0,,ตามที่สั่งไปก่อนหน้านี้
+Dialogue: 0,0:04:22.43,0:04:25.51,Default,,0,0,0,,รถรุ่นเก่าที่ไม่มีกล้องภายใน
+Dialogue: 0,0:04:25.80,0:04:29.60,Default,,0,0,0,,พร้อมติดตั้งเครื่องปลอมแปลงสัญญาณชีวิตด้วย
+Dialogue: 0,0:04:30.39,0:04:31.64,Default,,0,0,0,,ไม่มีปัญหา
+Dialogue: 0,0:04:31.73,0:04:34.56,Default,,0,0,0,,ถ้ามีเงินล่ะก็ อะไรก็หาให้ได้ทั้งนั้น
+Dialogue: 0,0:04:44.99,0:04:47.74,Default,,0,0,0,,อย่าถูกสแกนเนอร์ตามถนนตรวจเจอตัวเข้าล่ะ
+Dialogue: 0,0:04:48.66,0:04:50.50,Default,,0,0,0,,ค่าไซโคพาสของพวกนายนะ
+Dialogue: 0,0:04:51.00,0:04:53.00,Default,,0,0,0,,เห็นท่าทางจะไม่น่ารอด
+Dialogue: 0,0:04:58.50,0:05:00.71,Default,,0,0,0,,ที่แบบนี้ยังอุตส่าห์หาเจอนะคะเนี่ย
+Dialogue: 0,0:05:01.13,0:05:03.51,Default,,0,0,0,,พักหลังนี้หาเบาะแสจากนายหน้าค้าข้อมูลเอาน่ะ
+Dialogue: 0,0:05:05.43,0:05:06.43,Default,,0,0,0,,อ่อ
+Dialogue: 0,0:05:07.64,0:05:10.18,Default,,0,0,0,,ทำเหมือนกับนักสืบสมัยก่อนเลยนะคะ
+Dialogue: 0,0:05:51.85,0:05:53.60,Default,,0,0,0,,ข้อมูลที่ได้จากหุ่นยนต์แมลง
+Dialogue: 0,0:05:53.72,0:05:55.85,Default,,0,0,0,,แสดงผลบนจอครบกันแล้วใช่มั้ย
+Dialogue: 0,0:05:56.27,0:05:58.23,Default,,0,0,0,,ถึงจะยังไม่รู้วิธีที่พวกนั้นลักลอบเข้ามาก็เถอะ
+Dialogue: 0,0:05:58.40,0:05:59.94,Default,,0,0,0,,แต่ยังไงก็ผิดกฏหมาย
+Dialogue: 0,0:06:00.52,0:06:01.94,Default,,0,0,0,,ชาวต่างชาติ 6 คน
+Dialogue: 0,0:06:02.23,0:06:04.44,Default,,0,0,0,,และ น่าจะเป็นพ่อค้าจากตลาดมืดอีก 1 คน
+Dialogue: 0,0:06:04.90,0:06:07.36,Default,,0,0,0,,จากการตรวจสอบค่าแถบสี ทุกคนเกินเกณฑ์หมด
+Dialogue: 0,0:06:07.82,0:06:10.24,Default,,0,0,0,,ถึงจะใช้โดมิเนเตอร์วัดค่าสัมประสิทธ์อาชญากรรม
+Dialogue: 0,0:06:10.41,0:06:11.87,Default,,0,0,0,,ผลลัพธ์คงหมือนกันอยู่ดี
+Dialogue: 0,0:06:13.41,0:06:14.91,Default,,0,0,0,,จะบุกเข้าไปยังไงดีคะ ?
+Dialogue: 0,0:06:16.08,0:06:18.67,Default,,0,0,0,,หลังจากปิดทางเข้าโรงจอดรถด้วยโดรนแล้ว
+Dialogue: 0,0:06:18.68,0:06:22.67,Default,,0,0,0,,เราจะแยกเป็นสองทีมไปทางบันไดหนีไฟและทางลิฟต์
+Dialogue: 0,0:06:24.09,0:06:26.13,Default,,0,0,0,,นอกจากจะสามารถกระหนาบทั้งสองทางแล้ว
+Dialogue: 0,0:06:26.26,0:06:28.76,Default,,0,0,0,,ยังสามารถตรวจสอบกับดักของอีกฝ่ายได้ด้วย
+Dialogue: 0,0:06:29.05,0:06:29.72,Default,,0,0,0,,ดังนั้น
+Dialogue: 0,0:06:30.09,0:06:33.52,Default,,0,0,0,,คุณกิโนสะและคุณคุนิซุกะจะไปทางบันไดหนีไฟกับฉัน
+Dialogue: 0,0:06:34.93,0:06:38.27,Default,,0,0,0,,ผู้สังเกตการณ์ชิโมซุกิจะใช้โดรนสองตัวเปิดทาง
+Dialogue: 0,0:06:38.44,0:06:41.23,Default,,0,0,0,,และเข้าไปทางลิฟต์กับคุณสุโกวและคุณฮินาคาว่า
+Dialogue: 0,0:06:42.19,0:06:43.23,Default,,0,0,0,,รับทราบค่ะ
+Dialogue: 0,0:06:44.11,0:06:45.94,Default,,0,0,0,,ก่อนอื่น ทีมของฉัน
+Dialogue: 0,0:06:46.03,0:06:48.45,Default,,0,0,0,,จะปาระเบิดแสงเปิดทาง
+Dialogue: 0,0:06:48.91,0:06:50.95,Default,,0,0,0,,เพื่อที่จะดึงความสนใจจากศัตรู
+Dialogue: 0,0:06:51.28,0:06:53.45,Default,,0,0,0,,จังหวะนี้ ทีมชิโมสุกิ
+Dialogue: 0,0:06:53.58,0:06:56.75,Default,,0,0,0,,จะอ้อมไปประกบทางด้านหลังของศัตรู
+Dialogue: 0,0:06:56.83,0:06:58.46,Default,,0,0,0,,เพื่อดักทางหนีของพวกมัน
+Dialogue: 0,0:07:00.04,0:07:01.42,Default,,0,0,0,,ระเบิดแสงเหรอ ?
+Dialogue: 0,0:07:01.92,0:07:03.88,Default,,0,0,0,,ดูระวังตัวเป็นพิเศษเลยนะครับ
+Dialogue: 0,0:07:04.13,0:07:06.30,Default,,0,0,0,,อ้างอิงข้อมูลจากหุ่นยนต์แมลง
+Dialogue: 0,0:07:06.46,0:07:08.59,Default,,0,0,0,,ศัตรูพกอาวุธปืนมาด้วยนะคะ
+Dialogue: 0,0:07:08.93,0:07:10.09,Default,,0,0,0,,หมายความว่า . . . .
+Dialogue: 0,0:07:10.64,0:07:12.38,Default,,0,0,0,,ถ้าฝั่งนั้นสวนกลับมา
+Dialogue: 0,0:07:12.38,0:07:15.10,Default,,0,0,0,,มีความเป็นไปได้สูงที่ฝั่งเราจะมีคนเสียชีวิต
+Dialogue: 0,0:07:15.43,0:07:17.43,Default,,0,0,0,,ขอให้ระวังตัวกันด้วย
+Dialogue: 0,0:07:18.02,0:07:18.94,Default,,0,0,0,,รับทราบ
+Dialogue: 0,0:07:27.15,0:07:27.86,Default,,0,0,0,,ฮืมมม
+Dialogue: 0,0:07:29.65,0:07:33.16,Default,,0,0,0,,ถ้าอย่างงั้น การซื้อขายก็เป็นอันเสร็จสิ้น
+Dialogue: 0,0:07:41.25,0:07:42.38,Default,,0,0,0,,หือ ?
+Dialogue: 0,0:07:59.06,0:08:01.06,Default,,0,0,0,,ชิบหายละ พวกเจ้าหน้าที่
+Dialogue: 0,0:08:10.03,0:08:11.57,Default,,0,0,0,,นี่คือหน่วยงานรักษาความสงบ
+Dialogue: 0,0:08:12.20,0:08:13.86,Default,,0,0,0,,อย่าขัดขืนแล้วยอมจำนนซะ\N(แปลตรงๆ มันจะได้ว่า อย่าทำอะไรเปล่าประโยชน์)
+Dialogue: 0,0:08:15.12,0:08:17.74,Default,,0,0,0,,ค่าสัมประสิทธิ์อาชญากรรมเกิน 170.
+Dialogue: 0,0:08:17.87,0:08:21.21,Default,,0,0,0,,เป็นเป้าหมายปราบปรามค่ะ\Nทำการปลดล๊อกเซฟตี้แล้วค่ะ
+Dialogue: 0,0:08:26.21,0:08:27.17,Default,,0,0,0,,ยิงสวนไป !
+Dialogue: 0,0:08:36.64,0:08:37.85,Default,,0,0,0,,พวกนั้นเป็นใครกัน ?
+Dialogue: 0,0:08:38.06,0:08:39.47,Default,,0,0,0,,ท่าทางคุ้นเคยกับการรบ
+Dialogue: 0,0:08:52.82,0:08:55.32,Default,,0,0,0,,ค่าสัมประสิทธิ์อาชญากรรม 310.
+Dialogue: 0,0:08:55.45,0:08:57.32,Default,,0,0,0,,Lethal Eliminator
+Dialogue: 0,0:08:57.53,0:08:58.99,Default,,0,0,0,,เป้าหมายปรามค่ะ
+Dialogue: 0,0:09:14.84,0:09:17.55,Default,,0,0,0,,ค่าสัมประสิทธิ์อาชญากรรม 326.
+Dialogue: 0,0:09:18.14,0:09:19.76,Default,,0,0,0,,Lethal Eliminator
+Dialogue: 0,0:09:19.85,0:09:20.31,Default,,0,0,0,,แม่งเอ๊ย !
+Dialogue: 0,0:09:20.72,0:09:22.22,Default,,0,0,0,,เป็นเป้าหมายปราบปรามค่ะ
+Dialogue: 0,0:10:08.06,0:10:11.19,Default,,0,0,0,,แก้ไขการประเมินภัยคุกคามของเป้าหมายค่ะ
+Dialogue: 0,0:10:11.44,0:10:14.44,Default,,0,0,0,,รูปแบบระเบิด Destroy Decomposer
+Dialogue: 0,0:10:30.50,0:10:31.54,Default,,0,0,0,,จัดการที !
+Dialogue: 0,0:10:31.67,0:10:32.50,Default,,0,0,0,,รับทราบค่ะ
+Dialogue: 0,0:10:33.00,0:10:35.84,Default,,0,0,0,,นี่คือหน่วยงานรักษาความสงบ
+Dialogue: 0,0:10:36.22,0:10:37.55,Default,,0,0,0,,โปรดอย่าขัดขืน
+Dialogue: 0,0:10:38.01,0:10:41.18,Default,,0,0,0,,วางอาวุธที่มีทั้งหมด
+Dialogue: 0,0:10:41.55,0:10:43.39,Default,,0,0,0,,และกรุณามอบตัวด้วย
+Dialogue: 0,0:10:43.64,0:10:44.52,Default,,0,0,0,,นี่คือ . . . .
+Dialogue: 0,0:10:44.64,0:10:45.77,Default,,0,0,0,,หยุดแค่นั้นแหละ !
+Dialogue: 0,0:10:53.36,0:10:55.36,Default,,0,0,0,,วางอาวุธลงแล้วยอมจำนนซะ
+Dialogue: 0,0:11:00.03,0:11:02.32,Default,,0,0,0,,ค่อยๆ หันมาช้าๆ
+Dialogue: 0,0:11:09.25,0:11:10.25,Default,,0,0,0,,หยุดนะ!
+Dialogue: 0,0:11:10.37,0:11:13.25,Default,,0,0,0,,ค่าสัมประสิทธิ์อาชญากรรม 293
+Dialogue: 0,0:11:13.50,0:11:15.34,Default,,0,0,0,,เป้าหมายปราบปราม
+Dialogue: 0,0:11:49.50,0:11:53.00,TitleCard,,0,0,0,,นี่คือโลกที่สามารถวัดสภาพจิตใจและคาดการณ์บุคลิกภาพของมนุษย์ได้
+Dialogue: 0,0:11:54.50,0:12:00.00,TitleCard,,0,0,0,,สภาพจิตใจทุกรูปแบบจะถูกประเมินเป็นตัวเลข ที่สามารถใช้ตัดสินความผิดชอบชั่วดีของผู้คนเหล่านั้นได้ ซึ่งตัวเลขพวกนี้ถูกเรียกว่า "Psycho-Pass"
+Dialogue: 0,0:12:01.00,0:12:04.00,TitleCard,,0,0,0,,หากผู้ใดมีค่าสัมประสิทธิ์อาชญากรรมเกินเกณฑ์ที่กำหนด \Nคนคนนั้นจะถูกตราหน้าว่าเป็น "อาชญากรแฝง" ซึ่งจะถูกจับแยกไปบำบัด
+Dialogue: 0,0:12:06.50,0:12:09.80,TitleCard,,0,0,0,,กระทรวงสาธารณสุขและสวัสดิการมีหน้าที่ในการควบคุมเครือข่ายขนาดใหญ่\Nเพื่อคอยสอดส่องอาชญากรแฝง และดูแลสภาพจิตใจของประชากรภายในระบบ\N ซึ่งระบบดังกล่าวเป็นที่รู้จักกันในนาม
+Dialogue: 0,0:12:10.50,0:12:12.50,TitleCard,,0,0,0,,ระบบซิบิล (Sybil System)
+Dialogue: 0,0:13:47.74,0:13:50.74,Default,,0,0,0,,ไปประมือกับอาชญากรติดอาวุธ แต่ก็ไม่มีผู้เสียชีวิต
+Dialogue: 0,0:13:50.87,0:13:52.33,Default,,0,0,0,,ทำได้ดีมาก
+Dialogue: 0,0:13:52.95,0:13:54.29,Default,,0,0,0,,การสอบปากคำ
+Dialogue: 0,0:13:54.37,0:13:58.50,Default,,0,0,0,,จะเริ่มเมื่ออาการจาก Paralyzer ของผู้ต้องหาหมดลงค่ะ
+Dialogue: 0,0:13:58.88,0:14:01.50,Default,,0,0,0,,จนถึงตอนนั้นไปพักผ่อนให้สบายเถอะ
+Dialogue: 0,0:14:03.09,0:14:05.76,Default,,0,0,0,,กลุ่มผู้ลักลอบเข้าประเทศ มีอาวุธปืน
+Dialogue: 0,0:14:06.30,0:14:08.55,Default,,0,0,0,,มีแว่นเทคโนโลยีขั้นสูง
+Dialogue: 0,0:14:08.72,0:14:11.43,Default,,0,0,0,,ที่ถูกพัฒนาโดยใครบางคน
+Dialogue: 0,0:14:11.56,0:14:13.52,Default,,0,0,0,,ซึ่งมีความรู้เรื่องระบบรักษาความปลอดภัยของประเทศนี้
+Dialogue: 0,0:14:14.02,0:14:15.73,Default,,0,0,0,,ต้องการจะบอกอะไร ?
+Dialogue: 0,0:14:15.85,0:14:16.94,Default,,0,0,0,,อะไรบางอย่าง
+Dialogue: 0,0:14:17.06,0:14:19.61,Default,,0,0,0,,ที่แปลกๆ กำลังเกิดขึ้นอยู่ไม่ใช่เหรอ ?
+Dialogue: 0,0:14:20.73,0:14:22.11,Default,,0,0,0,,แน่นอน
+Dialogue: 0,0:14:22.44,0:14:25.15,Default,,0,0,0,,มีหลายๆ เรื่องกำลังเกิดขึ้น
+Dialogue: 0,0:14:25.40,0:14:29.45,Default,,0,0,0,,จะแปลกรึเปล่านั้น ก็ไม่ใช่หน้าที่ของเธอที่ต้องใส่ใจ
+Dialogue: 0,0:14:32.08,0:14:33.12,Default,,0,0,0,,ยังไงก็ตาม
+Dialogue: 0,0:14:34.12,0:14:35.70,Default,,0,0,0,,ขอไว้หลังจากการสอบปากคำก็แล้วกัน
+Dialogue: 0,0:14:55.81,0:14:56.43,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:14:56.81,0:14:58.44,Default,,0,0,0,,ผู้สังเกตการณ์ชิโมสึกิ
+Dialogue: 0,0:14:58.52,0:15:00.60,Default,,0,0,0,,มาหาฉันที่ออฟฟิศหน่อย
+Dialogue: 0,0:15:11.70,0:15:13.45,Default,,0,0,0,,แต่งงานเหรอ ?\Nอืม
+Dialogue: 0,0:15:14.24,0:15:16.66,Default,,0,0,0,,เพราะว่าฝ่ายนั้นก็ยุ่งๆ เหมือนกัน
+Dialogue: 0,0:15:17.87,0:15:21.79,Default,,0,0,0,,งานแต่งเลยดูเหมือนจะต้องเลื่อนไปอีกหน่อย
+Dialogue: 0,0:15:23.29,0:15:27.01,Default,,0,0,0,,แต่ยังไงก็อยากแนะนำให้อาคาเนะรู้จักอยู่ดีน่ะ
+Dialogue: 0,0:15:30.38,0:15:34.26,Default,,0,0,0,,ในที่สุดคาโอริก็แต่งงานกับเค้าซะที\Nยินดีด้วยนะ
+Dialogue: 0,0:15:34.43,0:15:36.68,Default,,0,0,0,,ขอบใจจ๊ะ
+Dialogue: 0,0:15:38.64,0:15:41.81,Default,,0,0,0,,ระบบซิบิลหาแฟนให้ใหม่อีกครั้งเนี่ย
+Dialogue: 0,0:15:41.90,0:15:43.98,Default,,0,0,0,,สุดยอดจนไม่อยากจะเชื่อเลยนะเนี่ย
+Dialogue: 0,0:15:44.11,0:15:47.32,Default,,0,0,0,,ต้องขอบคุณระบบนี้ ที่ทำให้ได้เจอกับเขาน่ะนะ
+Dialogue: 0,0:15:47.65,0:15:51.36,Default,,0,0,0,,พอตัดสินใจแล้วก็เลยบอกครอบครัวทั้งสองฝ่ายไปน่ะ
+Dialogue: 0,0:15:52.32,0:15:54.12,Default,,0,0,0,,ถึงอย่างงั้น ตอนแรก
+Dialogue: 0,0:15:54.32,0:15:57.37,Default,,0,0,0,,ก็ไม่ใช่ว่าจะไม่มีปัญหาซะทีเดียวหรอก
+Dialogue: 0,0:15:58.00,0:15:59.62,Default,,0,0,0,,แต่สุดท้าย
+Dialogue: 0,0:16:00.04,0:16:02.92,Default,,0,0,0,,เขาก็เป็นผู้ชายที่เหมาะกับฉันจริงๆ
+Dialogue: 0,0:16:03.96,0:16:06.67,Default,,0,0,0,,นะ ถึงจะมีหลายๆ เรื่องเกิดขึ้นก็เถอะนะ
+Dialogue: 0,0:16:07.67,0:16:09.01,Default,,0,0,0,,งั้นเหรอ
+Dialogue: 0,0:16:13.84,0:16:16.81,Default,,0,0,0,,ความสงบสุขในตอนนี้ . . . .
+Dialogue: 0,0:16:17.68,0:16:21.23,Default,,0,0,0,,เพราะหน่วยงานรักษาความสงบที่อาคาเนะทำงานอยู่ใช่มั้ยล่ะ ?
+Dialogue: 0,0:16:22.31,0:16:23.44,Default,,0,0,0,,อือ
+Dialogue: 0,0:16:23.98,0:16:27.19,Default,,0,0,0,,ความลับที่ทำให้ผู้คนมีความสุขมากกว่าที่เป็นอยู่น่ะ
+Dialogue: 0,0:16:27.57,0:16:29.11,Default,,0,0,0,,
+Dialogue: 0,0:16:29.19,0:16:32.20,Default,,0,0,0,,ถ้าซิบิลนำทางให้ได้อย่างถูกต้องล่ะก็
+Dialogue: 0,0:16:33.07,0:16:34.74,Default,,0,0,0,,คงจะมีสักวัน
+Dialogue: 0,0:16:34.99,0:16:38.70,Default,,0,0,0,,ที่ช่วยผู้คนทั้งโลกจริงๆ ก็เป็นได้นะ
+Dialogue: 0,0:16:40.25,0:16:42.04,Default,,0,0,0,,คงจะใช่ล่ะมั้ง...
+Dialogue: 0,0:16:42.16,0:16:43.21,Default,,0,0,0,,ขอเสนอข่าวจาก SEAUn
+Dialogue: 0,0:16:43.33,0:16:45.04,Default,,0,0,0,,เกี่ยวกับการส่งออกระบบซิบิลไปทดลองใช้ในภูมิภาค SEAUn ค่ะ
+Dialogue: 0,0:16:45.17,0:16:47.92,Default,,0,0,0,,(ยาวถึงนี่)
+Dialogue: 0,0:16:48.30,0:16:52.01,Default,,0,0,0,,การนำระบบซิบิลไปทดลองใช้ ที่เมืองหลวง Shamballa Float นั้น
+Dialogue: 0,0:16:52.09,0:16:55.39,Default,,0,0,0,,ในช่วงแรกมีปัญหาเล็กน้อย
+Dialogue: 0,0:16:55.51,0:16:57.97,Default,,0,0,0,,แต่ในขณะนี้สามารถเริ่มทำการได้ปรกติแล้วค่ะ
+Dialogue: 0,0:16:58.06,0:16:59.39,Default,,0,0,0,,สุดยอดไปเลยเนอะ
+Dialogue: 0,0:16:59.52,0:17:02.68,Default,,0,0,0,,ที่สามารถนำความสงบเรียบร้อย\Nไปสู่ประเทศที่ปกครองโดยทหาร
+Dialogue: 0,0:18:12.63,0:18:13.96,Default,,0,0,0,,คน คนนั้น\N(โควกามิล่ะสิ > <)
+Dialogue: 0,0:18:14.92,0:18:16.17,Default,,0,0,0,,อยู่ที่ไหน ทำอะไรอยู่นะ . . . .
+Dialogue: 0,0:18:32.65,0:18:33.73,Default,,0,0,0,,มีอะไรเหรอ ?
+Dialogue: 0,0:18:33.82,0:18:35.03,Default,,0,0,0,,คุณชิออน
+Dialogue: 0,0:18:36.49,0:18:39.32,Default,,0,0,0,,ตอนนี้ชั้นกำลังใช้ช่องสัญญาณลับ
+Dialogue: 0,0:18:40.24,0:18:43.49,Default,,0,0,0,,อย่าไปบอกใครเรื่องที่เราคุยกันนะ
+Dialogue: 0,0:18:43.58,0:18:46.96,Default,,0,0,0,,ผู้สังเกตการณ์ชิโมสึกิกำลังปฏิบัติหน้าที่ภายใต้คำสั่งของประธาน
+Dialogue: 0,0:18:47.46,0:18:48.75,Default,,0,0,0,,เธอทำอะไร ?
+Dialogue: 0,0:18:49.04,0:18:51.67,Default,,0,0,0,,ฉันขัดคำสั่งผู้บังคับบัญชาไม่ได้
+Dialogue: 0,0:18:51.75,0:18:53.71,Default,,0,0,0,,เอาเป็นว่ามาที่นี่ให้เร็วที่สุดนะ
+Dialogue: 0,0:18:53.84,0:18:55.71,Default,,0,0,0,,ถึงจะไม่รู้ว่ากำลังจะทำอะไรก็เถอะ
+Dialogue: 0,0:18:55.84,0:18:57.22,Default,,0,0,0,,หยุดเธอให้หน่อยได้มั้ย ?
+Dialogue: 0,0:18:58.84,0:19:00.30,Default,,0,0,0,,ถ่วงเวลาให้ก็ยังดี
+Dialogue: 0,0:19:00.72,0:19:02.93,Default,,0,0,0,,ไม่ไหว ไม่ทันเวลาแน่ๆ
+Dialogue: 0,0:19:03.68,0:19:05.18,Default,,0,0,0,,ขอโทษจริงๆ
+Dialogue: 0,0:19:08.98,0:19:11.02,Default,,0,0,0,,สอบสวนโดยใช้วิธีดูความทรงจำ (Memory Scoop) งั้นเหรอ ?
+Dialogue: 0,0:19:11.36,0:19:12.77,Default,,0,0,0,,ตั้งใจจะทำอะไรกันแน่
+Dialogue: 0,0:19:13.07,0:19:15.03,Default,,0,0,0,,อย่ามาลงที่ชั้นสิ
+Dialogue: 0,0:19:15.53,0:19:17.32,Default,,0,0,0,,คำสั่งท่านประธานค่ะ
+Dialogue: 0,0:19:17.74,0:19:20.61,Default,,0,0,0,,มันไม่ใช่ความผิดของนักวิเคราะห์คาราโนโมริหรอกค่ะ
+Dialogue: 0,0:19:23.16,0:19:25.95,Default,,0,0,0,,ผู้ต้องหาเป็นอาชญากรแฝงนะคะ
+Dialogue: 0,0:19:26.12,0:19:27.62,Default,,0,0,0,,เพียงแค่ไม่มีกรณีตัวอย่างมาก่อน
+Dialogue: 0,0:19:27.75,0:19:29.33,Default,,0,0,0,,ไม่ได้แปลว่าผิดกฏหมายนะคะ
+Dialogue: 0,0:19:41.22,0:19:42.39,Default,,0,0,0,,โหดร้าย
+Dialogue: 0,0:19:43.39,0:19:45.60,Default,,0,0,0,,เพื่อที่จะให้คลื่นสมองออกมาเด่นชัด
+Dialogue: 0,0:19:45.72,0:19:47.85,Default,,0,0,0,,เราจึงให้ยาเขาค่ะ
+Dialogue: 0,0:19:48.60,0:19:52.48,Default,,0,0,0,,เราไม่เคยมีผู้ลักลอบเข้าประเทศติดอาวุธมาก่อน
+Dialogue: 0,0:19:53.02,0:19:54.90,Default,,0,0,0,,และนอกจากนี้ยังเป็นอาชญากรแฝง
+Dialogue: 0,0:19:55.40,0:19:57.82,Default,,0,0,0,,เค้าไม่มีสิทธิอะไรที่เราจะต้องไปประณีประนอม
+Dialogue: 0,0:19:58.07,0:20:00.74,Default,,0,0,0,,และที่ทำไปทั้งหมดนี้เลยได้ข้อสรุปแล้วค่ะ
+Dialogue: 0,0:20:00.99,0:20:02.07,Default,,0,0,0,,ข้อสรุปเหรอ ?
+Dialogue: 0,0:20:02.20,0:20:04.74,Default,,0,0,0,,ท่านประธานเรียกค่ะ รุ่นพี่
+Dialogue: 0,0:20:06.16,0:20:08.79,Default,,0,0,0,,คุณให้ผู้สังเกตการณ์ชิโมสึกิทำอะไรลงไป
+Dialogue: 0,0:20:09.29,0:20:12.25,Default,,0,0,0,,สอบสวนสิ่งที่เกิดยังไงล่ะ
+Dialogue: 0,0:20:11.00,0:20:12.25,Default,,0,0,0,,{\an8}{\3c&H20116C&}ไม่รู้สึกละอายบ้างเหรอ
+Dialogue: 0,0:20:12.33,0:20:14.17,Default,,0,0,0,,มันก็เกิดขึ้นเหมือนทุกที
+Dialogue: 0,0:20:14.38,0:20:16.59,Default,,0,0,0,,เราแค่ทำในเรื่องที่จำเป็นเท่านั้นแหละ
+Dialogue: 0,0:20:17.13,0:20:18.67,Default,,0,0,0,,ดูนี่ซะก่อน
+Dialogue: 0,0:20:25.43,0:20:29.10,Default,,0,0,0,,ถ้าเป็นเธอล่ะก็ . . . คงไม่มีทางดูผิดแน่ๆ
+Dialogue: 0,0:20:30.18,0:20:32.89,Default,,0,0,0,,ยังไงก็ตาม เขาก็เคยเป็นลูกน้องของเธอ
+Dialogue: 0,0:20:38.69,0:20:42.45,Default,,0,0,0,,กลุ่มผู้ก่อการร้ายข้ามชาติที่ลักลอบเข้ามาน่ะ
+Dialogue: 0,0:20:42.61,0:20:47.62,Default,,0,0,0,,ในความทรงจำของเขาดันมีเจ้าหน้าที่ปฎิบัติการที่หลบหนีไปเมื่อสามปีก่อน
+Dialogue: 0,0:20:48.91,0:20:51.12,Default,,0,0,0,,ไม่คิดว่ามันน่าสนใจบ้างเหรอ ?
+Dialogue: 0,0:20:52.16,0:20:55.17,Default,,0,0,0,,ฉันคิดว่า มีความเป็นไปได้ว่าโควกามิ ชินยะ
+Dialogue: 0,0:20:55.29,0:20:58.50,Default,,0,0,0,,จะกลายเป็นอาชญากรไปแล้วน่ะนะ
+Dialogue: 0,0:20:58.92,0:21:02.97,Default,,0,0,0,,เราได้พิจารณาแล้วว่าผู้ลักลอบเข้าประเทศมาจากไหน\NSEAUn ยังไงล่ะ
+Dialogue: 0,0:21:03.09,0:21:04.51,Default,,0,0,0,,เป้าหมายของเรา
+Dialogue: 0,0:21:04.63,0:21:07.85,Default,,0,0,0,,เป็นพวกที่มีความเกี่ยวข้องกับกลุ่มต่อต้านรัฐบาลในพื้นที่
+Dialogue: 0,0:21:08.81,0:21:11.64,Default,,0,0,0,,พวกที่กำลังรับผิดชอบระบบซิบิลคือ
+Dialogue: 0,0:21:11.77,0:21:13.64,Default,,0,0,0,,พวกสหภาพเอเชียตะวันออกเฉียงใต้งั้นเหรอ\N(The Southeast Asian Union)
+Dialogue: 0,0:21:13.89,0:21:14.94,Default,,0,0,0,,ใช่แล้ว
+Dialogue: 0,0:21:15.02,0:21:18.86,Default,,0,0,0,,กรณีทดสอบสำหรับการควบคุมซิบิลในพื้นที่ห่างไกลนั้น
+Dialogue: 0,0:21:18.98,0:21:21.44,Default,,0,0,0,,ตอนนี้ถูกบริหารโดยพวกคนบนเมืองกลางทะเล
+Dialogue: 0,0:21:21.53,0:21:25.57,Default,,0,0,0,,ที่เป็นเขตการปกครองพิเศษ ชื่อว่า Shamballa Float อยู่น่ะนะ
+Dialogue: 0,0:21:26.32,0:21:29.66,Default,,0,0,0,,แต่ภูมิภาคที่ว่าตอนนี้กำลังมีสงครามภายใน
+Dialogue: 0,0:21:30.66,0:21:32.91,Default,,0,0,0,,โดรนติดอาวุธระดับสูงที่เรานำไปประจำการไว้
+Dialogue: 0,0:21:33.00,0:21:37.00,Default,,0,0,0,,พักหลังนี้ถูกทำลายบ่อยจนผิดปรกติ
+Dialogue: 0,0:21:39.84,0:21:42.34,Default,,0,0,0,,รูปนี้ก็แลดูคล้ายๆ กับเขา
+Dialogue: 0,0:21:44.05,0:21:46.51,Default,,0,0,0,,ขณะตั่งใจล่าเหยื่ออยู่ดีๆ
+Dialogue: 0,0:21:46.76,0:21:50.35,Default,,0,0,0,,บางทีก็พลาดไปเจอกับสิ่งอื่นที่คล้ายกับเหยื่อได้เหมือนกัน
+Dialogue: 0,0:21:51.22,0:21:54.02,Default,,0,0,0,,ชั้นก็ไม่รู้ว่าเค้าหนียังไง หรือใช้เส้นทางไหน
+Dialogue: 0,0:21:54.14,0:21:58.65,Default,,0,0,0,,แต่คงบอกได้ว่า โควกามิ ชินยะ กำลังซ่อนตัวที่ต่างประเทศ
+Dialogue: 0,0:21:58.86,0:22:02.53,Default,,0,0,0,,พร้อมกับคอยส่งพวกอาชญากรมาที่ญี่ปุ่น
+Dialogue: 0,0:22:03.07,0:22:05.65,Default,,0,0,0,,ถ้าเขาต้องการที่จะทำลายระบบซิบิล
+Dialogue: 0,0:22:05.74,0:22:07.66,Default,,0,0,0,,นี่ก็เป็นแผนที่ไม่เลวเลย
+Dialogue: 0,0:22:08.11,0:22:10.87,Default,,0,0,0,,คุณโควกามิน่ะ ไม่ทำเรื่องพรรณ์นั้นหรอกค่ะ
+Dialogue: 0,0:22:11.08,0:22:14.58,Default,,0,0,0,,ถ้างั้นคิดยังไงกับความทรงจำพวกนี้ล่ะ ?
+Dialogue: 0,0:22:15.87,0:22:18.00,Default,,0,0,0,,โควกามิ ชินยะ กับ กลุ่มก่อการร้ายพวกนี้
+Dialogue: 0,0:22:18.33,0:22:20.96,Default,,0,0,0,,อาจจะมีความเกี่ยวข้องกันก็ได้
+Dialogue: 0,0:22:21.38,0:22:22.30,Default,,0,0,0,,แต่
+Dialogue: 0,0:22:22.38,0:22:25.92,Default,,0,0,0,,เรายังบอกไม่ได้เต็มปากว่า เค้าเป็นอาชญากรจากหลักฐานพวกนี้ค่ะ
+Dialogue: 0,0:22:26.76,0:22:31.14,Default,,0,0,0,,ความจริงนั้น หลังจากนี้จะทำการสืบสวนให้ชัดเจนเองค่ะ
+Dialogue: 0,0:22:37.98,0:22:40.94,Default,,0,0,0,,เรารู้แล้วว่าพวกคุณมาจากประเทศไหน
+Dialogue: 0,0:22:41.06,0:22:43.61,Default,,0,0,0,,อยู่ที่ SEAUn ทำไมอยู่ๆ ถึงมาที่ญี่ปุ่น ?
+Dialogue: 0,0:22:44.53,0:22:49.87,Default,,0,0,0,,คงเกี่ยวกับเรื่องการส่งออกระบบซิบิล\Nใช่มั้ย ?
+Dialogue: 0,0:22:52.20,0:22:54.70,Default,,0,0,0,,คุณรู้อะไรเกี่ยวกับชายคนนี้มั้ย ?
+Dialogue: 0,0:22:56.71,0:23:00.04,Default,,0,0,0,,ถ้าคุณไม่พูด คนอื่นจะพูดแทนคุณ
+Dialogue: 0,0:23:04.50,0:23:07.22,Default,,0,0,0,,จะไม่มีใครบอกอะไรพวกแกทั้งนั้น
+Dialogue: 0,0:23:07.42,0:23:08.43,Default,,0,0,0,,ว่าอะไรนะ ?
+Dialogue: 0,0:23:08.76,0:23:12.35,Default,,0,0,0,,พวกแกเหมือนสัตว์ที่มองไม่เห็นความยุติธรรมที่แท้จริง
+Dialogue: 0,0:23:12.43,0:23:15.89,Default,,0,0,0,,เมื่อพวกแกยอมให้ไอเครื่องพยากรณ์นั่นกุมชะตาชีวิต
+Dialogue: 0,0:23:17.43,0:23:20.81,Default,,0,0,0,,พูดอะไรไปพวกแกก็ไม่เข้าใจหรอก
+Dialogue: 0,0:23:31.62,0:23:32.78,Default,,0,0,0,,ถามว่า โควกามิ ชินยะ
+Dialogue: 0,0:23:32.87,0:23:35.79,Default,,0,0,0,,อาจจะอยู่เบื้องหลังอาชญากรรมพวกนี้รึเปล่า งั้นเหรอ ?
+Dialogue: 0,0:23:36.12,0:23:37.04,Default,,0,0,0,,ใช่ค่ะ
+Dialogue: 0,0:23:37.41,0:23:39.66,Default,,0,0,0,,เค้าอาจจะไม่ลงมือเอง
+Dialogue: 0,0:23:39.83,0:23:43.79,Default,,0,0,0,,แต่คอยชักใยคนพวกนี้ ให้คอยทำตามแผนของเค้า
+Dialogue: 0,0:23:44.04,0:23:47.38,Default,,0,0,0,,คิดว่าเค้าจะทำอะไรแบบนั้นได้มั้ยคะ ?
+Dialogue: 0,0:23:48.88,0:23:52.80,Default,,0,0,0,,อย่างเช่นเหมือนกับ มาคิชิมะ โชวโกะ น่ะเหรอ ?
+Dialogue: 0,0:23:54.30,0:23:55.22,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:23:55.56,0:23:58.14,Default,,0,0,0,,อยากจะบอกว่าเป็นไปไม่ได้อยู่หรอก
+Dialogue: 0,0:23:59.02,0:24:03.65,Default,,0,0,0,,แต่ก็ปฎิเสธไม่ได้ว่าเรื่องพวกนั้นมันก็กวนใจฉันอยู่เหมือนกัน
+Dialogue: 0,0:24:04.90,0:24:09.03,Default,,0,0,0,,สิ่งที่ โควกามิ ทำตอนนี้น่ะ มันไม่ได้เป็นไปตามที่ฉันคาดการณ์ไว้เลย
+Dialogue: 0,0:24:09.36,0:24:10.07,Default,,0,0,0,,แต่ว่า
+Dialogue: 0,0:24:11.03,0:24:12.57,Default,,0,0,0,,หลอมรวมจิตวิญญาณของตัวเองให้กลมกลืนกับสังคม เพื่อที่จะทำอะไรได้ง่ายขึ้น
+Dialogue: 0,0:24:12.74,0:24:17.24,Default,,0,0,0,,(ยาวถึงนี่)
+Dialogue: 0,0:24:17.66,0:24:21.83,Default,,0,0,0,,นั่นเป็นวิธีการใช้ชีวิตอีกรูปแบบหนึ่งนะ
+Dialogue: 0,0:24:23.33,0:24:27.05,Default,,0,0,0,,โควกามิ ก็เคยทำแบบนั้น
+Dialogue: 0,0:24:28.46,0:24:29.55,Default,,0,0,0,,แต่ก็นะ
+Dialogue: 0,0:24:29.67,0:24:34.14,Default,,0,0,0,,เพื่อที่จะจัดการกับมาคิชิมะ ที่แตกต่างจากชาวบ้านแล้วนั้น
+Dialogue: 0,0:24:34.64,0:24:40.56,Default,,0,0,0,,เค้าก็ต้องทำตัวแปลกแยกออกมาจากสังคมด้วยเหมือนกัน
+Dialogue: 0,0:24:45.86,0:24:49.48,Default,,0,0,0,,โห.... นี่กำลังจะขอไปสอบสวนที่ต่างประเทศงั้นเหรอ ?
+Dialogue: 0,0:24:49.86,0:24:50.86,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:24:51.03,0:24:53.32,Default,,0,0,0,,อยากจะข้ามทะเลไป SEAUn สินะ?
+Dialogue: 0,0:24:54.20,0:24:58.45,Default,,0,0,0,,Shamballa Float น่ะถูกปกครองโดยระบบซิบิล
+Dialogue: 0,0:24:58.54,0:25:03.21,Default,,0,0,0,,ซึ่งก็คือ กระทรวงสาธารณสุขและสวัสดิการของญี่ปุ่นนั้น ก็มีอำนาจในเขตนั้นด้วยเช่นกัน
+Dialogue: 0,0:25:03.37,0:25:08.38,Default,,0,0,0,,แน่นอนว่าหน่วยงานรักษาความสงบ\Nก็เป็นหนึ่งในหน่วยงานที่ดูแลเรื่องนี้อยู่
+Dialogue: 0,0:25:08.55,0:25:10.76,Default,,0,0,0,,เรื่องที่เธอขอจะถูกอนุมัติ
+Dialogue: 0,0:25:11.01,0:25:12.17,Default,,0,0,0,,รู้รึเปล่า
+Dialogue: 0,0:25:12.63,0:25:15.47,Default,,0,0,0,,ว่าเธอกำลังจะไปเมืองป่าเถื่อนไร้กฏเกณฑ์
+Dialogue: 0,0:25:16.01,0:25:20.52,Default,,0,0,0,,ทันทีที่เหยียบที่นั้นพวกนั้นจะกันเธอไม่ให้ทำตามอำเภอใจ
+Dialogue: 0,0:25:21.06,0:25:24.98,Default,,0,0,0,,แล้วพวกนั้นก็ไม่น่าจะช่วยเรื่อง โควกามิ ชินยะ ด้วยสิ
+Dialogue: 0,0:25:25.69,0:25:27.23,Default,,0,0,0,,ถึงอย่างงั้นก็ยังจะไปสินะ ?
+Dialogue: 0,0:25:27.90,0:25:29.23,Default,,0,0,0,,ชั้นคิดไว้แล้วค่ะ
+Dialogue: 0,0:25:30.61,0:25:33.82,Default,,0,0,0,,จะมีการส่งพัสดุทางอากาศในวันพรุ่งนี้
+Dialogue: 0,0:25:34.57,0:25:37.45,Default,,0,0,0,,เป็นเครื่องบินเจ็ทสำหรับใช้ส่งมอบอุปกรณ์สำคัญ
+Dialogue: 0,0:25:38.66,0:25:40.41,Default,,0,0,0,,จะเอาคนไปกี่คนล่ะ ?
+Dialogue: 0,0:25:41.75,0:25:43.33,Default,,0,0,0,,ชั้นคนเดียวก็พอค่ะ
+Dialogue: 0,0:25:43.96,0:25:46.83,Default,,0,0,0,,ถ้าคิดถึงเรื่องที่เธอและพวกเราเกี่ยวข้องกันยังไงนั้น
+Dialogue: 0,0:25:46.92,0:25:49.67,Default,,0,0,0,,บางทีแบบนี้ก็ดีเหมือนกัน
+Dialogue: 0,0:25:55.18,0:25:58.89,Default,,0,0,0,,พอเสนอตัวจะไปด้วย แต่ก็โดนปฎิเสธซะงั้น
+Dialogue: 0,0:25:59.18,0:26:00.43,Default,,0,0,0,,นั่นสินะคะ
+Dialogue: 0,0:26:01.26,0:26:04.31,Default,,0,0,0,,ที่ผ่านมายังไม่เคยมีผู้สังเกตการณ์ออกไปต่างประเทศเลย
+Dialogue: 0,0:26:05.27,0:26:07.56,Default,,0,0,0,,นับประสาอะไรกับเจ้าหน้าที่ปฏิบัติการล่ะคะ
+Dialogue: 0,0:26:08.48,0:26:10.11,Default,,0,0,0,,ขออะไรซักอย่างสิ
+Dialogue: 0,0:26:10.27,0:26:11.15,Default,,0,0,0,,อะไรเหรอ ?
+Dialogue: 0,0:26:11.78,0:26:15.15,Default,,0,0,0,,ถ้าได้เจอ ช่วยอัดไอหมอนั่นให้ซักหมัดทีเถอะ
+Dialogue: 0,0:26:15.28,0:26:17.45,Default,,0,0,0,,(รวมประโยคบน)
+Dialogue: 0,0:26:19.62,0:26:21.03,Default,,0,0,0,,นั่นน่ะ คงทำให้ไม่ได้หรอกค่ะ
+Dialogue: 0,0:26:21.49,0:26:22.41,Default,,0,0,0,,ว่าไงนะ ?
+Dialogue: 0,0:26:26.25,0:26:29.79,Default,,0,0,0,,ถ้าเจอ จะจับกุมแล้วส่งเค้ากลับมาที่นี่ค่ะ
+Dialogue: 0,0:26:30.46,0:26:33.88,Default,,0,0,0,,เพราะงั้น คุณกิโนสะอัดเค้าด้วยตัวเองเถอะค่ะ
+Dialogue: 0,0:26:36.80,0:26:41.51,Default,,0,0,0,,เธอเปลี่ยนไป หรือยังเป็นแบบเมื่อก่อนกันแน่นะ
+Dialogue: 0,0:26:41.89,0:26:44.02,Default,,0,0,0,,ยังไงก็ยังเป็นคนลึกลับเสมอนะ
+Dialogue: 0,0:26:57.28,0:27:00.74,Default,,0,0,0,,คุณเจ้าหน้าที่จากกระทรวงฯ ครั้งนี้ขอความกรุณาด้วยนะครับ
+Dialogue: 0,0:27:01.03,0:27:02.66,Default,,0,0,0,,ทางนี้ก็ขอความกรุณาด้วยค่ะ
+Dialogue: 0,0:27:03.58,0:27:07.75,Default,,0,0,0,,นานๆ ทีจะมีผู้โดยสารที่เป็นคนมาซักที
+Dialogue: 0,0:27:33.69,0:27:38.49,Default,,0,0,0,,ระเบียบกฏเกณฑ์และศีลธรรมทั้งหมดจมอยู่ในความวุ่นวาย
+Dialogue: 0,0:27:38.95,0:27:44.16,Default,,0,0,0,,ตอนนี้น่ะ คนพวกนี้ถูกบังคับให้มีชีวิตอยู่ตามสัญชาตญานเอาตัวรอด
+Dialogue: 0,0:27:44.24,0:27:47.62,Default,,0,0,0,,ส่วนใหญ่แล้วก็มีสภาพไม่ต่างไปจากสัตว์
+Dialogue: 0,0:27:48.79,0:27:52.13,Default,,0,0,0,,พวกเขาเหล่านั้นจะใช้ชีวิตอยู่ภายใต้ระบบซิบิล . . .
+Dialogue: 0,0:27:52.67,0:27:58.05,Default,,0,0,0,,หรือจะแหกกรงออกไปข้างนอก แล้วดิ้นรนเอาชีวิตรอดเหมือนในป่า ?
+Dialogue: 0,0:27:59.01,0:28:00.38,Default,,0,0,0,,ยังไงก็ตามแต่
+Dialogue: 0,0:28:00.51,0:28:05.56,Default,,0,0,0,,มันไม่มีสถานที่ยอมรับศักดิ์ศรีและอุดมการณ์ของเหล่าเพื่อนมนุษย์แบบนั้นอีกต่อไปแล้ว
+Dialogue: 0,0:28:07.31,0:28:11.52,Default,,0,0,0,,แต่ในคนเหล่านั้นยังมีพวกที่ใช้ความเอาแต่ใจตัวเองบากบั่น
+Dialogue: 0,0:28:11.81,0:28:15.73,Default,,0,0,0,,จนสามารถเปลี่ยนแปลงชะตากรรมได้ด้วยแรงฮึดนั้น
+Dialogue: 0,0:28:16.11,0:28:18.69,Default,,0,0,0,,ก็ถือว่าเป็นสิ่งที่บอกได้ว่าไม่เลวเลย
+Dialogue: 0,0:28:19.24,0:28:22.11,Default,,0,0,0,,โดยเฉพาะกับคนที่ไม่สนใจว่าจะผิดกฏหมายหรือไม่
+Dialogue: 0,0:28:22.24,0:28:26.78,Default,,0,0,0,,แต่ก็แค่พวกทำตามกระแสของคนรอบข้างล่ะนะ
+Dialogue: 0,0:28:28.20,0:28:31.92,Default,,0,0,0,,ตอนที่ มาคิชิมะ โชวโกะ ครอบครองสิ่งนั้นอยู่
+Dialogue: 0,0:28:33.04,0:28:35.71,Default,,0,0,0,,แล้ว ระหว่างที่กำลังไล่ตามเค้าอยู่นั้น
+Dialogue: 0,0:28:36.09,0:28:39.42,Default,,0,0,0,,โควกามิ ก็ได้แสดงให้เห็นถึงสิ่งนั้นด้วยเช่นกัน
+Dialogue: 0,0:28:41.30,0:28:42.38,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:28:49.93,0:28:52.94,Default,,0,0,0,,นี่ พวกรัฐบาลของ SEAUn น่ะ
+Dialogue: 0,0:28:53.14,0:28:55.52,Default,,0,0,0,,รู้ตัวจริงของคุณรึเปล่านะ ?
+Dialogue: 0,0:28:56.11,0:28:57.44,Default,,0,0,0,,ไม่มีทาง
+Dialogue: 0,0:28:58.78,0:29:03.20,Default,,0,0,0,,เธอคิดเหรอว่า พวกเราจะเปิดเผยความลับภายใน ให้พวกต่างประเทศรู้น่ะ
+Dialogue: 0,0:29:03.61,0:29:06.70,Default,,0,0,0,,ทุกวันนี้ สิ่งที่พวกเราให้ SEAUn ไปนะ
+Dialogue: 0,0:29:06.78,0:29:10.04,Default,,0,0,0,,เครื่องแสดงตามถนนสำหรับ Cymatic สแกน
+Dialogue: 0,0:29:10.12,0:29:14.33,Default,,0,0,0,,และช่องทางสำหรับส่งข้อมูลกลับมาที่ญี่ปุ่นเท่านั้นแหละ
+Dialogue: 0,0:29:15.12,0:29:18.29,Default,,0,0,0,,ตอนนี้ยังไม่อนุญาตให้พวกนั้นใช้โดมิเนเตอร์
+Dialogue: 0,0:29:18.42,0:29:20.38,Default,,0,0,0,,แล้วเราให้พวกทหารรักษาการณ์
+Dialogue: 0,0:29:20.46,0:29:23.09,Default,,0,0,0,,คอยดูแลความสงบเรียบร้อยอยู่
+Dialogue: 0,0:29:24.13,0:29:27.18,Default,,0,0,0,,สำหรับพวกนั้นแล้ว ระบบซิบิลน่ะ
+Dialogue: 0,0:29:27.80,0:29:30.64,Default,,0,0,0,,เป็นแค่กล่องดำจากต่างประเทศเท่านั้นแหละ
+Dialogue: 0,0:29:33.10,0:29:35.56,Default,,0,0,0,,ไอระบบลึกลับขนาดนั้น
+Dialogue: 0,0:29:35.65,0:29:38.69,Default,,0,0,0,,ประธานฮานยังยอมที่จะรับมันไปใช้ทั้งๆ แบบนั้นอีกแฮะ
+Dialogue: 0,0:29:39.44,0:29:44.32,Default,,0,0,0,,ก็หมายความว่าจำเป็นต้องใช้เพื่อฟื้นฟูความสงบภายใน SEAUn ถึงขนาดนั้นเลยไงล่ะ
+Dialogue: 0,0:29:44.95,0:29:46.32,Default,,0,0,0,,นี่เป็นโอกาสดีทีเดียว
+Dialogue: 0,0:29:47.12,0:29:52.37,Default,,0,0,0,,ในโลกภายนอกน่ะ ความสงบสุขมันมีค่ามากแค่ไหน
+Dialogue: 0,0:29:52.58,0:29:55.08,Default,,0,0,0,,เผชิญให้เห็นกับตาตัวเองเถอะ
+Dialogue: 0,0:29:55.33,0:29:57.04,Default,,0,0,0,,แล้วจะทำให้เธอได้ตระหนักถึงความสุดยอดของซิบิลอีกครั้ง
+Dialogue: 0,0:29:57.17,0:30:01.21,Default,,0,0,0,,(รวม)
+Dialogue: 0,0:30:14.56,0:30:19.69,Default,,0,0,0,,เครื่องบินลำนี้จะถึงท่าอากาศยานนานาชาติ SEAUn ในอีก 15 นาทีครับ
+Dialogue: 0,0:30:19.81,0:30:21.69,Default,,0,0,0,,เรากำลังจะทำการลงจอด
+Dialogue: 0,0:30:21.77,0:30:24.36,Default,,0,0,0,,ขอความกรุณาคาดเข็มขัดด้วยครับ
+Dialogue: 0,0:30:49.84,0:30:54.14,Default,,0,0,0,,ผมชื่อ นิโคลัส วอง เป็นหัวหน้ากองกำลังทหารรักษาการณ์
+Dialogue: 0,0:30:54.22,0:30:59.31,Default,,0,0,0,,คุณน่าจะเป็น ผู้สังเกตการณ์อาคาเนะ สึเนโมรึ จากกระทรวงสาธารณสุขและสวิสดิการแห่งประเทศญี่ปุ่นสินะครับ ?
+Dialogue: 0,0:30:59.56,0:31:00.36,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:31:03.57,0:31:04.69,Default,,0,0,0,,ยินดีต้อนรับ
+Dialogue: 0,0:31:04.82,0:31:08.91,Default,,0,0,0,,ทางเราขอต้อนรับคุณและระบบซิบิล
+Dialogue: 0,0:31:11.41,0:31:13.70,Default,,0,0,0,,คุณคงจะตกใจกับสภาพแย่ๆ ข้างนอกนั่นสินะครับ ?
+Dialogue: 0,0:31:14.37,0:31:15.08,Default,,0,0,0,,ไม่นิคะ
+Dialogue: 0,0:31:15.79,0:31:18.16,Default,,0,0,0,,ตอนนี้ ไม่ว่าประเทศไหนก็มีสภาพนี้เหมือนกันหมด
+Dialogue: 0,0:31:18.50,0:31:20.38,Default,,0,0,0,,ยกเว้นแค่ที่ญี่ปุ่น
+Dialogue: 0,0:31:32.30,0:31:35.64,Default,,0,0,0,,แถวนี้มัน อันตรายขนาดนั้นเลยเหรอคะ ?
+Dialogue: 0,0:31:35.97,0:31:38.39,Default,,0,0,0,,นี่ยังนับเป็นส่วนที่ปลอดภัยครับ
+Dialogue: 0,0:31:38.48,0:31:41.60,Default,,0,0,0,,กำลังหลักของพวกที่ต่อต้านตอนนี้กำลังถูกจัดการ
+Dialogue: 0,0:31:41.94,0:31:44.44,Default,,0,0,0,,สงครามกลางเมืองนี้กำลังจะจบลงครับ
+Dialogue: 0,0:31:44.77,0:31:46.32,Default,,0,0,0,,ถ้าพูดแบบนั้น. . . .
+Dialogue: 0,0:31:46.48,0:31:49.11,Default,,0,0,0,,แสดงว่าตอนนี้ยังไม่สงบสินะคะ ?
+Dialogue: 0,0:31:49.40,0:31:51.20,Default,,0,0,0,,ตามนั้นครับ
+Dialogue: 0,0:31:52.16,0:31:56.99,Default,,0,0,0,,ปัจจุบันยังมีประชาชนบางส่วนไม่พอใจกับการปกครองที่เป็นอยู่น่ะครับ
+Dialogue: 0,0:32:06.67,0:32:08.59,Default,,0,0,0,,ข้างหน้าเรานี้เป็นเขตปกครองพิเศษ Shamballa Float
+Dialogue: 0,0:32:08.67,0:32:11.93,Default,,0,0,0,,เป็นเขตที่กำลังทดลองใช้ระบบซิบิลอยู่ครับ
+Dialogue: 0,0:32:12.18,0:32:16.39,Default,,0,0,0,,เราอนุญาตให้คนที่มีแถบสีและค่าสัมประสิทธิ์อาชญากรรมอยู่ในระดับปรกติเท่านั้น
+Dialogue: 0,0:32:16.47,0:32:18.43,Default,,0,0,0,,ที่เข้าไปได้ครับ
+Dialogue: 0,0:32:20.85,0:32:23.86,Default,,0,0,0,,{\an8}{\3c&H20116C&}{\i1}〈กรุณาให้ชั้นเข้าไปใน Shamballa Float ด้วยเถอะ〉{\i0}
+Dialogue: 0,0:32:22.00,0:32:23.86,Default,,0,0,0,,ต้องขอบคุณประเทศของคุณ
+Dialogue: 0,0:32:23.98,0:32:26.61,Default,,0,0,0,,{\an8}{\3c&H20116C&}{\i1}〈ช่วยด้วยเถอะค่ะๆ〉{\i0}
+Dialogue: 0,0:32:25.50,0:32:26.61,Default,,0,0,0,,รีบนำตัวเธอออกไป
+Dialogue: 0,0:32:26.73,0:32:30.70,Default,,0,0,0,,{\i1}〈ช่วยด้วยเถอะค่ะ ได้โปรด〉{\i0}
+Dialogue: 0,0:32:31.99,0:32:35.07,Default,,0,0,0,,{\i1}〈อย่าขยับ! ขยับล่ะก็ ยิงแน่!〉{\i0}
+Dialogue: 0,0:32:39.66,0:32:43.21,Default,,0,0,0,,อย่าได้กังวลไปครับ\Nเรื่องแบบนี้เกิดขึ้นประจำ
+Dialogue: 0,0:33:24.42,0:33:28.59,Default,,0,0,0,,รถโดยสารประจำทางนี้มีไว้สำหรับผู้อาศัยที่ได้รับอนุญาติจากระบบซิบิลเท่านั้น
+Dialogue: 0,0:33:32.38,0:33:34.30,Default,,0,0,0,,แล้วพวกที่ใส่ปลอกคอพวกนั้นล่ะคะ ?
+Dialogue: 0,0:33:34.38,0:33:35.93,Default,,0,0,0,,สังเกตเห็นพวกเขาด้วยสินะครับ ?
+Dialogue: 0,0:33:36.05,0:33:37.72,Default,,0,0,0,,พวกเขาคืออาชญากรแฝงน่ะครับ
+Dialogue: 0,0:33:39.10,0:33:42.06,Default,,0,0,0,,อุปกรณ์นั้นจะคอยวัดไซโคพาส
+Dialogue: 0,0:33:42.18,0:33:44.73,Default,,0,0,0,,ในขณะที่พวกนั้นยังใช้ชีวิตอยู่อย่างอิสระครับ
+Dialogue: 0,0:33:45.69,0:33:49.11,Default,,0,0,0,,ถ้าแถบสีเริ่มขุ่นเมื่อไหร่ ค่าสัมประสิทธิ์อาชญากรรมจะถูกวัดทันที
+Dialogue: 0,0:33:49.73,0:33:50.90,Default,,0,0,0,,ทั้งนี้ก็ขึ้นกับค่าที่ได้
+Dialogue: 0,0:33:51.03,0:33:55.11,Default,,0,0,0,,ค่าออกมาแย่ขนาดไหนนั้น ปลอกคอนั่นสามารถฉีดได้ทั้งยากล่อมประสาทและพิษร้ายแรงครับ
+Dialogue: 0,0:33:56.95,0:34:00.03,Default,,0,0,0,,ถ้าปล่อยพวกเค้าอยู่ปะปนกับคนปรกติอย่างอิสระ
+Dialogue: 0,0:34:00.16,0:34:03.58,Default,,0,0,0,,จะส่งผลเสียต่อระดับความเครียดในพื้นที่ครับ
+Dialogue: 0,0:34:04.54,0:34:05.92,Default,,0,0,0,,เพราะว่าเรายังไม่สามารถเตรียมศูนย์บำบัดที่มีคุณภาพเหมือนอย่างญี่ปุ่น
+Dialogue: 0,0:34:06.00,0:34:08.75,Default,,0,0,0,,(รวม)
+Dialogue: 0,0:34:08.88,0:34:10.59,Default,,0,0,0,,จึงต้องใช้มาตราการรับมือชั่วคราวไปก่อนครับ
+Dialogue: 0,0:34:12.26,0:34:13.88,Default,,0,0,0,,พวกทหารก็สวมมันด้วยเหรอคะ ?
+Dialogue: 0,0:34:14.42,0:34:17.84,Default,,0,0,0,,อ๋อ ถ้าจะเรียกล่ะก็ "เจ้าหน้าที่ปฎิบัติการ" ก็ได้นะครับ
+Dialogue: 0,0:34:18.51,0:34:21.81,Default,,0,0,0,,เจ้าหน้าที่สัญญาบัตรในกองกำลังมีแถบสีใสทั้งหมด
+Dialogue: 0,0:34:22.14,0:34:24.31,Default,,0,0,0,,เพื่อที่จะทำหน้าที่เป็นผู้สังเกตการณ์ได้ครับ
+Dialogue: 0,0:34:24.68,0:34:26.77,Default,,0,0,0,,ว่าแต่ ผู้สังเกตการณ์สิเนโมริครับ
+Dialogue: 0,0:34:27.02,0:34:27.98,Default,,0,0,0,,คะ ?
+Dialogue: 0,0:34:28.10,0:34:31.48,Default,,0,0,0,,ระหว่างที่อยู่ที่นี่ถ้าคุณอยากจะออกจาก Shamballa Float
+Dialogue: 0,0:34:31.61,0:34:35.90,Default,,0,0,0,,หรือไปในสถานที่สำคัญ ขอความกรุณาไปกับคนที่ทางเราจัดไว้ให้
+Dialogue: 0,0:34:35.99,0:34:38.45,Default,,0,0,0,,ตลอดเวลาด้วยนะครับ
+Dialogue: 0,0:34:38.66,0:34:40.95,Default,,0,0,0,,มีคนไปด้วยเหรอคะ ?
+Dialogue: 0,0:34:41.12,0:34:42.33,Default,,0,0,0,,จะสะดวกรึเปล่าครับ ?
+Dialogue: 0,0:34:42.87,0:34:44.08,Default,,0,0,0,,ไม่เป็นไรค่ะ
+Dialogue: 0,0:34:57.59,0:35:01.30,Default,,0,0,0,,ผู้สังเกตการณ์จากหน่วยงานรักษาความสงบของกระทรวงสาธารณสุขและสวัสดิการแห่งประเทศญี่ปุ่น
+Dialogue: 0,0:35:01.47,0:35:03.22,Default,,0,0,0,,สึเนโมริ อาคาเนะ ค่ะ
+Dialogue: 0,0:35:03.64,0:35:05.77,Default,,0,0,0,,ผมชื่อ ชูอาน ฮาน ครับ
+Dialogue: 0,0:35:06.39,0:35:09.40,Default,,0,0,0,,ไม่คิดว่าท่านประธานจะถึงขนาดมาออกมาพบด้วยตัวเองเลยนะคะ
+Dialogue: 0,0:35:09.48,0:35:10.98,Default,,0,0,0,,(รวม)
+Dialogue: 0,0:35:11.19,0:35:13.73,Default,,0,0,0,,นั่นก็เพราะว่าเราสนใจในตัวคุณและประเทศของคุณยังไงล่ะครับ
+Dialogue: 0,0:35:13.82,0:35:15.86,Default,,0,0,0,,(รวม)
+Dialogue: 0,0:35:15.99,0:35:19.70,Default,,0,0,0,,คุณคงจะเหนื่อยจากการเดินทางเป็นแน่ เชิญครับ เชิญนั่ง
+Dialogue: 0,0:35:19.91,0:35:20.99,Default,,0,0,0,,ขอบคุณค่ะ
+Dialogue: 0,0:35:23.83,0:35:27.66,Default,,0,0,0,,เราอยากจะขอความร่วมมือในการสืบสวนระหว่างประเทศค่ะ
+Dialogue: 0,0:35:28.00,0:35:29.96,Default,,0,0,0,,ชายที่คุณกำลังตามจับอยู่น่ะ
+Dialogue: 0,0:35:30.04,0:35:33.09,Default,,0,0,0,,เห็นได้ชัดว่าตอนนี้กำลังร่วมมือ\Nกับพวกกลุ่มก่อการร้าย สินะครับ ?
+Dialogue: 0,0:35:33.75,0:35:36.17,Default,,0,0,0,,เราก็ตั้งข้อสงสัยเช่นนั้นเหมือนกันค่ะ
+Dialogue: 0,0:35:37.05,0:35:40.72,Default,,0,0,0,,ประเทศนี้พยายามที่จะหามาตราการจัดการกับกองโจรที่แข็งข้อให้อยู่หมัด
+Dialogue: 0,0:35:40.84,0:35:43.35,Default,,0,0,0,,อาจจะเรียกว่าการสืบสวนไม่ได้ซะทีเดียวนะครับ
+Dialogue: 0,0:35:44.39,0:35:46.56,Default,,0,0,0,,แน่นอนว่า เราจะให้การสนับสนุนคุณครับ
+Dialogue: 0,0:35:46.77,0:35:48.85,Default,,0,0,0,,ยังไงก็ตาม สถานการณ์ของประเทศนี้
+Dialogue: 0,0:35:48.93,0:35:51.10,Default,,0,0,0,,ไม่เหมือนของประเทศคุณนะครับ
+Dialogue: 0,0:35:51.81,0:35:54.82,Default,,0,0,0,,ยังไงก็ขอให้นึกถึงเรื่องนี้ไว้ด้วยนะครับ
+Dialogue: 0,0:35:55.07,0:35:56.48,Default,,0,0,0,,เข้าใจแล้วค่ะ
+Dialogue: 0,0:35:56.94,0:35:58.69,Default,,0,0,0,,ดีมากครับ \Nพันเอก
+Dialogue: 0,0:35:59.03,0:36:02.53,Default,,0,0,0,,รบกวนฝากรับรองเธอด้วยล่ะ\Nระวังอย่าทำอะไรเสียมารยาทด้วยล่ะ
+Dialogue: 0,0:36:03.03,0:36:04.24,Default,,0,0,0,,ให้ผมจัดการเองครับ
+Dialogue: 0,0:36:09.50,0:36:11.29,Default,,0,0,0,,เปิดกระเป๋า
+Dialogue: 0,0:36:14.50,0:36:15.63,Default,,0,0,0,,หือ ?
+Dialogue: 0,0:36:17.80,0:36:23.39,Default,,0,0,0,,{\an8}{\i1}จดหมาย: ถ้ามีปัญหาเมื่อไรก็เปิดเจ้านี่นะ{\i0}
+Dialogue: 0,0:36:19.13,0:36:23.39,Default,,0,0,0,,โถ่ คุณชิองล่ะก็
+Dialogue: 0,0:36:33.90,0:36:36.61,Default,,0,0,0,,ชูอาน ฮาน อดีตพลเอกจากกองทัพทหาร
+Dialogue: 0,0:36:37.15,0:36:39.69,Default,,0,0,0,,12 ปีก่อน เขาเป็นคนที่มีส่วนร่วม
+Dialogue: 0,0:36:39.78,0:36:43.91,Default,,0,0,0,,ในการเข้าต่อสู้แย่งชิงอำนาจปกครอง
+Dialogue: 0,0:36:44.41,0:36:45.78,Default,,0,0,0,,โดยทำข้อตกลงที่จะตั้งเขตพิเศษสำหรับระบบซิบิลใน SEAUn
+Dialogue: 0,0:36:45.91,0:36:48.33,Default,,0,0,0,,(รวมบน)
+Dialogue: 0,0:36:48.41,0:36:52.67,Default,,0,0,0,,เพราะเหตุนั้นจึงมีรัฐบาลญี่ปุ่นคอยหนุนหลัง และทำให้เขามีอำนาจเหนือกว่าคู่แข่ง
+Dialogue: 0,0:36:52.75,0:36:57.13,Default,,0,0,0,,นี่ก็เป็นปีที่สองนับตั้งแต่ที่เค้าจัดตั่งรัฐสภาใหม่แล้วแต่งตั่งตัวเองเป็นประธาน
+Dialogue: 0,0:36:57.59,0:37:02.17,Default,,0,0,0,,แต่ก็ยังมีการก่อจลาจลเพื่อต่อต้านรัฐบาลทหารอยู่เรื่อยมา
+Dialogue: 0,0:37:02.26,0:37:05.09,Default,,0,0,0,,สถานการณ์ในประเทศนี้ยังคงน่าเป็นห่วง
+Dialogue: 0,0:37:06.97,0:37:09.01,Default,,0,0,0,,พวกก่อการร้ายที่มาที่ญี่ปุ่น
+Dialogue: 0,0:37:09.10,0:37:11.93,Default,,0,0,0,,อย่างที่คิด คงเป็นสมาชิกของพวกกองโจรนั่นแน่ๆ
+Dialogue: 0,0:37:13.89,0:37:18.07,Default,,0,0,0,,ฐานอำนาจของฮาน มาจากการสนับสนุนของรัฐบาลญี่ปุ่น
+Dialogue: 0,0:37:20.32,0:37:24.61,Default,,0,0,0,,และนั่นทำให้โตเกียวตกเป็นเป้าของพวกกลุ่มก่อการร้ายที่ต้องการแก้แค้น
+Dialogue: 0,0:37:32.33,0:37:35.29,Default,,0,0,0,,ฉันจะคอยอำนวยความสะดวกให้คุณเองค่ะ
+Dialogue: 0,0:37:35.58,0:37:38.38,Default,,0,0,0,,ดิฉันชื่อ โย ค่ะ\Nถ้าคุณต้องการอะไร
+Dialogue: 0,0:37:38.46,0:37:40.96,Default,,0,0,0,,เรียกใช้ได้เลยนะคะ
+Dialogue: 0,0:37:42.80,0:37:46.26,Default,,0,0,0,,ถ้าอยากรับประทานอาหารเดี๋ยวนี้ก็ไม่มีปัญหาค่ะ\Nดิชั้นจะเตรียมให้เดี๋ยวนี้ค่ะ
+Dialogue: 0,0:37:46.34,0:37:48.43,Default,,0,0,0,,ถ้าคุณอยากจะออกไปข้างนอก
+Dialogue: 0,0:37:48.60,0:37:52.31,Default,,0,0,0,,ตราบใดที่ไม่เข้าไปในเขตหวงห้าม หรือข้ามฝั่ง
+Dialogue: 0,0:37:52.43,0:37:55.85,Default,,0,0,0,,ด้วยตัวคนเดียวล่ะก็ ไม่มีปัญหา
+Dialogue: 0,0:37:55.98,0:37:57.73,Default,,0,0,0,,เค้าบอกมาแบบนี้ค่ะ
+Dialogue: 0,0:37:57.98,0:37:59.82,Default,,0,0,0,,เข้าใจแล้วค่ะ
+Dialogue: 0,0:38:01.78,0:38:04.11,Default,,0,0,0,,ภายใน 1 อาทิตย์ ระบบจะ
+Dialogue: 0,0:38:04.20,0:38:07.07,Default,,0,0,0,,จำกัดการจำหน่ายเครื่องดื่มแอลกอฮอล์
+Dialogue: 0,0:38:07.20,0:38:09.78,Default,,0,0,0,,ถ้าอยากจะดื่มคงต้องเป็นตอนนี้เท่านั้นค่ะ
+Dialogue: 0,0:38:09.87,0:38:10.79,Default,,0,0,0,,คือว่า . . . .
+Dialogue: 0,0:38:10.91,0:38:11.79,Default,,0,0,0,,คะ ?
+Dialogue: 0,0:38:12.16,0:38:15.66,Default,,0,0,0,,ขอถามอะไรที่เป็นเรื่องส่วนตัวหน่อยได้มั้ยคะ ?
+Dialogue: 0,0:38:15.75,0:38:18.00,Default,,0,0,0,,ถ้าดิฉันตอบได้นะคะ
+Dialogue: 0,0:38:18.25,0:38:19.29,Default,,0,0,0,,ที่ . . .
+Dialogue: 0,0:38:19.38,0:38:21.96,Default,,0,0,0,,เกาะชัมบาล่านี่ ใช้ชีวิตอย่างมีความสุขรึเปล่าคะ ?
+Dialogue: 0,0:38:22.21,0:38:24.63,Default,,0,0,0,,แน่นอนสิคะ
+Dialogue: 0,0:38:25.01,0:38:27.09,Default,,0,0,0,,ในเขตปกครองพิเศษนี้น่ะ
+Dialogue: 0,0:38:27.18,0:38:29.60,Default,,0,0,0,,ทุกคนรู้สึกทราบซึ้งที่ประธานฮาน นำระบบซิบิลเข้ามาใช้ค่ะ
+Dialogue: 0,0:38:29.93,0:38:32.10,Default,,0,0,0,,(รวม)
+Dialogue: 0,0:38:34.39,0:38:35.73,Default,,0,0,0,,ก่อนหน้านี้
+Dialogue: 0,0:38:35.85,0:38:39.73,Default,,0,0,0,,ในประเทศนี้ไม่มีที่ ที่เรียกได้ว่าปลอดภัยเลยค่ะ
+Dialogue: 0,0:39:38.87,0:39:41.88,Default,,0,0,0,,ฉันไม่ผิด !\Nเขาต่างหากล่ะ !
+Dialogue: 0,0:40:16.45,0:40:17.49,Default,,0,0,0,,เป็นไงบ้าง ?
+Dialogue: 0,0:40:17.79,0:40:19.29,Default,,0,0,0,,ทุกอย่างเรียบร้อย
+Dialogue: 0,0:40:20.46,0:40:21.58,Default,,0,0,0,,ไปได้
+Dialogue: 0,0:40:28.63,0:40:29.92,Default,,0,0,0,,อะไรน่ะ ?
+Dialogue: 0,0:40:35.64,0:40:37.93,Default,,0,0,0,,ให้ชั้นไปด้วยได้มั้ยคะ ?
+Dialogue: 0,0:40:38.77,0:40:42.56,Default,,0,0,0,,ไม่มีปัญหาครับ แต่ถ้ามีการปะทะเกิดขึ้น
+Dialogue: 0,0:40:42.65,0:40:45.02,Default,,0,0,0,,ขอความกรุณาอย่าทำอะไรบุ่มบ่ามนะครับ
+Dialogue: 0,0:40:46.65,0:40:49.23,Default,,0,0,0,,แน่นอน จะระวังไว้ค่ะ
+Dialogue: 0,0:40:54.62,0:40:56.83,Default,,0,0,0,,เป็นปฏิบัติการแบบไหนเหรอคะ ?
+Dialogue: 0,0:40:57.53,0:40:59.62,Default,,0,0,0,,จากที่นี่ไปทางเหนือ 50 กิโล
+Dialogue: 0,0:40:59.70,0:41:02.50,Default,,0,0,0,,มีเมืองหลวงเก่าที่ถูกทำลายอยู่ครับ
+Dialogue: 0,0:41:03.17,0:41:06.50,Default,,0,0,0,,ตอนนี้ได้กลายเป็นเมืองร้างไปแล้วครับ
+Dialogue: 0,0:41:06.63,0:41:09.42,Default,,0,0,0,,แต่เมื่อวาน เราพบว่ามีความเป็นไปได้สูงที่จะมีฐานของพวกกองโจรอยู่ครับ
+Dialogue: 0,0:41:09.51,0:41:11.84,Default,,0,0,0,,(รวม)
+Dialogue: 0,0:41:12.09,0:41:13.51,Default,,0,0,0,,โดรนจากญี่ปุ่นน่ะ
+Dialogue: 0,0:41:13.63,0:41:16.64,Default,,0,0,0,,คิดว่าให้ยืมเพื่อความสันตินะคะ ?
+Dialogue: 0,0:41:17.22,0:41:20.68,Default,,0,0,0,,คุณจะนำไปใช้สำหรับสิ่งอื่นที่ไม่ใช่การรักษาความปลอดภัยในเขตเหรอคะ ?
+Dialogue: 0,0:41:21.02,0:41:25.02,Default,,0,0,0,,การจัดการกับสิ่งที่จะเป็นภัยคุกคามก็เป็นหนึ่งในหน้าที่ของเรา
+Dialogue: 0,0:41:25.60,0:41:28.40,Default,,0,0,0,,ซึ่งไม่ได้ขัดกับข้อตกลงแต่อย่างใดครับ
+Dialogue: 0,0:41:42.87,0:41:44.92,Default,,0,0,0,,ที่เกาะชัมบาลาแห่งนี้
+Dialogue: 0,0:41:45.04,0:41:47.54,Default,,0,0,0,,นี่เป็นเพียงแค่ก้าวแรก
+Dialogue: 0,0:41:47.71,0:41:49.75,Default,,0,0,0,,ที่จะขยายขอบเขตการปกครอง
+Dialogue: 0,0:41:49.88,0:41:53.42,Default,,0,0,0,,ของระบบซิบิลให้ครอบคลุมทั้งประเทศ
+Dialogue: 0,0:41:53.72,0:41:57.89,Default,,0,0,0,,เพื่อการนั้น เราต้องเก็บกวาดพวกกลุ่มต่อต้านติดอาวุธให้หมด
+Dialogue: 0,0:41:57.97,0:42:02.22,Default,,0,0,0,,พร้อมกับวัดค่าไซโคพาสทุกคนในประเทศให้เร็วที่สุด
+Dialogue: 0,0:42:41.76,0:42:42.93,Default,,0,0,0,,เริ่มโจมตีได้
+Dialogue: 0,0:42:43.43,0:42:44.27,Default,,0,0,0,,รับทราบ !
+Dialogue: 0,0:42:44.39,0:42:46.94,Default,,0,0,0,,ทุกหน่วยเปลี่ยนไปใช้ รูปแบบการรบ
+Dialogue: 0,0:42:47.44,0:42:48.94,Default,,0,0,0,,เรากำลังจะเริ่มโจมตีครับ
+Dialogue: 0,0:43:05.79,0:43:08.33,Default,,0,0,0,,{\i1}〈ประจำตำแหน่ง เร็วเข้า !〉{\i0}
+Dialogue: 0,0:43:30.52,0:43:32.36,Default,,0,0,0,,โหดร้ายเกินไปแล้ว
+Dialogue: 0,0:43:32.48,0:43:34.78,Default,,0,0,0,,ถ้าไซมาติกสแกนตรวจแล้วไม่มีปัญหาล่ะก็
+Dialogue: 0,0:43:34.86,0:43:37.32,Default,,0,0,0,,ระบบเซฟตี้จะล๊อคเองครับ
+Dialogue: 0,0:43:39.53,0:43:41.28,Default,,0,0,0,,ค่าสัมประสิทธิ์อาชญากรรมของพวกนั้นน่ะ
+Dialogue: 0,0:43:41.37,0:43:44.74,Default,,0,0,0,,น่าจะอยู่ในระดับอาชญากรแฝงเป็นอย่างน้อยแน่นอนครับ
+Dialogue: 0,0:43:44.83,0:43:47.16,Default,,0,0,0,,ในสถานการณ์แบบนั้นน่ะ มันไม่มีทางที่จะมีใครมีไซโคพาสจะเป็นปรกติไม่ใช่เหรอ
+Dialogue: 0,0:43:47.29,0:43:49.75,Default,,0,0,0,,(รวม)
+Dialogue: 0,0:43:50.87,0:43:53.00,Default,,0,0,0,,ถ้าเราไม่ทำ ฝ่ายเราจะถูกเล่นงานซะเอง
+Dialogue: 0,0:43:56.17,0:43:59.13,Default,,0,0,0,,แล้วก็น่าเสียดาย ที่ประเทศเรายังไม่มีศูนย์บำบัด ที่จะคอยดูแลคนพวกนั้นน่ะ
+Dialogue: 0,0:43:59.22,0:44:01.68,Default,,0,0,0,,(รวม)
+Dialogue: 0,0:44:02.59,0:44:04.14,Default,,0,0,0,,ที่ SEAUn แห่งใหม่นั้น
+Dialogue: 0,0:44:04.22,0:44:06.93,Default,,0,0,0,,คนที่จำเป็นเท่านั้นถึงจะยอมให้อาศัยอยู่
+Dialogue: 0,0:44:10.02,0:44:11.44,Default,,0,0,0,,คนพวกนี้
+Dialogue: 0,0:44:11.73,0:44:13.86,Default,,0,0,0,,ถ้าจะให้พูดตรงๆ
+Dialogue: 0,0:44:14.02,0:44:17.48,Default,,0,0,0,,คือพวกเศษเดนจากสงครามกลางเมืองนั่นล่ะครับ
+Dialogue: 0,0:44:27.37,0:44:30.37,Default,,0,0,0,,เดินเครื่อง Skandas\Nเริ่มระดมพล
+Dialogue: 0,0:45:03.28,0:45:05.78,Default,,0,0,0,,ขาดการติดต่อจาก Ganga 02.
+Dialogue: 0,0:45:05.91,0:45:08.24,Default,,0,0,0,,คิดว่าถูกยิงร่วงไปแล้วครับ
+Dialogue: 0,0:45:08.74,0:45:10.37,Default,,0,0,0,,Ganga 03 ก็ขาดการติดต่อครับ
+Dialogue: 0,0:45:10.45,0:45:14.25,Default,,0,0,0,,Ganga 01 ก็เหมือนกันครับ\N ถูกยิงตกไปแล้วครับ
+Dialogue: 0,0:45:15.04,0:45:16.79,Default,,0,0,0,,หมอนั่นเองเหรอ
+Dialogue: 0,0:45:29.89,0:45:33.98,Default,,0,0,0,,เริ่มการตอบโต้ ทำให้ได้ตามที่ผมบอก
+Dialogue: 0,0:45:43.40,0:45:45.28,Default,,0,0,0,,{\i1}〈ไป ! เคลื่อนพล !〉{\i0}
+Dialogue: 0,0:46:46.01,0:46:48.97,Default,,0,0,0,,เรากำลังสูญเสียการควบคุม Ganeshas และ Skandas
+Dialogue: 0,0:46:49.09,0:46:51.47,Default,,0,0,0,,ที่ส่งออกไปครับ
+Dialogue: 0,0:46:51.89,0:46:55.27,Default,,0,0,0,,ไม่มีปัญหา พวกโดรนจะเริ่มทำงานใหม่
+Dialogue: 0,0:46:55.35,0:46:57.52,Default,,0,0,0,,แล้วเปลี่ยนเป็นระบบ stand-alone
+Dialogue: 0,0:46:57.69,0:47:00.36,Default,,0,0,0,,ถึงจะวัดค่าไซโคพาสไม่ได้
+Dialogue: 0,0:47:00.52,0:47:03.23,Default,,0,0,0,,แต่ถ้าระบบยืนยันมิตร-ศัตรูทำงานอยู่ก็ไม่เป็นไร
+Dialogue: 0,0:47:03.36,0:47:07.03,Default,,0,0,0,,ไม่ใช่ว่าพวกนั้นเล็งช่วงเวลาเริ่มระบบใหม่หรอกเหรอ ?
+Dialogue: 0,0:47:32.22,0:47:34.43,Default,,0,0,0,,ทุกตัวเริ่มทำงานใหม่แล้วครับ
+Dialogue: 0,0:47:34.60,0:47:36.73,Default,,0,0,0,,ดี สวนกลับไปเลย
+Dialogue: 0,0:47:37.52,0:47:41.19,Default,,0,0,0,,ปล่อยหน่วยคุ้มกันไว้ที่นี่และเปลี่ยนเป็นกำลังสำรองให้หมด
+Dialogue: 0,0:48:17.43,0:48:18.93,Default,,0,0,0,,ตั้งใจจะทำอะไรน่ะ ?
+Dialogue: 0,0:48:19.10,0:48:20.60,Default,,0,0,0,,จะไปสำรวจที่เกิดเหตุค่ะ
+Dialogue: 0,0:48:20.69,0:48:22.23,Default,,0,0,0,,คุณต้องอยู่กับผม !
+Dialogue: 0,0:48:23.02,0:48:25.86,Default,,0,0,0,,ผมจะต้านมันไว้ที่นี่
+Dialogue: 0,0:48:25.94,0:48:28.94,Default,,0,0,0,,ตอนนี้พวกเรากำลังได้เปรียบ
+Dialogue: 0,0:48:29.07,0:48:32.82,Default,,0,0,0,,แต่ถ้าคุณประมาทล่ะก็ เราจะตายกันหมด
+Dialogue: 0,0:49:43.48,0:49:44.73,Default,,0,0,0,,ไม่ได้พบกันนานนะคะ
+Dialogue: 0,0:49:45.35,0:49:46.56,Default,,0,0,0,,คุณโควกามิ
+Dialogue: 0,0:50:03.71,0:50:07.38,Default,,0,0,0,,ไม่คิดว่า เธอยังอุตส่าห์ตามมาถึงที่แบบนี้นะเนี่ย
+Dialogue: 0,0:50:08.38,0:50:09.75,Default,,0,0,0,,ฉันจะจับคุณค่ะ
+Dialogue: 0,0:50:10.84,0:50:15.22,Default,,0,0,0,,จับผมเหรอ ? \Nเธอเข้าใจสถานการณ์ตอนนี้รึเปล่าเนี่ย ?
+Dialogue: 0,0:50:16.22,0:50:18.47,Default,,0,0,0,,คนที่ส่งพวกก่อการร้ายมาที่ญี่ปุ่นน่ะ คือคุณโควกามิใช่มั้ยคะ ?
+Dialogue: 0,0:50:18.55,0:50:19.97,Default,,0,0,0,,(^)
+Dialogue: 0,0:50:20.56,0:50:22.89,Default,,0,0,0,,อะไรนะ ? พูดถึงเรื่องอะไรกัน ?
+Dialogue: 0,0:50:25.39,0:50:26.10,Default,,0,0,0,,ถ้างั้น . . .
+Dialogue: 0,0:50:44.66,0:50:48.46,Default,,0,0,0,,เอาไงผู้สังเกตการณ์ ? จะห้ามผมหรือปล่อยผมไป
+Dialogue: 0,0:50:48.75,0:50:49.75,Default,,0,0,0,,เอายังไงแน่
+Dialogue: 0,0:50:58.51,0:50:59.72,Default,,0,0,0,,โดดลงไป !
+Dialogue: 0,0:51:31.75,0:51:33.13,Default,,0,0,0,,คุณโควกามิ
+Dialogue: 0,0:51:35.55,0:51:37.80,Default,,0,0,0,,ฉันจะร่วมมือกับคุณค่ะ
+Dialogue: 0,0:51:38.26,0:51:39.47,Default,,0,0,0,,เฮ้ย เดี๋ยวนะ
+Dialogue: 0,0:51:39.55,0:51:42.97,Default,,0,0,0,,แค่ชั่วคราวค่ะ\Nเพื่อการสืบสวน
+Dialogue: 0,0:51:46.81,0:51:49.39,Default,,0,0,0,,รับทราบแล้ว ผู้สังเกตการณ์
+Dialogue: 0,0:52:07.66,0:52:08.91,Default,,0,0,0,,พันเอก !
+Dialogue: 0,0:52:09.41,0:52:12.46,Default,,0,0,0,,ถอดเธอออกจากระบบยืนยันมิตร-ศัตรู ซะ
+Dialogue: 0,0:52:12.96,0:52:13.88,Default,,0,0,0,,แต่ . . .
+Dialogue: 0,0:52:14.29,0:52:18.09,Default,,0,0,0,,นี่เป็นสนามรบ เราต้องให้ความสำคัญกับภารกิจ
+Dialogue: 0,0:52:18.42,0:52:23.55,Default,,0,0,0,,ต้องใช้เวลาครับ เราต้องไปแก้ระบบที่ศูนย์บัญชาการหรือว่าจะ . . . .
+Dialogue: 0,0:52:25.51,0:52:28.27,Default,,0,0,0,,ถูกยิง ไม่มีอาการไส้เลื่อน
+Dialogue: 0,0:52:28.39,0:52:31.48,Default,,0,0,0,,กระดูกเชิงกรานปรกติดี\Nหัวหน่าวอยู่ถูกที่
+Dialogue: 0,0:52:31.60,0:52:32.85,Default,,0,0,0,,ไม่มีอาการผิดปรกติของกระดูกสันหลังส่วนเอว
+Dialogue: 0,0:52:33.69,0:52:35.57,Default,,0,0,0,,เส้นเลือดใหญ่ที่ขาปรกติ
+Dialogue: 0,0:52:36.23,0:52:37.82,Default,,0,0,0,,แขนขาอยู่ดี
+Dialogue: 0,0:52:38.69,0:52:40.11,Default,,0,0,0,,ขอสายดามคอหน่อย
+Dialogue: 0,0:52:58.38,0:53:00.88,Default,,0,0,0,,รีบๆ หน่อย เรากำลังจะย้ายที่
+Dialogue: 0,0:53:10.27,0:53:12.89,Default,,0,0,0,,เกิดอะไรขึ้นกันแน่\Nอธิบายหน่อยค่ะ ?
+Dialogue: 0,0:53:27.91,0:53:29.74,Default,,0,0,0,,ก็ตามที่เห็นแหละ
+Dialogue: 0,0:53:31.00,0:53:34.04,Default,,0,0,0,,ผมมีส่วนร่วมในเรียกร้องประชาธิปไตยของประเทศนี้
+Dialogue: 0,0:53:41.13,0:53:43.43,Default,,0,0,0,,แล้วหลังจากนี้จะไปไหนต่อคะ ?
+Dialogue: 0,0:53:44.43,0:53:46.30,Default,,0,0,0,,จะกลับไปที่ค่ายน่ะ
+Dialogue: 0,0:53:55.90,0:53:57.44,Default,,0,0,0,,ยังไงก็ตาม ผู้สังเกตการณ์
+Dialogue: 0,0:53:59.11,0:54:01.53,Default,,0,0,0,,หยุดเรียกชั้นแบบนั้นเถอะค่ะ
+Dialogue: 0,0:54:03.61,0:54:06.16,Default,,0,0,0,,เธอน่ะ เจอประธานฮานรึยัง ?
+Dialogue: 0,0:54:06.32,0:54:09.45,Default,,0,0,0,,อะ ใช่สิ เจอเค้าเมื่อวานค่ะ
+Dialogue: 0,0:54:09.99,0:54:12.75,Default,,0,0,0,,ไม่คิดว่าเค้าแปลกๆ เหรอ ? ประธานคนนั้นน่ะ
+Dialogue: 0,0:54:13.00,0:54:14.16,Default,,0,0,0,,เอ๊ะ ?
+Dialogue: 0,0:54:14.71,0:54:17.00,Default,,0,0,0,,สงสัยจริงๆ ว่าค่าสัมประสิทธิ์อาชญากรรม ของพวกเผด็จการน่ะ เป็นยังไงกันแน่นะ
+Dialogue: 0,0:54:17.63,0:54:19.92,Default,,0,0,0,,()
+Dialogue: 0,0:54:23.13,0:54:25.34,Default,,0,0,0,,ก็คือ ภารกิจล้มเหลวสินะ
+Dialogue: 0,0:54:25.47,0:54:28.68,Default,,0,0,0,,แล้วก็ ผู้สังเกตการณ์ชาวญี่ปุ่นของเรา สึเนโมริ หายตัวไปสินะ ?
+Dialogue: 0,0:54:28.80,0:54:32.22,Default,,0,0,0,,พฤติกรรมของเธอส่อแววว่าจะคอยช่วยโจรพวกนั้นครับ
+Dialogue: 0,0:54:32.31,0:54:35.31,Default,,0,0,0,,เธอเคลื่อนไหวโดยไม่ได้รับอนุญาตครับ
+Dialogue: 0,0:54:35.94,0:54:37.40,Default,,0,0,0,,ถึงจะเป็นแบบนั้น
+Dialogue: 0,0:54:37.48,0:54:42.57,Default,,0,0,0,,เธอเป็นแขกต่างชาติที่อยู่ในการดูแลของคุณ\Nคุณต้องรับผิดชอบในส่วนนี้
+Dialogue: 0,0:54:42.65,0:54:43.61,Default,,0,0,0,,แต่ !
+Dialogue: 0,0:54:44.99,0:54:46.32,Default,,0,0,0,,ฮะๆ ฉันล้อเล่น
+Dialogue: 0,0:54:46.74,0:54:50.33,Default,,0,0,0,,รัฐบาลญี่ปุ่นเข้าใจสถานการณ์ของประเทศนี้อยู่แล้ว
+Dialogue: 0,0:54:50.45,0:54:56.62,Default,,0,0,0,,คุณคงไม่คิดว่าพวกนั้นจะส่งเธอมาแบบนี้ ทั้งๆ ที่รู้ว่าชีวิตของหล่อนสำคัญขนาดนั้น
+Dialogue: 0,0:54:58.33,0:55:00.88,Default,,0,0,0,,สถานการณ์นี้เป็นเรื่องน่าเศร้ามาก
+Dialogue: 0,0:55:01.17,0:55:05.97,Default,,0,0,0,,ถ้ามันมีอะไรนะพันเอก คุณควรจะเตรียมตัวรับมือกับปัญหาที่ยุ่งยากกว่านี้
+Dialogue: 0,0:55:06.05,0:55:06.76,Default,,0,0,0,,หมายความว่ายังไง ?
+Dialogue: 0,0:55:06.84,0:55:11.05,Default,,0,0,0,,เป็นไปได้ว่าเธอถูกส่งมาโดยจุดประสงค์บางอย่าง
+Dialogue: 0,0:55:11.18,0:55:15.68,Default,,0,0,0,,เพราะว่าพวกนั้นรู้ว่าเธอสามารถอยู่รอดได้ในสถานการณ์แบบนี้น่ะนะ
+Dialogue: 0,0:55:15.98,0:55:19.98,Default,,0,0,0,,ฉันอยากรู้จริงๆ ว่าผลจะออกมาเป็นยังไง
+Dialogue: 0,0:55:42.04,0:55:47.05,Default,,0,0,0,,ผมมีงานด่วนให้คุณ\Nแน่นอน ผมจะตบรางวัลให้
+Dialogue: 0,0:55:47.13,0:55:52.26,Default,,0,0,0,,ผมรู้สึกขอบคุณมาก  \Nตอนนี้เรามีเวลาว่างเกินไปเลยไม่รู้ว่าจะทำอะไรอยู่พอดี
+Dialogue: 0,0:55:52.39,0:55:57.10,Default,,0,0,0,,เนียร์ ซีม เรป ที่ฐานที่มั่นของพวกโจรมีชาวญี่ปุ่นอยู่สองคน
+Dialogue: 0,0:55:57.23,0:56:02.11,Default,,0,0,0,,หนึ่งในนั้นเป็นสมาชิกของกลุ่ม ส่วนอีกคนเป็นผู้สังเกตการณ์จากโตเกียวที่มาตามจับอีกคน
+Dialogue: 0,0:56:02.23,0:56:04.19,Default,,0,0,0,,จัดการพวกนั้นให้ที
+Dialogue: 0,0:56:06.03,0:56:09.74,Default,,0,0,0,,พวกโจรไม่เท่าไร แต่ผู้สังเกตการณ์ด้วยเหรอ ?
+Dialogue: 0,0:56:09.86,0:56:12.95,Default,,0,0,0,,เธอเป็นตัวแทนจากรัฐบาลญี่ปุ่นไม่ใช่หรอกหรือ ?
+Dialogue: 0,0:56:13.41,0:56:17.12,Default,,0,0,0,,เธอทำตัวมีปัญหาและอาจจะมาขวางทางเรา เพราะงั้นเธออันตราย
+Dialogue: 0,0:56:17.87,0:56:19.21,Default,,0,0,0,,เอางั้นก็ได้
+Dialogue: 0,0:56:20.71,0:56:23.13,Default,,0,0,0,,ตั้งแต่มีซิบิลอยู่
+Dialogue: 0,0:56:23.25,0:56:25.71,Default,,0,0,0,,เราก็ไม่รู้จะโผล่หน้าออกไปยังไง
+Dialogue: 0,0:56:29.76,0:56:33.93,Default,,0,0,0,,ก็ต้องขอบคุณซิบิล เรามีสวรรค์ที่เรียกว่า ชัมบาล่า
+Dialogue: 0,0:56:34.01,0:56:38.18,Default,,0,0,0,,จะมาเป็นพลเมืองของที่นี่ก็ได้ ถ้าคุณต้องการ
+Dialogue: 0,0:56:39.23,0:56:43.35,Default,,0,0,0,,แล้วนายกะจะเล่นบทโหดบนเกาะเล็กๆ นั้นอีกนานแค่ไหน ?
+Dialogue: 0,0:56:43.44,0:56:45.48,Default,,0,0,0,,"ในแต่ละบุคคล
+Dialogue: 0,0:56:45.61,0:56:51.07,Default,,0,0,0,,ความรุนแรงนั้นชำระล้างสารพิษ ลบปมด้อยออกไป
+Dialogue: 0,0:56:51.20,0:56:56.16,Default,,0,0,0,,และเปลี่ยนแปลงทัศนคติที่สิ้นหวังและลึกซึ้งของคนพื้นเมืองเหล่านั้น
+Dialogue: 0,0:56:57.24,0:56:58.79,Default,,0,0,0,,ความรุนแรงทำให้คนพวกนั้นไร้ซึ่งความกลัว
+Dialogue: 0,0:56:58.91,0:57:02.50,Default,,0,0,0,,และกู้คืนศักดิ์ศรีกลับคืนมาในแววตาของพวกเค้า"
+Dialogue: 0,0:57:03.63,0:57:06.09,Default,,0,0,0,,นี่นายไม่รู้จัก ฟรองซ์ ฟานอง งั้นเหรอ ?
+Dialogue: 0,0:57:06.21,0:57:11.26,Default,,0,0,0,,ตอนนี้พวกเรากำลังสืบหาที่อยู่ของเป้าหมายในปัจจุบัน ถ้าเจอเมื่อไรล่ะก็ . . . .
+Dialogue: 0,0:57:11.59,0:57:13.13,Default,,0,0,0,,ไม่ต้องกังวลหรอก
+Dialogue: 0,0:57:13.26,0:57:16.60,Default,,0,0,0,,ทหารรับจ้างอย่างเรามีเครือข่ายข่าวกรองอยู่
+Dialogue: 0,0:57:16.76,0:57:19.85,Default,,0,0,0,,ข้อมูลส่วนใหญ่น่ะซื้อเอาไม่ก็แลกด้วยของมีค่า
+Dialogue: 0,0:57:19.97,0:57:24.77,Default,,0,0,0,,และแน่นอน ฉันคงต้องเรียกเก็บเงินจากนายทุกรายการใช้จ่าย
+Dialogue: 0,0:57:24.94,0:57:26.52,Default,,0,0,0,,ได้เลย
+Dialogue: 0,0:57:26.81,0:57:32.36,Default,,0,0,0,,ฉันต้องการให้อนุญาตลงจอดเครื่องบินรบ และรหัสยืนยันพวกพ้อง
+Dialogue: 0,0:57:03.63,0:57:06.09,Default,,0,0,0,,คุณไม่คุ้นกับ ฟรองซ์ ฟานอง เลยงั้นเหรอ ?
+Dialogue: 0,0:57:06.21,0:57:11.26,Default,,0,0,0,,ตอนนี้พวกเรากำลังสืบหาที่อยู่ของเป้าหมายในปัจจุบัน คงจะค้นเจอได้ภายในเร็ววันนี้
+Dialogue: 0,0:57:11.59,0:57:13.13,Default,,0,0,0,,ไม่ต้องกังวลหรอก
+Dialogue: 0,0:57:13.26,0:57:16.60,Default,,0,0,0,,ทหารรับจ้างอย่างเรามีเครือข่ายข่าวกรองอยู่
+Dialogue: 0,0:57:16.76,0:57:19.85,Default,,0,0,0,,ข้อมูลส่วนใหญ่น่ะซื้อเอาไม่ก็แลกด้วยของมีค่า
+Dialogue: 0,0:57:19.97,0:57:24.77,Default,,0,0,0,,และแน่นอน ฉันคงต้องเรียกเก็บเงินจากคุณทุกรายการใช้จ่าย
+Dialogue: 0,0:57:24.94,0:57:26.52,Default,,0,0,0,,เรื่องเล็กน้อยน่า
+Dialogue: 0,0:57:26.81,0:57:32.36,Default,,0,0,0,,ฉันต้องการให้อนุญาตลงจอดเครื่องบินรบ และรหัสยืนยันพวกพ้องด้วย
+Dialogue: 0,0:58:26.08,0:58:28.58,Default,,0,0,0,,ทั้งเด็กและคนแก่อยู่ที่นี่กันหมดเลยสินะคะ ?
+Dialogue: 0,0:58:32.38,0:58:33.88,Default,,0,0,0,,กลับมาแล้วเหรอโควกามิ
+Dialogue: 0,0:58:42.22,0:58:43.27,Default,,0,0,0,,เธอคือ
+Dialogue: 0,0:58:43.39,0:58:45.89,Default,,0,0,0,,ถ้าให้อธิบายมันคงยาก
+Dialogue: 0,0:58:46.23,0:58:50.02,Default,,0,0,0,,แต่ที่แน่ๆเธอไม่ใช่ศัตรู \Nเซม เธอเป็นแขกของผมเอง
+Dialogue: 0,0:58:46.23,0:58:50.02,Default,,0,0,0,,แต่ที่แน่ๆเธอไม่ใช่ศัตรู เซม เธอมากับผมน่ะ
+Dialogue: 0,0:58:53.07,0:58:55.86,Default,,0,0,0,,คุณเองก็ถูกโควกามิชี้ทางสว่างให้เหมือนกันสินะครับ ?
+Dialogue: 0,0:58:56.61,0:58:58.36,Default,,0,0,0,,งั้นเราก็คือสหายกัน
+Dialogue: 0,0:58:59.41,0:59:02.74,Default,,0,0,0,,ผมเซม เป็นผู้นำที่นี่
+Dialogue: 0,0:59:03.91,0:59:06.79,Default,,0,0,0,,ซึเนโมริ อาคาเนะค่ะ ยินที่ได้รู้จัก
+Dialogue: 0,0:59:07.50,0:59:11.09,Default,,0,0,0,,ผมพาคนดีๆ ไปตายอีกแล้ว ผมขอโทษด้วย
+Dialogue: 0,0:59:11.92,0:59:15.80,Default,,0,0,0,,ไม่หรอก ถ้าไม่มีคุณล่ะก็ พวกเราทั้งหมดคงตายไปแล้ว
+Dialogue: 0,0:59:27.81,0:59:29.52,Default,,0,0,0,,กิโนเป็นยังไงบ้างล่ะ
+Dialogue: 0,0:59:30.52,0:59:32.98,Default,,0,0,0,,หลังจากตอนนั้น เค้าก็กลายเป็นเจ้าหน้าที่ปฏิบัติการค่ะ
+Dialogue: 0,0:59:34.40,0:59:35.61,Default,,0,0,0,,งั้นสินะ
+Dialogue: 0,0:59:36.40,0:59:40.62,Default,,0,0,0,,แล้วคุณโควกามิมาทำอะไรอยู่ที่นี่คะ
+Dialogue: 0,0:59:41.28,0:59:44.33,Default,,0,0,0,,ตอนแรกก็ว่าจะหาที่สงบๆ อาศัยอยู่หรอก
+Dialogue: 0,0:59:51.21,0:59:52.63,Default,,0,0,0,,ฉันเหนื่อยน่ะนะ
+Dialogue: 0,0:59:52.79,0:59:55.76,Default,,0,0,0,,แต่หลังจากที่ได้ออกมาจากระบบซิบิล
+Dialogue: 0,0:59:55.88,0:59:58.63,Default,,0,0,0,,ก็ได้รู้ว่าที่เงียบสงบน่ะไม่เหลืออยู่อีกแล้ว
+Dialogue: 0,0:59:59.13,1:00:01.84,Default,,0,0,0,,ทุกๆ ที่บนโลกกลายเป็นสนามรบ
+Dialogue: 0,1:00:02.64,1:00:06.10,Default,,0,0,0,,ฉันคิดว่าฉันเตรียมตัวมาพร้อมสำหรับโลกแห่งความจริงแล้ว
+Dialogue: 0,1:00:06.27,1:00:08.48,Default,,0,0,0,,แต่ก็ได้รู้ว่าฉันน่ะยังอ่อนหัดขนาดไหน
+Dialogue: 0,1:00:08.81,1:00:10.48,Default,,0,0,0,,เลยต้องหาทางฝึกเอาตัวรอดอีกครั้ง
+Dialogue: 0,1:00:10.56,1:00:12.40,Default,,0,0,0,,
+Dialogue: 0,1:00:12.94,1:00:15.32,Default,,0,0,0,,แต่ทำไมนายถึงไปร่วมกลุ่มกับกองโจรได้ล่ะ ?
+Dialogue: 0,1:00:17.90,1:00:20.49,Default,,0,0,0,,หลังจากเข้ามาประเทศนี้ได้ไม่นาน
+Dialogue: 0,1:00:20.61,1:00:22.70,Default,,0,0,0,,ภายใต้การนำของฮาน
+Dialogue: 0,1:00:22.82,1:00:25.49,Default,,0,0,0,,และการเริ่มปล่อยโดรนออกมาล่ากลุ่มโจร
+Dialogue: 0,1:00:28.08,1:00:30.67,Default,,0,0,0,,ทำให้ฉันตัดสินใจช่วยเหลือพวกกองโจร
+Dialogue: 0,1:00:30.75,1:00:32.75,Default,,0,0,0,,โดยการสอนวิธีรับมือโดรน
+Dialogue: 0,1:00:33.84,1:00:36.13,Default,,0,0,0,,พวกโดรนถูกสร้างขึ้นในญี่ปุ่น
+Dialogue: 0,1:00:36.25,1:00:38.59,Default,,0,0,0,,ฉันเป็นคนที่รู้ดีที่สุด
+Dialogue: 0,1:00:38.67,1:00:40.51,Default,,0,0,0,,ไม่ว่าจะเป็นจุดอ่อนหรือวิธีทำลายมัน
+Dialogue: 0,1:00:43.72,1:00:47.52,Default,,0,0,0,,แต่... วิธีการแบบนี้มันจะเปลี่ยนแปลงอะไรได้งั้นเหรอ ?
+Dialogue: 0,1:00:48.39,1:00:50.18,Default,,0,0,0,,ถึงพวกเราจะดูเป็นแบบนี้
+Dialogue: 0,1:00:50.39,1:00:53.27,Default,,0,0,0,,แต่ในเวลานั้น พวกเราจะชนะแม้มันจะดูยากลำบากแค่ไหนก็ตาม
+Dialogue: 0,1:00:57.15,1:00:59.86,Default,,0,0,0,,ถึงแม้ตอนนี้หมอนั่นจะเรียกตัวเองว่า ประธานสภา
+Dialogue: 0,1:00:59.99,1:01:04.07,Default,,0,0,0,,แต่ความจริงแล้ว ฮานก็เป็นเพียงแค่ผู้นำของกองทัพนึงเท่านั้น
+Dialogue: 0,1:01:04.99,1:01:07.83,Default,,0,0,0,,เพื่อที่จะเหนือกว่าคู่แข่งคนอื่น
+Dialogue: 0,1:01:08.41,1:01:11.21,Default,,0,0,0,,จึงได้ร่วมมือกับซิบิลของประเทศญี่ปุ่น
+Dialogue: 0,1:01:15.00,1:01:17.04,Default,,0,0,0,,สิ่งที่หมอนั่นต้องการน่ะ
+Dialogue: 0,1:01:17.17,1:01:20.17,Default,,0,0,0,,ไม่ใช่การเปลี่ยนเกาะชัมบาล่าเป็นสรวงสวรรค์หรอก
 Dialogue: 0,1:01:32.64,1:01:34.77,Default,,0,0,0,,ในทางปฎิบัติจริงน่ะ พลังที่แท้จริงของฮาน
 Dialogue: 0,1:01:34.90,1:01:39.23,Default,,0,0,0,,ทำให้ทหารฝ่ายของหมอนั่นแข็งแกร่งที่สุด
 Dialogue: 0,1:01:39.36,1:01:41.90,Default,,0,0,0,,พวกเราคิดว่านั่นแหละที่จะย้อนไปทำลายเจ้านั่น
