@@ -815,105 +815,105 @@ Dialogue: 0,1:09:13.31,1:09:16.86,Default,,0,0,0,,ไว้เป็นที่
 Dialogue: 0,1:09:16.98,1:09:18.73,Default,,0,0,0,,ดูน่ารำคาญจริงๆ เลยนะ
 Dialogue: 0,1:09:19.49,1:09:23.66,Default,,0,0,0,,แต่ว่าคุณไม่ใช่คนที่จะมาบงการคนอื่น
 Dialogue: 0,1:09:24.32,1:09:28.24,Default,,0,0,0,,นั่นคือข้อแตกต่างระหว่างคุณกับมาคิชิมะ โชโกะค่ะ
-Dialogue: 0,1:09:32.37,1:09:35.33,Default,,0,0,0,,If that's really what you thought of him,
-Dialogue: 0,1:09:35.42,1:09:38.59,Default,,0,0,0,,then it's no wonder he's giving me so much trouble.
-Dialogue: 0,1:09:52.52,1:09:58.94,Default,,0,0,0,,{\i1}<Enemy attack! There are flames rising in the direction of Bayon!〉{\i0}
-Dialogue: 0,1:10:07.03,1:10:08.70,Default,,0,0,0,,Acquiring.
-Dialogue: 0,1:10:30.51,1:10:33.81,Default,,0,0,0,,Weber, Babangida, keep sniffing around for them.
-Dialogue: 0,1:10:34.06,1:10:35.64,Default,,0,0,0,,Copy that!
-Dialogue: 0,1:10:41.73,1:10:43.07,Default,,0,0,0,,Break out the ECM!
-Dialogue: 0,1:10:59.92,1:11:02.46,Default,,0,0,0,,Yuria, did you find the target?
-Dialogue: 0,1:11:02.59,1:11:03.71,Default,,0,0,0,,Not yet.
-Dialogue: 0,1:11:05.30,1:11:08.93,Default,,0,0,0,,Shit, only small fry here.
-Dialogue: 0,1:11:09.60,1:11:11.10,Default,,0,0,0,,Hey, Boone!
-Dialogue: 0,1:11:12.31,1:11:15.31,Default,,0,0,0,,That's fine. Search for the targets.
-Dialogue: 0,1:11:15.93,1:11:16.77,Default,,0,0,0,,Roger.
-Dialogue: 0,1:11:27.53,1:11:29.87,Default,,0,0,0,,These tactics are different from the military's.
-Dialogue: 0,1:11:30.24,1:11:31.58,Default,,0,0,0,,How so?
-Dialogue: 0,1:11:31.91,1:11:32.87,Default,,0,0,0,,They're not relying on drones;
-Dialogue: 0,1:11:32.99,1:11:35.50,Default,,0,0,0,,They're highly trained special forces.
-Dialogue: 0,1:11:35.62,1:11:37.46,Default,,0,0,0,,I've got a bad feeling about this.
-Dialogue: 0,1:11:41.79,1:11:44.21,Default,,0,0,0,,Sem, where's my ECM?
-Dialogue: 0,1:11:44.38,1:11:45.92,Default,,0,0,0,,They've seized the controls!
-Dialogue: 0,1:11:46.01,1:11:48.05,Default,,0,0,0,,We're trying to stall them!
-Dialogue: 0,1:11:48.47,1:11:49.30,Default,,0,0,0,,Sem!
-Dialogue: 0,1:11:49.59,1:11:51.85,Default,,0,0,0,,We'll have her escape.
-Dialogue: 0,1:11:55.47,1:11:56.35,Default,,0,0,0,,Kougami!
-Dialogue: 0,1:11:56.48,1:12:00.02,Default,,0,0,0,,You need to leave without me.\NWe'll hold them off.
-Dialogue: 0,1:12:00.15,1:12:01.98,Default,,0,0,0,,I'm not leaving alone!
-Dialogue: 0,1:12:02.06,1:12:03.48,Default,,0,0,0,,Your criminal investigation
-Dialogue: 0,1:12:03.57,1:12:05.94,Default,,0,0,0,,might get to the bottom of Han's crimes!
-Dialogue: 0,1:12:06.03,1:12:07.69,Default,,0,0,0,,It's an opportunity for us.
-Dialogue: 0,1:12:07.78,1:12:10.03,Default,,0,0,0,,Go back to Shamballa, and continue your mission!
-Dialogue: 0,1:12:10.16,1:12:10.91,Default,,0,0,0,,But!
-Dialogue: 0,1:12:11.07,1:12:14.66,Default,,0,0,0,,Don't worry.\NDo you really think I'll die that easily?
-Dialogue: 0,1:12:16.04,1:12:18.37,Default,,0,0,0,,If we both survive this,
-Dialogue: 0,1:12:19.41,1:12:21.29,Default,,0,0,0,,come try to catch me again.
-Dialogue: 0,1:12:25.42,1:12:26.71,Default,,0,0,0,,Sure.
-Dialogue: 0,1:13:02.37,1:13:02.96,Default,,0,0,0,,Sem!
-Dialogue: 0,1:13:03.42,1:13:04.71,Default,,0,0,0,,Go, Kougami!
-Dialogue: 0,1:13:12.93,1:13:14.64,Default,,0,0,0,,Sem, get outta there!
-Dialogue: 0,1:13:14.85,1:13:17.06,Default,,0,0,0,,I can't abandon a friend!
-Dialogue: 0,1:13:23.77,1:13:24.81,Default,,0,0,0,,Sem!
-Dialogue: 0,1:13:42.79,1:13:45.42,Default,,0,0,0,,Target Delta identified! Open fire!
-Dialogue: 0,1:13:45.92,1:13:48.09,Default,,0,0,0,,Wait.\NWhat about Target Juliet?
-Dialogue: 0,1:14:08.65,1:14:11.90,Default,,0,0,0,,Signal lost. She's getting away.
-Dialogue: 0,1:14:12.49,1:14:13.78,Default,,0,0,0,,Do you want me to chase her?
-Dialogue: 0,1:14:13.90,1:14:15.36,Default,,0,0,0,,No, it's too late.
-Dialogue: 0,1:14:15.66,1:14:19.83,Default,,0,0,0,,Get me Delta alive instead. Don't kill him.\NI'll be right there.
-Dialogue: 0,1:14:19.95,1:14:21.04,Default,,0,0,0,,Roger.
-Dialogue: 0,1:14:59.66,1:15:01.58,Default,,0,0,0,,You're quite something.
-Dialogue: 0,1:15:02.66,1:15:07.00,Default,,0,0,0,,You'll regret it if you don't kill me now.
-Dialogue: 0,1:15:08.04,1:15:14.09,Default,,0,0,0,,Terrifying! Unfortunately, we have some important questions to ask you.
-Dialogue: 0,1:15:28.52,1:15:30.86,Default,,0,0,0,,You may be an important guest of ours,
-Dialogue: 0,1:15:30.94,1:15:33.23,Default,,0,0,0,,but there is a limit to our patience.
-Dialogue: 0,1:15:34.28,1:15:36.24,Default,,0,0,0,,An "important guest?"
-Dialogue: 0,1:15:37.11,1:15:38.70,Default,,0,0,0,,You tried to kill me!
-Dialogue: 0,1:15:39.28,1:15:41.91,Default,,0,0,0,,It's because you were operating alongside the guerillas.
-Dialogue: 0,1:15:42.08,1:15:43.54,Default,,0,0,0,,That was part of the investigation.
-Dialogue: 0,1:15:44.62,1:15:48.42,Default,,0,0,0,,Why can't you understand that this is {\i1}our{\i0} country?
-Dialogue: 0,1:15:49.12,1:15:50.92,Default,,0,0,0,,You will be jailed
-Dialogue: 0,1:15:51.33,1:15:55.34,Default,,0,0,0,,and sent home immediately on the next flight to Japan.
-Dialogue: 0,1:16:02.26,1:16:06.81,Default,,0,0,0,,Colonel, I'd rather you not decide important matters\Nwithout me.
-Dialogue: 0,1:16:07.48,1:16:08.77,Default,,0,0,0,,Mister Chairman!
-Dialogue: 0,1:16:09.94,1:16:13.11,Default,,0,0,0,,There is no need to deport her.
-Dialogue: 0,1:16:13.23,1:16:16.44,Default,,0,0,0,,Simply put her under observation and return her to\Nher quarters.
-Dialogue: 0,1:16:16.57,1:16:17.36,Default,,0,0,0,,But!
-Dialogue: 0,1:16:17.44,1:16:18.61,Default,,0,0,0,,Silence!
-Dialogue: 0,1:16:20.11,1:16:20.95,Default,,0,0,0,,It is not as if
-Dialogue: 0,1:16:21.07,1:16:25.79,Default,,0,0,0,,I do not have issues with some of the Military Police's conduct as of late.
-Dialogue: 0,1:16:25.87,1:16:29.00,Default,,0,0,0,,Also, I {\i1}am{/i0} the Commander-in-Chief.
-Dialogue: 0,1:16:31.63,1:16:32.88,Default,,0,0,0,,Yes sir.
-Dialogue: 0,1:16:40.30,1:16:41.80,Default,,0,0,0,,Well then...
-Dialogue: 0,1:18:00.46,1:18:02.55,Default,,0,0,0,,Excuse me, Miss Tsunemori.
-Dialogue: 0,1:18:02.72,1:18:04.51,Default,,0,0,0,,I see you have returned to your room,
-Dialogue: 0,1:18:04.59,1:18:06.89,Default,,0,0,0,,so I have come to prepare your meal.
-Dialogue: 0,1:18:08.60,1:18:10.22,Default,,0,0,0,,Thank you, Yeo.
-Dialogue: 0,1:18:10.72,1:18:12.73,Default,,0,0,0,,I'll take my meal after my shower.
-Dialogue: 0,1:18:13.19,1:18:15.90,Default,,0,0,0,,Yes, certainly.
-Dialogue: 0,1:18:20.11,1:18:21.61,Default,,0,0,0,,Hm? Akane?
-Dialogue: 0,1:18:22.44,1:18:23.95,Default,,0,0,0,,Sorry about this, Shion.
-Dialogue: 0,1:18:24.07,1:18:25.11,Default,,0,0,0,,Can you hear me?
-Dialogue: 0,1:18:25.24,1:18:27.12,Default,,0,0,0,,Yes, of course.
-Dialogue: 0,1:18:27.24,1:18:30.29,Default,,0,0,0,,Looks like the program I gave you is working properly.
-Dialogue: 0,1:18:30.41,1:18:32.12,Default,,0,0,0,,So, what is it?
-Dialogue: 0,1:18:32.54,1:18:34.75,Default,,0,0,0,,Is it possible to systematically
-Dialogue: 0,1:18:34.92,1:18:36.50,Default,,0,0,0,,inspect the Psycho-Pass diagnosis
-Dialogue: 0,1:18:36.58,1:18:40.55,Default,,0,0,0,,equipment that the Public Saftey Bureau\Ngave Shamballa Float?
-Dialogue: 0,1:18:40.67,1:18:41.55,Default,,0,0,0,,Sure.
-Dialogue: 0,1:18:41.63,1:18:45.05,Default,,0,0,0,,It should be just fine if we use the Pillbugs, I think.
-Dialogue: 0,1:18:45.18,1:18:46.80,Default,,0,0,0,,What do you hope to find?
-Dialogue: 0,1:18:46.93,1:18:48.35,Default,,0,0,0,,The Sybil System is
-Dialogue: 0,1:18:48.43,1:18:50.93,Default,,0,0,0,,in use over there, right?\NIn that case...
-Dialogue: 0,1:18:51.06,1:18:52.35,Default,,0,0,0,,There's a possibility
-Dialogue: 0,1:18:52.43,1:18:55.35,Default,,0,0,0,,that the system is not being used fairly.
-Dialogue: 0,1:18:55.44,1:18:56.48,Default,,0,0,0,,Check the Ward's equipment,
-Dialogue: 0,1:18:56.60,1:19:00.27,Default,,0,0,0,,and make sure you take a close look at the Military Police.
-Dialogue: 0,1:19:00.40,1:19:03.74,Default,,0,0,0,,I need you to figure out ASAP if Cymatic Scans
-Dialogue: 0,1:19:03.82,1:19:05.95,Default,,0,0,0,,are being measured accurately.
-Dialogue: 0,1:19:07.45,1:19:09.95,Default,,0,0,0,,A detective's gut feeling... I take it?
-Dialogue: 0,1:19:10.87,1:19:15.29,Default,,0,0,0,,It's not that.\NIt's just a conclusion I've drawn after looking at the facts.
-Dialogue: 0,1:19:17.75,1:19:20.96,Default,,0,0,0,,All right. I'll inspect the hell out of this.
+Dialogue: 0,1:09:32.37,1:09:35.33,Default,,0,0,0,,ถ้าคิดว่าฉันเหมือนผู้ชายคนนั้น
+Dialogue: 0,1:09:35.42,1:09:38.59,Default,,0,0,0,,ก็ไม่แปลกใจเลยที่หมอนั้นทิ้งปัญหาไว้มาก
+Dialogue: 0,1:09:52.52,1:09:58.94,Default,,0,0,0,,ข้าศึกโจมตีแล้ว มีไฟไหม้มาจากทางทางโน้น
+Dialogue: 0,1:10:07.03,1:10:08.70,Default,,0,0,0,,เจอตัวล่ะ
+Dialogue: 0,1:10:30.51,1:10:33.81,Default,,0,0,0,,เวเบอ บาบานกิด้า คอยตรวจตรารอบๆ นี้ด้วยล่ะ
+Dialogue: 0,1:10:34.06,1:10:35.64,Default,,0,0,0,,รับทราบ
+Dialogue: 0,1:10:41.73,1:10:43.07,Default,,0,0,0,,เริ่มการทำงานของ ECM(มาตรการก่อกวนทางอิเล็กทรอนิกส์) เร็ว !
+Dialogue: 0,1:10:59.92,1:11:02.46,Default,,0,0,0,,ยูเรีย เธอเจอเป้าหมายไหม
+Dialogue: 0,1:11:02.59,1:11:03.71,Default,,0,0,0,,ยังค่ะ
+Dialogue: 0,1:11:05.30,1:11:08.93,Default,,0,0,0,,แม่งเอ้ย แถวนี้มีแต่ลูกกระจ๊อก
+Dialogue: 0,1:11:09.60,1:11:11.10,Default,,0,0,0,,เฮ้ บูน!
+Dialogue: 0,1:11:12.31,1:11:15.31,Default,,0,0,0,,พอแล้ว ไปหาเป้าหมายได้
+Dialogue: 0,1:11:15.93,1:11:16.77,Default,,0,0,0,,รับทราบ
+Dialogue: 0,1:11:27.53,1:11:29.87,Default,,0,0,0,,กลยุทธแบบนี้ไม่เหมือนกับของทหารเลย
+Dialogue: 0,1:11:30.24,1:11:31.58,Default,,0,0,0,,ยังไงเหรอคะ ?
+Dialogue: 0,1:11:31.91,1:11:32.87,Default,,0,0,0,,พวกมันไม่ใช้โดรน
+Dialogue: 0,1:11:32.99,1:11:35.50,Default,,0,0,0,,พวกนี้ถูกฝึกมาอย่างดีในหน่วยรบพิเศษ
+Dialogue: 0,1:11:35.62,1:11:37.46,Default,,0,0,0,,ฉันสังหรณ์ใจไม่ดีเลยแหะ
+Dialogue: 0,1:11:41.79,1:11:44.21,Default,,0,0,0,,เซม ECM ของผมล่ะ
+Dialogue: 0,1:11:44.38,1:11:45.92,Default,,0,0,0,,พวกมันยึดเข้าควบคุมไว้แล้ว
+Dialogue: 0,1:11:46.01,1:11:48.05,Default,,0,0,0,,พวกเรากำลังขวางพวกมันอยู่
+Dialogue: 0,1:11:48.47,1:11:49.30,Default,,0,0,0,,เซม!
+Dialogue: 0,1:11:49.59,1:11:51.85,Default,,0,0,0,,เราต้องพาเธอหนี
+Dialogue: 0,1:11:55.47,1:11:56.35,Default,,0,0,0,,คุณโควกามิ!
+Dialogue: 0,1:11:56.48,1:12:00.02,Default,,0,0,0,,เธอต้องไปโดยไม่มีฉัน ที่นี่พวกฉันจะหยุดมันไว้เอง
+Dialogue: 0,1:12:00.15,1:12:01.98,Default,,0,0,0,,แค่ชั้นคนเดียวน่ะมัน !
+Dialogue: 0,1:12:02.06,1:12:03.48,Default,,0,0,0,,การสืบสวนอาชญากรรมของเธอ
+Dialogue: 0,1:12:03.57,1:12:05.94,Default,,0,0,0,,อาจจะเจอหลักฐานการก่ออาชญากรรมของฮานได้
+Dialogue: 0,1:12:06.03,1:12:07.69,Default,,0,0,0,,นั้นเป็นโอกาสเพียงหนึ่งเดียวของเรา
+Dialogue: 0,1:12:07.78,1:12:10.03,Default,,0,0,0,,กลับไปชัมบาล่า ไปทำภารกิจของเธอซะ!
+Dialogue: 0,1:12:10.16,1:12:10.91,Default,,0,0,0,,แต่ว่า!
+Dialogue: 0,1:12:11.07,1:12:14.66,Default,,0,0,0,,ไม่ต้องห่วง เธอคิดเหรอว่าฉันจะยอมตายง่ายๆ
+Dialogue: 0,1:12:16.04,1:12:18.37,Default,,0,0,0,,ถ้าเราทั้งคู่รอดไปได้
+Dialogue: 0,1:12:19.41,1:12:21.29,Default,,0,0,0,,พยายามมาจับฉันอีกครั้งสิ
+Dialogue: 0,1:12:25.42,1:12:26.71,Default,,0,0,0,,ค่ะ
+Dialogue: 0,1:13:02.37,1:13:02.96,Default,,0,0,0,,เซม!
+Dialogue: 0,1:13:03.42,1:13:04.71,Default,,0,0,0,,ไปเลย โควกามิ
+Dialogue: 0,1:13:12.93,1:13:14.64,Default,,0,0,0,,เซม ออกมาจากตรงนั้น
+Dialogue: 0,1:13:14.85,1:13:17.06,Default,,0,0,0,,ผมทิ้งเพื่อนไปไม่ได้
+Dialogue: 0,1:13:23.77,1:13:24.81,Default,,0,0,0,,เซมมมม
+Dialogue: 0,1:13:42.79,1:13:45.42,Default,,0,0,0,,เป้าหมายเดลต้ายืนยัน ยิงได้
+Dialogue: 0,1:13:45.92,1:13:48.09,Default,,0,0,0,,เดี๋ยวก่อน แล้วเป้าหมายจูเลียตล่ะ ?
+Dialogue: 0,1:14:08.65,1:14:11.90,Default,,0,0,0,,สัญญาณขาดหายไป เธอห่างออกไปแล้ว
+Dialogue: 0,1:14:12.49,1:14:13.78,Default,,0,0,0,,ต้องการให้ไล่ตามเธอไปรึเปล่า ?
+Dialogue: 0,1:14:13.90,1:14:15.36,Default,,0,0,0,,ไม่ต้อง สายไปแล้ว
+Dialogue: 0,1:14:15.66,1:14:19.83,Default,,0,0,0,,พาตัวเดลต้ามาหาฉันเป็นๆ อย่าเพิ่งฆ่ามัน ฉันกำลังจะไปถึงแล้ว
+Dialogue: 0,1:14:19.95,1:14:21.04,Default,,0,0,0,,รับทราบ
+Dialogue: 0,1:14:59.66,1:15:01.58,Default,,0,0,0,,แกนี่มันน่าประทับใจจัง
+Dialogue: 0,1:15:02.66,1:15:07.00,Default,,0,0,0,,แกจะต้องเสียใจที่ไม่ฆ่าฉัน
+Dialogue: 0,1:15:08.04,1:15:14.09,Default,,0,0,0,,น่ากลัวจัง! แต่เสียใจด้วย พวกเรามีคำถามสำคัญที่อยากจะถามแก
+Dialogue: 0,1:15:28.52,1:15:30.86,Default,,0,0,0,,เธอน่าจะเป็นแขกคนสำคัญของเรานะ
+Dialogue: 0,1:15:30.94,1:15:33.23,Default,,0,0,0,,แต่ความอดทนพวกเราน่ะมีขีดจำกัด
+Dialogue: 0,1:15:34.28,1:15:36.24,Default,,0,0,0,,แขกคนสำคัญเหรอคะ ?
+Dialogue: 0,1:15:37.11,1:15:38.70,Default,,0,0,0,,คุณพยายามจะฆ่าฉันค่ะ!
+Dialogue: 0,1:15:39.28,1:15:41.91,Default,,0,0,0,,นั่นเพราะว่าเธอทำงานกับพวกกลุ่มโจร
+Dialogue: 0,1:15:42.08,1:15:43.54,Default,,0,0,0,,นั่นคือส่วนหนึ่งของการสืบสวนค่ะ
+Dialogue: 0,1:15:44.62,1:15:48.42,Default,,0,0,0,,นี่มันประเทศของพวกผม ทำไมถึงไม่ยอมเข้าใจซะที
+Dialogue: 0,1:15:49.12,1:15:50.92,Default,,0,0,0,,เธอจะถูกจำคุก
+Dialogue: 0,1:15:51.33,1:15:55.34,Default,,0,0,0,,และถูกส่งกลับญี่ปุ่นทันทีในเที่ยวบินถัดไป
+Dialogue: 0,1:16:02.26,1:16:06.81,Default,,0,0,0,,ผู้พัน ตัดสินใจโดยพลการแบบนี้ก็แย่สิ
+Dialogue: 0,1:16:07.48,1:16:08.77,Default,,0,0,0,,ท่านประธาน!
+Dialogue: 0,1:16:09.94,1:16:13.11,Default,,0,0,0,,ไม่จำเป็นต้องส่งเธอกลับ
+Dialogue: 0,1:16:13.23,1:16:16.44,Default,,0,0,0,,แค่ส่งเธอกลับไปที่พักและจับตาดูเธอไว้ก็พอ
+Dialogue: 0,1:16:16.57,1:16:17.36,Default,,0,0,0,,แต่ว่า!
+Dialogue: 0,1:16:17.44,1:16:18.61,Default,,0,0,0,,เงียบซะ!
+Dialogue: 0,1:16:20.11,1:16:20.95,Default,,0,0,0,,มันไม่ใช่ว่า
+Dialogue: 0,1:16:21.07,1:16:25.79,Default,,0,0,0,,ฉันไม่มีปัญหากับพฤติกรรมที่ผ่านมาของทหารรักษาการณ์หรอกนะ
+Dialogue: 0,1:16:25.87,1:16:29.00,Default,,0,0,0,,นอกจากนี้ ฉันยังเป็นผู้บังคับบัญชาด้วย
+Dialogue: 0,1:16:31.63,1:16:32.88,Default,,0,0,0,,ครับ
+Dialogue: 0,1:16:40.30,1:16:41.80,Default,,0,0,0,,เอาล่ะ...
+Dialogue: 0,1:18:00.46,1:18:02.55,Default,,0,0,0,,ขอโทษด้วยค่ะ ท่านซึเนโมริ
+Dialogue: 0,1:18:02.72,1:18:04.51,Default,,0,0,0,,ดิฉันเห็นคุณกลับห้องมาแล้ว
+Dialogue: 0,1:18:04.59,1:18:06.89,Default,,0,0,0,,เลยมาเตรียมอาหารให้ค่ะ
+Dialogue: 0,1:18:08.60,1:18:10.22,Default,,0,0,0,,คุณโยขอบคุณค่ะ
+Dialogue: 0,1:18:10.72,1:18:12.73,Default,,0,0,0,,เดี๋ยวฉันอาบน้ำเสร็จจะไปทานนะคะ
+Dialogue: 0,1:18:13.19,1:18:15.90,Default,,0,0,0,,ค่ะ ได้แน่นอนค่ะ
+Dialogue: 0,1:18:20.11,1:18:21.61,Default,,0,0,0,,หือ? อากาเนะจัง
+Dialogue: 0,1:18:22.44,1:18:23.95,Default,,0,0,0,,ขอโทษด้วยค่ะ คุณชิอง
+Dialogue: 0,1:18:24.07,1:18:25.11,Default,,0,0,0,,ได้ยินรึเปล่าคะ ?
+Dialogue: 0,1:18:25.24,1:18:27.12,Default,,0,0,0,,ใช่ ชัดแจ๋วเลยล่ะ
+Dialogue: 0,1:18:27.24,1:18:30.29,Default,,0,0,0,,ดูเหมือนโปรแกรมที่ให้ไปจะทำงานได้ดีนะ
+Dialogue: 0,1:18:30.41,1:18:32.12,Default,,0,0,0,,มีอะไรว่ามาเลย
+Dialogue: 0,1:18:32.54,1:18:34.75,Default,,0,0,0,,สามารถ
+Dialogue: 0,1:18:34.92,1:18:36.50,Default,,0,0,0,,ตรวจสอบอุปกรณ์ที่วัดค่าไซโคพาส
+Dialogue: 0,1:18:36.58,1:18:40.55,Default,,0,0,0,,ในเกาะชัมบาล่าจากหน่วยงานฯ อย่างลับๆ ได้มั้ยคะ ?
+Dialogue: 0,1:18:40.67,1:18:41.55,Default,,0,0,0,,แน่นอน
+Dialogue: 0,1:18:41.63,1:18:45.05,Default,,0,0,0,,ฉันคิดว่าถ้าใช้หุ่นยนต์แมลงมันจะต้องไปได้ด้วยดีแน่ๆ
+Dialogue: 0,1:18:45.18,1:18:46.80,Default,,0,0,0,,หวังไว้ว่าจะเจออะไรล่ะ ?
+Dialogue: 0,1:18:46.93,1:18:48.35,Default,,0,0,0,,ทางนู้น
+Dialogue: 0,1:18:48.43,1:18:50.93,Default,,0,0,0,,ก็กำลังใช้งานระบบซิบิลอยู่ไม่ใช่เหรอ
+Dialogue: 0,1:18:51.06,1:18:52.35,Default,,0,0,0,,มันเป็นไปได้ว่า
+Dialogue: 0,1:18:52.43,1:18:55.35,Default,,0,0,0,,ระบบจะถูกใช้อย่างไม่เป็นธรรมค่ะ
+Dialogue: 0,1:18:55.44,1:18:56.48,Default,,0,0,0,,ในเขตหวงห้าม
+Dialogue: 0,1:18:56.60,1:19:00.27,Default,,0,0,0,,โดยเฉพาะพวกพวกทหารรักษาการณ์ ที่อยู่แถวนั้น ช่วยตรวจสอบให้ด้วยค่ะ
+Dialogue: 0,1:19:00.40,1:19:03.74,Default,,0,0,0,,ไซแมนติกสแกนกำลังทำงานถูกต้องจริงรึเปล่านั้น
+Dialogue: 0,1:19:03.82,1:19:05.95,Default,,0,0,0,,อยากให้ตรวจสอบให้เร็วที่สุดค่ะ
+Dialogue: 0,1:19:07.45,1:19:09.95,Default,,0,0,0,,สัญชาตญาณของนักสืบงั้นสินะ
+Dialogue: 0,1:19:10.87,1:19:15.29,Default,,0,0,0,,ไม่ใช่แบบนั้นหรอกค่ะ เป็นข้อสรุปที่ได้มาหลังจากพบความจริงค่ะ
+Dialogue: 0,1:19:17.75,1:19:20.96,Default,,0,0,0,,เข้าใจล่ะ เดี๋ยวเจ๊จัดให้
 Dialogue: 0,1:19:21.13,1:19:22.92,Default,,0,0,0,,Oh, and one more thing.
 Dialogue: 0,1:19:23.05,1:19:27.13,Default,,0,0,0,,The collars being used to manage Latent Criminals on Shamballa Float
 Dialogue: 0,1:19:27.30,1:19:29.68,Default,,0,0,0,,are made in Japan, right?
