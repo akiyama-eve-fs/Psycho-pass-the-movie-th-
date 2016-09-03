@@ -15,9 +15,9 @@ Video File: ../[Raws] The Movie PSYCHO-PASS (Test size).mp4
 Video AR Mode: 4
 Video AR Value: 1.800000
 Video Zoom Percent: 0.375000
-Scroll Position: 1201
-Active Line: 1207
-Video Position: 116333
+Scroll Position: 706
+Active Line: 724
+Video Position: 71713
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -638,7 +638,7 @@ Dialogue: 0,0:56:23.25,0:56:25.71,Default,,0,0,0,,เราก็ไม่รู
 Dialogue: 0,0:56:29.76,0:56:33.93,Default,,0,0,0,,ก็ต้องขอบคุณซิบิล เรามีสวรรค์ที่เรียกว่า ชัมบาล่า
 Dialogue: 0,0:56:34.01,0:56:38.18,Default,,0,0,0,,จะมาเป็นพลเมืองของที่นี่ก็ได้ ถ้าคุณต้องการ
 Dialogue: 0,0:56:39.23,0:56:43.35,Default,,0,0,0,,แล้วนายกะจะเล่นบทโหดบนเกาะเล็กๆ นั้นอีกนานแค่ไหน ?
-Dialogue: 0,0:56:43.44,0:56:45.48,Default,,0,0,0,,ก็แล้วแต่คน
+Dialogue: 0,0:56:43.44,0:56:45.48,Default,,0,0,0,,ในแต่ละคนแต่คน
 Dialogue: 0,0:56:45.61,0:56:51.07,Default,,0,0,0,,ความรุนแรงนั้นชำระล้างสารพิษ ลบปมด้อยออกไป
 Dialogue: 0,0:56:51.20,0:56:56.16,Default,,0,0,0,,และเปลี่ยนแปลงทัศนคติที่สิ้นหวังและลึกซึ้งของคนพื้นเมืองเหล่านั้น
 Dialogue: 0,0:56:57.24,0:56:58.79,Default,,0,0,0,,ความรุนแรงทำให้คนพวกนั้นไร้ซึ่งความกลัว
@@ -750,7 +750,7 @@ Dialogue: 0,1:05:02.27,1:05:04.94,Default,,0,0,0,,พวกนั้นคงจ
 Dialogue: 0,1:06:11.84,1:06:14.47,Default,,0,0,0,,เฮ้ มันเลยเวลาแล้วนะ
 Dialogue: 0,1:06:15.30,1:06:16.47,Default,,0,0,0,,ทุกอย่างเรียบร้อย
 Dialogue: 0,1:06:22.35,1:06:23.56,Default,,0,0,0,,เคลื่อนพลได้
-Dialogue: 0,1:06:24.02,1:06:26.02,Default,,0,0,0,,รับทราบ รับทราบ
+Dialogue: 0,1:06:24.02,1:06:26.02,Default,,0,0,0,,- รับทราบ\N - รับทราบ
 Dialogue: 0,1:07:10.56,1:07:12.65,Default,,0,0,0,,ผู้ก่อการร้ายที่มาที่ญี่ปุ่น
 Dialogue: 0,1:07:12.78,1:07:15.44,Default,,0,0,0,,มีหนังสือแปลกๆ มากับตัวด้วยค่ะ
 Dialogue: 0,1:07:15.90,1:07:19.37,Default,,0,0,0,,หนังสือของพรูสท์เรื่อง In Search of Lost Time
